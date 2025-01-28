@@ -16,8 +16,28 @@ justification.
 - Murray Rothbard: No State Is Justified
 - Jürgen Habermas and Communicative Competence
 - State Authority in the New Natural Law Tradition
-
-
-Who else? Jon Elster? Ronald Dworkin? Bernard Crick?
-
-
+- Ronald Dworkin's Rights Theory and the State
+- Jon Elster's Methodological Individualism and the State
+- Bernard Crick's Theory of the State
+- Joseph Raz’s Service Conception and the Normal Justification Theories of the State
+- H.L.A. Hart's Rule of Recognition Thesis and the State
+- Jonathan Wolff's Universal Political Obligations Theory of the State
+- Robert Paul Wolff's Autonomy Thesis of Anarchism
+- Alasdair MacIntyre's Internal Goods and Goods of Excellence Defense of the State
+- David Schmidtz's Public Goods Theory of the State
+- Louis Althusser's Marxist Critique of the State
+- Jacques Ellul On the Irreconcilability of True Freedom and Social Justice
+- Michel Foucault On Power Relations and Governmentalities Theses of the State
+- A. John Simmons On Justifying the State
+- Isaiah Berlin on Negative and Positive Liberty
+- Charles Taylor's Communitarian Political Theory
+- G.A. Cohen on the State
+- Martha Nussbaum's Capabilities Theory as a Theory of the state
+- Murray Bookchin On Libertarian Municipalism and the State
+- Frantz Fanon On the Illegitimacy of Oppressive States
+- Michael Walzer On the state
+- Will Kymlicka On the State and Multicultural Citizenship
+- Philip Pettit On the Functionality Claim for the State
+- Noam Chomsky and the Critique of State Power
+- Christopher Heath Wellman on the State
+  
