@@ -41,4 +41,8 @@ justification.
 - Noam Chomsky and the Critique of State Power
 - Christopher Heath Wellman on the State
 - Giovanni Gentile and the State as an Idea for Overcoming Individualism and Collectivism
+- Catherine MacKinnon's Feminist Theory of the State
+- Judith Butler's Discourse on the State
+- Kwame Anthony Appiah on Identity, the Nation, and the State
+- Hannah Arendt on the State and a Just and Free Political Order
   
