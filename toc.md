@@ -45,5 +45,6 @@ justification.
 - Catherine MacKinnon's Feminist Theory of the State
 - Judith Butler's Discourse on the State
 - Kwame Anthony Appiah on Identity, the Nation, and the State
+- Gerald Gaus, Kevin Valier, University of Toledo
 
   
