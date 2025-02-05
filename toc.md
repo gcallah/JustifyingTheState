@@ -16,7 +16,7 @@ justification.
 - Hannah Arendt on the State and a Just and Free Political Order
 - John Rawls and the Original Position (Jason Ferrell, Concordia University)
 - Robert Nozick: Only the Minimal State Is Justified (Graeme Garrard, Cardiff University)
-- Murray Rothbard: No State Is Justified
+- Murray Rothbard: No State Is Justified (Billy Christmas, West Virginia University)
 - Jürgen Habermas and Communicative Competence
 - State Authority in the New Natural Law Tradition
 - Ronald Dworkin's Rights Theory and the State
