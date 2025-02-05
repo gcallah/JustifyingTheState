@@ -9,13 +9,13 @@ justification.
 (All chapter titles are provisional!)
 
 - Bernard Bosanquet's Philosophical Theory of the State
-- Giovanni Gentile: The State as an Idea for Overcoming Individualism and Collectivism, Spartaco Pupo, University of Calabria 
+- Giovanni Gentile: The State as an Idea for Overcoming Individualism and Collectivism (Spartaco Pupo, University of Calabria)
 - Isaiah Berlin on Negative and Positive Liberty
-- Michael Oakeshott on Authority, W. John Coats, Connecticut College
+- Michael Oakeshott on Authority (W. John Coats, Connecticut College)
 - Eric Voegelin's Theory of Representation
 - Hannah Arendt on the State and a Just and Free Political Order
-- John Rawls and the Original Position
-- Robert Nozick: Only the Minimal State Is Justified, Graeme Garrard, Cardiff University
+- John Rawls and the Original Position (Jason Ferrell, Concordia University)
+- Robert Nozick: Only the Minimal State Is Justified (Graeme Garrard, Cardiff University)
 - Murray Rothbard: No State Is Justified
 - Jürgen Habermas and Communicative Competence
 - State Authority in the New Natural Law Tradition
@@ -30,7 +30,7 @@ justification.
 - David Schmidtz's Public Goods Theory of the State
 - Louis Althusser's Marxist Critique of the State
 - Jacques Ellul On the Irreconcilability of True Freedom and Social Justice
-- Michel Foucault On Power Relations and Governmentalities Theses of the State
+- Michel Foucault On Power Relations and Governmentalities Theses of the State (Otto Lehto, New York Univerty)
 - A. John Simmons On Justifying the State
 - Charles Taylor's Communitarian Political Theory
 - G.A. Cohen on the State
@@ -45,6 +45,7 @@ justification.
 - Catherine MacKinnon's Feminist Theory of the State
 - Judith Butler's Discourse on the State
 - Kwame Anthony Appiah on Identity, the Nation, and the State
-- Gerald Gaus, Kevin Valier, University of Toledo
+- Gerald Gaus (Kevin Valier, University of Toledo)
+- James Buchanan on the Limits of Liberty (Alexander Craig, Saint Mary's College) 
 
   
