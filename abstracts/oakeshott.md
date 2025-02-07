@@ -1,9 +1,11 @@
- "Michael Oakeshott and the Authority of the Modern State"
+# Michael Oakeshott and the Authority of the Modern State
+
 It is a strange time when both the Marxist-Leninist Left and  corporatist, globalist elites push for an end to national borders, albeit for different reasons. (Recall Hilary Clinton's 2008
 vision to the Argentine bankers of a single country from Canada to South America--"no borders, no countries".) From the corporatist view of the state as a "holding company" for international
 factors of production to the Marxist-Leninist "withering away" of the state, the modern state
 is under attack at a conceptual level. Is it still the best mixture of order and freedom available
 to us?
+
 In his LSE lectures on the history of Western political thought, Oakeshott argued that the
 modern state (insofar as its varieties were uniform enough to characterize) was a product of
 near-constant war preparation, war making and war termination, and then describes a conception of association and authority the most likely to preserve a modicum of individual
