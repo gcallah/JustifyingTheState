@@ -21,8 +21,8 @@ adage.
 I will argue that as long as that the adage is true, it makes little sense for liberty-
 lovers to ponder whether a government-free or anarchic society would be desirable.
 I will suggest that the adage was true Hume’s day, is true in our day, will be true
-500 years from today (assuming humankind exists). The proper aim of classical liberals
-is in the spirit of Hume, Smith, and Burke, to make government better (which will
-generally mean making it smaller). I would deal with Hume, Smith, and Burke, to mine
-their writings for their attitude toward the notion of justifying the existence of
-government.
+500 years from today (assuming humankind exists). For classical liberals such as
+myself, the proper aim is in the spirit of Hume, Smith, and Burke, to make government
+better (which will generally mean making it smaller). I would deal with Hume, Smith, and
+Burke, to mine their writings for their attitude toward the notion of justifying the existence
+of government.
