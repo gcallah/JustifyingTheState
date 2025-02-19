@@ -18,12 +18,13 @@ justification.
 - Robert Nozick: Only the Minimal State Is Justified (Graeme Garrard, Cardiff University)
 - Murray Rothbard: No State Is Justified (Billy Christmas, West Virginia University)
 - Jürgen Habermas and Communicative Competence
-- State Authority in the New Natural Law Tradition
+- John Finnis and the Natural Law Theory of Authority 
 - Ronald Dworkin's Rights Theory and the State
 - Jon Elster's Methodological Individualism and the State
 - Bernard Crick's Theory of the State
 - Joseph Raz’s Service Conception and the Normal Justification Theories of the State
 - H.L.A. Hart's Rule of Recognition Thesis and the State
+- Jacques Maritain on the Theory of the State
 - Jonathan Wolff's Universal Political Obligations Theory of the State
 - Robert Paul Wolff's Autonomy Thesis of Anarchism
 - Alasdair MacIntyre's Internal Goods and Goods of Excellence Defense of the State
@@ -45,7 +46,9 @@ justification.
 - Catherine MacKinnon's Feminist Theory of the State
 - Judith Butler's Discourse on the State
 - Kwame Anthony Appiah on Identity, the Nation, and the State
+- Yves Simon and the General Theory of Authority 
 - Gerald Gaus (Kevin Valier, University of Toledo)
-- James Buchanan on the Limits of Liberty (Alexander Craig, Saint Mary's College) 
+- James Buchanan on the Limits of Liberty (Alexander Craig, Saint Mary's College)
+- Jonathan Crowe and the Natural Law Tradition Theory of the State
 
   
