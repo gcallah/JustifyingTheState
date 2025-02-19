@@ -20,6 +20,7 @@ justification.
 - Jürgen Habermas and Communicative Competence
 - John Finnis and the Natural Law Theory of Authority 
 - Ronald Dworkin's Rights Theory and the State
+- Jeremy Waldron on the State
 - Jon Elster's Methodological Individualism and the State
 - Bernard Crick's Theory of the State
 - Joseph Raz’s Service Conception and the Normal Justification Theories of the State
