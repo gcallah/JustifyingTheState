@@ -28,13 +28,11 @@ Leye Komolafe (University of South Carolina): komolafe@email.sc.edu, leyekomolaf
 
 For further inquiries, please contact the editors directly. 
 
-
 ![image](https://github.com/user-attachments/assets/ea5d5be8-991c-4dc2-a5ba-8364cc55ea06)
 
 ## Table of Contents
 
 (All chapter titles are provisional!) Authors are welcome to propose alternative topics, provided they fall within the thematic scope of the project. Kindly note that the topics with affiliated authors have been assigned. 
-
 
 - Bernard Bosanquet's Philosophical Theory of the State
 - Giovanni Gentile: The State as an Idea for Overcoming Individualism and Collectivism (Spartaco Pupo, University of Calabria)
@@ -79,5 +77,3 @@ For further inquiries, please contact the editors directly.
 - Gerald Gaus (Kevin Valier, University of Toledo)
 - James Buchanan on the Limits of Liberty (Alexander Craig, Saint Mary's College)
 - Jonathan Crowe and the Natural Law Tradition Theory of the State
-
-  
