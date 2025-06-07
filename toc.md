@@ -58,7 +58,7 @@ For further inquiries, please contact the editors directly.
 - H.L.A. Hart's Rule of Recognition Thesis and the State
 - Jacques Maritain on the Theory of the State
 - Jonathan Wolff's Universal Political Obligations Theory of the State
-- Robert Paul Wolff's Autonomy Thesis of Anarchism
+- Robert Paul Wolff's Autonomy Thesis of Anarchism (Steve Coyne, University of Toronto)
 - Alasdair MacIntyre's Internal Goods and Goods of Excellence Defense of the State
 - David Schmidtz's Public Goods Theory of the State
 - Louis Althusser's Marxist Critique of the State
@@ -82,3 +82,11 @@ For further inquiries, please contact the editors directly.
 - Gerald Gaus (Kevin Valier, University of Toledo)
 - James Buchanan on the Limits of Liberty (Alexander Craig, Saint Mary's College)
 - Jonathan Crowe and the Natural Law Tradition Theory of the State
+- The State as a Primary Good (Thaddeus Metz, University of Pretoria)
+- David Miller on Migration and the Legitimacy of the State (Christina Straehle, University of Hamburg)
+- Hayekian Epistemology and the Problem of State Legitimacy: Why Monopolies and Poor Incentives Weaken Legitimacy (Jimmy Alfonso Licon, Arizona State University)
+- Is State Nudging Justifiable for Environmental Objectives? (Sukanya Shukla, Dublin City University)
+- Re-thinking Legitimacy within Contract Theory: Political Obligation in a Perception-based, Dynamic Rawlsian Framework (Mert Atalay)
+- Jürgen Habermas on Justifying the State through Communicative Rationality (Oris Kondwani Chimphambano, University of Malawi)
+- (Un)Justifying the State. From Terrorism to Democracy, and Vice Versa (Antonio Iannone)
+- 
