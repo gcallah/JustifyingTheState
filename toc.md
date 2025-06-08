@@ -1,46 +1,21 @@
 # Justifying the State
 
-Justifying the State (Palgrave Macmillan): Edited by Gene Callahan and Leye Komolafe
-
-Introduction
-
-Political obligation remains one of the most discussed, and contested, topics in political philosophy. Whether there is
-a peremptory or prima facie duty to obey the state has been the subject of rigorous philosophical debate, with
-philosophers offering various theories both in support of and against political obligation. 
- 
-Plato, for instance, grounded political obligation in citizenship. His argument can be interpreted to mean that
-individuals, by virtue of being citizens, are obligated to obey the state. The discourse on political obligation has,
-however, evolved over time, as theological, teleological, deontological, voluntarist, and associative theories, among
-others, have been further developed. 
- 
-Many theorists argue that if individuals are obligated to obey the state, then the state must possess legitimate
-authority. Defending such authority requires that the state itself be justified. Thus, a foundational question in the
-debate on political obligation is whether the state can, in fact, be justified. Philosophical anarchists challenge this
-premise, arguing that the state cannot be justified, and therefore cannot claim a moral right to demand obedience. 
-
-The central question, then, remains: Can the state be justified? 
-
-What grounds, if any, can be offered for the authority of the state, and citizens' duty to obey its laws? We will
-explore various recent attempts to justify state authority, as well as some efforts to claim that there is no
-justification.
-
-This edited volume invites contributions from researchers engaging with contemporary discussions on this question,
-focusing on developments from the 20th century to the present. The scope of the book is limited to the Western
-philosophical tradition. 
+Edited by Gene Callahan and Leye Komolafe
 
 
 ## Table of Contents
 
-(All chapter titles are provisional!) Authors are welcome to propose alternative topics, provided they fall within the thematic scope of the project. Kindly note that the topics with affiliated authors have been assigned. 
+(All chapter titles are provisional!) Authors are welcome to propose alternative topics, provided they fall within the
+thematic scope of the project. Please note that the topics affiliated with authors have been assigned. 
 
-- Bernard Bosanquet's Philosophical Theory of the State
+- Bernard Bosanquet's Philosophical Theory of the State (Gene Callahan, New York University)
 - Giovanni Gentile: The State as an Idea for Overcoming Individualism and Collectivism (Spartaco Pupo, University of Calabria)
 - Isaiah Berlin on Negative and Positive Liberty
 - Michael Oakeshott on Authority (W. John Coats, Connecticut College)
 - Eric Voegelin's Theory of Representation
 - Hannah Arendt on the State and a Just and Free Political Order
 - John Rawls and the Original Position (Jason Ferrell, Concordia University)
-- Robert Nozick: Only the Minimal State Is Justified (Graeme Garrard, Cardiff University)
+- Robert Nozick: Is Only the Minimal State Justified? (Graeme Garrard, Cardiff University)
 - Murray Rothbard: No State Is Justified (Billy Christmas, West Virginia University)
 - Jürgen Habermas and Communicative Competence
 - John Finnis and the Natural Law Theory of Authority 
@@ -62,11 +37,11 @@ philosophical tradition.
 - Charles Taylor's Communitarian Political Theory
 - G.A. Cohen on the State
 - Martha Nussbaum's Capabilities Theory as a Theory of the state
-- Murray Bookchin On Libertarian Municipalism and the State
-- Frantz Fanon On the Illegitimacy of Oppressive States
-- Michael Walzer On the state
-- Will Kymlicka On the State and Multicultural Citizenship
-- Philip Pettit On the Functionality Claim for the State
+- Murray Bookchin on Libertarian Municipalism and the State
+- Frantz Fanon on the Illegitimacy of Oppressive States
+- Michael Walzer on the state
+- Will Kymlicka on the State and Multicultural Citizenship
+- Philip Pettit on the Functionality Claim for the State
 - Noam Chomsky and the Critique of State Power
 - Christopher Heath Wellman on the State
 - Catherine MacKinnon's Feminist Theory of the State
@@ -83,4 +58,4 @@ philosophical tradition.
 - Re-thinking Legitimacy within Contract Theory: Political Obligation in a Perception-based, Dynamic Rawlsian Framework (Mert Atalay)
 - Jürgen Habermas on Justifying the State through Communicative Rationality (Oris Kondwani Chimphambano, University of Malawi)
 - (Un)Justifying the State. From Terrorism to Democracy, and Vice Versa (Antonio Iannone)
-- 
+- Do We Need to Justify the State at All? (Daniel Klein, George Mason University)
