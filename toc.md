@@ -20,7 +20,7 @@ within the thematic scope of the project.
 - Robert Nozick: Is Only the Minimal State Justified? Graeme Garrard, Cardiff University
 - Gerald Gaus, Kevin Valier, University of Toledo
 - Robert Paul Wolff's Autonomy Thesis of Anarchism, Steve Coyne, University of Toronto
-- Michel Foucault on Power Relations and Governmentalities Theses of the State, Otto Lehto, New York Univerty
+- [Michel Foucault on Power Relations and Governmentalities](abstracts/focault.md), Otto Lehto, New York Univerty
 - James Buchanan on the Limits of Liberty, Alexander Craig, Saint Mary's College
 - The State as a Primary Good, Thaddeus Metz, University of Pretoria
 - David Miller on Migration and the Legitimacy of the State, Christina Straehle, University of Hamburg

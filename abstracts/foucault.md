@@ -1,4 +1,4 @@
-# “Michel Foucault on Power Relations and Governmentalities” (working title)
+# Michel Foucault on Power Relations and Governmentalities
 
 **Keywords**: Foucault, power, governmentality, discipline, biopolitics
 
