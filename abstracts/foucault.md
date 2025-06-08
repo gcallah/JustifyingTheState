@@ -1,5 +1,7 @@
 # Michel Foucault on Power Relations and Governmentalities
 
+Otto Lehto
+
 **Keywords**: Foucault, power, governmentality, discipline, biopolitics
 
 Foucault saw power as dispersed across the whole society and deeply entangled in diverse
@@ -14,8 +16,8 @@ and overtakes the state apparatus. To illustrate how these Foucauldian insights 
 power - the power of the state - this chapter offers a short summary of pastoral power,
 disciplinary power, and biopower. Sovereign state power can utilize and constitute any of
 these diverse types, or styles, of power. Foucault thus offers avenues for thinking of power
-as the historical product of the transformations of “épistémès” - constellations of power-knowledge
-that have changed, and will change further, over time. Although normatively ambiguous, Foucault’s
+as the historical product of the transformations of "épistémès" - constellations of power-knowledge
+that have changed, and will change further, over time. Although normatively ambiguous, Foucault's
 writings - whether on madness, criminality, sexuality, neoliberalism, or the Iranian revolution - 
 contain an implicit commitment to discovering new, creative, and emancipatory ways of relating
 to ourselves and to society. State authority, too, can be assessed and critiqued, if not exactly
