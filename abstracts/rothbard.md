@@ -1,5 +1,7 @@
 # Murray Rothbard's Case for Anarchy
 
+Billy Christmas
+
 Murray Rothbard’s philosophical arguments have had a significant influence on the American libertarian movement.
 He synthesized elements of both Kantian and Lockean natural law theory.
 The most unorthodox aspect of his theory of natural rights was that they made a
