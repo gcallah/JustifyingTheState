@@ -5,34 +5,51 @@ Edited by Gene Callahan and Leye Komolafe
 
 ## Table of Contents
 
-(All chapter titles are provisional!) Authors are welcome to propose alternative topics, provided they fall within the
-thematic scope of the project. Please note that the topics affiliated with authors have been assigned. 
+All potential chapter titles are provisional!
+
+Authors are welcome to propose alternative topics, provided they fall
+within the thematic scope of the project.
+
+### Assigned Chapters:
 
 - Bernard Bosanquet's Philosophical Theory of the State, Gene Callahan, New York University
 - Giovanni Gentile: The State as an Idea for Overcoming Individualism and Collectivism, Spartaco Pupo, University of Calabria
-- Isaiah Berlin on Negative and Positive Liberty
 - [Michael Oakeshott on Authority](abstracts/oakeshott.md), W. John Coats, Connecticut College
-- Eric Voegelin's Theory of Representation
-- Hannah Arendt on the State and a Just and Free Political Order
 - [Murray Rothbard's Case for Anarchy](abstracts/rothbard.md), Billy Christmas, West Virginia University
 - John Rawls and the Original Position, Jason Ferrell, Concordia University
 - Robert Nozick: Is Only the Minimal State Justified? Graeme Garrard, Cardiff University
+- Gerald Gaus, Kevin Valier, University of Toledo
+- Robert Paul Wolff's Autonomy Thesis of Anarchism, Steve Coyne, University of Toronto
+- Michel Foucault on Power Relations and Governmentalities Theses of the State, Otto Lehto, New York Univerty
+- James Buchanan on the Limits of Liberty, Alexander Craig, Saint Mary's College
+- The State as a Primary Good, Thaddeus Metz, University of Pretoria
+- David Miller on Migration and the Legitimacy of the State, Christina Straehle, University of Hamburg
+- Hayekian Epistemology and the Problem of State Legitimacy: Why Monopolies and Poor Incentives Weaken Legitimacy, Jimmy Alfonso Licon, Arizona State University
+- Is State Nudging Justifiable for Environmental Objectives?, Sukanya Shukla, Dublin City University
+- Re-thinking Legitimacy within Contract Theory: Political Obligation in a Perception-based, Dynamic Rawlsian Framework, Mert Atalay
+- Jürgen Habermas on Justifying the State through Communicative Rationality, Oris Kondwani Chimphambano, University of Malawi
+- (Un)Justifying the State. From Terrorism to Democracy, and Vice Versa, Antonio Iannone
+- [Is Justification of the Existence of Government a Useful Question?](abstracts/coda.md), Daniel Klein, George Mason University
+
+### Potential Chapters:
+
+- Hannah Arendt on the State and a Just and Free Political Order
+- Isaiah Berlin on Negative and Positive Liberty
+- Eric Voegelin's Theory of Representation
 - Jürgen Habermas and Communicative Competence
+- Bernard Crick's Theory of the State
 - John Finnis and the Natural Law Theory of Authority 
 - Ronald Dworkin's Rights Theory and the State
 - Jeremy Waldron on the State
 - Jon Elster's Methodological Individualism and the State
-- Bernard Crick's Theory of the State
 - Joseph Raz’s Service Conception and the Normal Justification Theories of the State
 - H.L.A. Hart's Rule of Recognition Thesis and the State
 - Jacques Maritain on the Theory of the State
 - Jonathan Wolff's Universal Political Obligations Theory of the State
-- Robert Paul Wolff's Autonomy Thesis of Anarchism (Steve Coyne, University of Toronto)
 - Alasdair MacIntyre's Internal Goods and Goods of Excellence Defense of the State
 - David Schmidtz's Public Goods Theory of the State
 - Louis Althusser's Marxist Critique of the State
 - Jacques Ellul On the Irreconcilability of True Freedom and Social Justice
-- Michel Foucault On Power Relations and Governmentalities Theses of the State (Otto Lehto, New York Univerty)
 - A. John Simmons On Justifying the State
 - Charles Taylor's Communitarian Political Theory
 - G.A. Cohen on the State
@@ -48,14 +65,4 @@ thematic scope of the project. Please note that the topics affiliated with autho
 - Judith Butler's Discourse on the State
 - Kwame Anthony Appiah on Identity, the Nation, and the State
 - Yves Simon and the General Theory of Authority 
-- Gerald Gaus (Kevin Valier, University of Toledo)
-- James Buchanan on the Limits of Liberty (Alexander Craig, Saint Mary's College)
 - Jonathan Crowe and the Natural Law Tradition Theory of the State
-- The State as a Primary Good (Thaddeus Metz, University of Pretoria)
-- David Miller on Migration and the Legitimacy of the State (Christina Straehle, University of Hamburg)
-- Hayekian Epistemology and the Problem of State Legitimacy: Why Monopolies and Poor Incentives Weaken Legitimacy (Jimmy Alfonso Licon, Arizona State University)
-- Is State Nudging Justifiable for Environmental Objectives? (Sukanya Shukla, Dublin City University)
-- Re-thinking Legitimacy within Contract Theory: Political Obligation in a Perception-based, Dynamic Rawlsian Framework (Mert Atalay)
-- Jürgen Habermas on Justifying the State through Communicative Rationality (Oris Kondwani Chimphambano, University of Malawi)
-- (Un)Justifying the State. From Terrorism to Democracy, and Vice Versa (Antonio Iannone)
-- Do We Need to Justify the State at All? (Daniel Klein, George Mason University)

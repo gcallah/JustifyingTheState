@@ -1,7 +1,6 @@
-Is Justification of the Existence of Government a Useful
-Question?
+Is Justification of the Existence of Government a Useful Question?
 
-By Daniel B. Klein
+Daniel B. Klein
 
 To contemplate justification for the existence of something is to contemplate
 whether a human aim's either to bring that thing into original existence or to annihilate
@@ -18,6 +17,7 @@ of Hume’s liberal adage: “liberty is the perfection of civil society; but st
 be acknowledged essential to its very existence.” It is apt to understand “authority” as
 government authority and hence government. I will explain what Hume meant by the
 adage.
+
 I will argue that as long as that the adage is true, it makes little sense for liberty-
 lovers to ponder whether a government-free or anarchic society would be desirable.
 I will suggest that the adage was true Hume’s day, is true in our day, will be true
