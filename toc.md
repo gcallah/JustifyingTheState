@@ -8,15 +8,15 @@ Edited by Gene Callahan and Leye Komolafe
 (All chapter titles are provisional!) Authors are welcome to propose alternative topics, provided they fall within the
 thematic scope of the project. Please note that the topics affiliated with authors have been assigned. 
 
-- Bernard Bosanquet's Philosophical Theory of the State (Gene Callahan, New York University)
-- Giovanni Gentile: The State as an Idea for Overcoming Individualism and Collectivism (Spartaco Pupo, University of Calabria)
+- Bernard Bosanquet's Philosophical Theory of the State, Gene Callahan, New York University
+- Giovanni Gentile: The State as an Idea for Overcoming Individualism and Collectivism, Spartaco Pupo, University of Calabria
 - Isaiah Berlin on Negative and Positive Liberty
-- Michael Oakeshott on Authority (W. John Coats, Connecticut College)
+- [Michael Oakeshott on Authority](abstracts/oakeshott.md), W. John Coats, Connecticut College
 - Eric Voegelin's Theory of Representation
 - Hannah Arendt on the State and a Just and Free Political Order
-- John Rawls and the Original Position (Jason Ferrell, Concordia University)
-- Robert Nozick: Is Only the Minimal State Justified? (Graeme Garrard, Cardiff University)
-- Murray Rothbard: No State Is Justified (Billy Christmas, West Virginia University)
+- [Murray Rothbard's Case for Anarchy](abstracts/rothbard.md), Billy Christmas, West Virginia University
+- John Rawls and the Original Position, Jason Ferrell, Concordia University
+- Robert Nozick: Is Only the Minimal State Justified? Graeme Garrard, Cardiff University
 - Jürgen Habermas and Communicative Competence
 - John Finnis and the Natural Law Theory of Authority 
 - Ronald Dworkin's Rights Theory and the State
