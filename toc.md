@@ -30,6 +30,7 @@ within the thematic scope of the project.
 - Jürgen Habermas on Justifying the State through Communicative Rationality, Oris Kondwani Chimphambano, University of Malawi
 - (Un)Justifying the State. From Terrorism to Democracy, and Vice Versa, Antonio Iannone
 - [Is Justification of the Existence of Government a Useful Question?](abstracts/coda.md), Daniel Klein, George Mason University
+- A. John Simmons On Justifying the State (Jeff Carroll, West Virginia University)
 
 ### Potential Chapters:
 
@@ -50,7 +51,6 @@ within the thematic scope of the project.
 - David Schmidtz's Public Goods Theory of the State
 - Louis Althusser's Marxist Critique of the State
 - Jacques Ellul On the Irreconcilability of True Freedom and Social Justice
-- A. John Simmons On Justifying the State
 - Charles Taylor's Communitarian Political Theory
 - G.A. Cohen on the State
 - Martha Nussbaum's Capabilities Theory as a Theory of the state
