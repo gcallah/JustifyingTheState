@@ -5,6 +5,7 @@ Daniel B. Klein
 To contemplate justification for the existence of something is to contemplate
 whether a human aim's either to bring that thing into original existence or to annihilate
 that thing as it exists is justified.
+
 If the something is government, then, either way, the action is farfetched and
 hard to imagine. To speculate on the consequences is jejune, because the whole matter
 is so far from our human experience and knowledge.
