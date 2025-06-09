@@ -1,4 +1,4 @@
-Is Justification of the Existence of Government a Useful Question?
+# Is Justification of the Existence of Government a Useful Question?
 
 Daniel B. Klein
 
