@@ -25,7 +25,7 @@ within the thematic scope of the project.
 - The State as a Primary Good, Thaddeus Metz, University of Pretoria
 - David Miller on Migration and the Legitimacy of the State, Christina Straehle, University of Hamburg
 - Jürgen Habermas on Justifying the State through Communicative Rationality, Oris Kondwani Chimphambano, University of Malawi
-- A. John Simmons On Justifying the State, Jeff Carroll, West Virginia University
+- [A. John Simmons On Justifying the State](abstracts/simmons.md), Jeff Carroll, West Virginia University
 - Michael Huemer's Case Against the State, David Pereplyotchik, Kent State University
 - [Coda: Is Justification of the Existence of Government a Useful Question?](abstracts/coda.md), Daniel Klein, George Mason University
 
