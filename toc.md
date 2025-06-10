@@ -29,8 +29,9 @@ within the thematic scope of the project.
 - Re-thinking Legitimacy within Contract Theory: Political Obligation in a Perception-based, Dynamic Rawlsian Framework, Mert Atalay
 - Jürgen Habermas on Justifying the State through Communicative Rationality, Oris Kondwani Chimphambano, University of Malawi
 - (Un)Justifying the State. From Terrorism to Democracy, and Vice Versa, Antonio Iannone
-- [Is Justification of the Existence of Government a Useful Question?](abstracts/coda.md), Daniel Klein, George Mason University
-- A. John Simmons On Justifying the State (Jeff Carroll, West Virginia University)
+- A. John Simmons On Justifying the State, Jeff Carroll, West Virginia University
+- Michael Huemer's Case Against the State, David Pereplyotchik, Kent State University
+- [Coda: Is Justification of the Existence of Government a Useful Question?](abstracts/coda.md), Daniel Klein, George Mason University
 
 ### Potential Chapters:
 
