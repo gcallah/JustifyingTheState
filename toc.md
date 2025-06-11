@@ -21,7 +21,7 @@ within the thematic scope of the project.
 - Gerald Gaus, Kevin Valier, University of Toledo
 - [Robert Paul Wolff's Autonomy Thesis of Anarchism](abstracts/wolff.md), Steve Coyne, University of Toronto
 - [Michel Foucault on Power Relations and Governmentalities](abstracts/focault.md), Otto Lehto, New York Univerty
-- James Buchanan on the Limits of Liberty, Alexander Craig, Saint Mary's College
+- [James Buchanan on the Limits of Liberty](buchanan.md), Alexander Craig, Saint Mary's College
 - The State as a Primary Good, Thaddeus Metz, University of Pretoria
 - David Miller on Migration and the Legitimacy of the State, Christina Straehle, University of Hamburg
 - [Jürgen Habermas on Justifying the State through Communicative Rationality](abstracts/habermas.md),
