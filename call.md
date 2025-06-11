@@ -2,7 +2,6 @@
 
 Submission Guidelines:
 
-- Proposed publication date: December 2026 
 - Deadline for abstract submission (approx. 150-300 words): July 15, 2025 
 - Submission deadline for drafts of accepted papers: November 15, 2025
 - Submission deadline for final essays of accepted papers: January 15, 2026
