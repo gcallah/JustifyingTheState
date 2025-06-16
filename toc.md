@@ -26,6 +26,7 @@ within the thematic scope of the project.
 - David Miller on Migration and the Legitimacy of the State, Christina Straehle, University of Hamburg
 - [Jürgen Habermas on Justifying the State through Communicative Rationality](abstracts/habermas.md),
 Oris Kondwani Chimphambano, University of Malawi
+- [A Razian Audit of State Authority](abstracts.raz.md), Karim Dharamsi, Mount Royal University
 - [A. John Simmons On Justifying the State](abstracts/simmons.md), Jeff Carroll, West Virginia University
 - Michael Huemer's Case Against the State, David Pereplyotchik, Kent State University
 - [Coda: Is Justification of the Existence of Government a Useful Question?](abstracts/coda.md), Daniel Klein, George Mason University
@@ -41,7 +42,6 @@ Oris Kondwani Chimphambano, University of Malawi
 - Ronald Dworkin's Rights Theory and the State
 - Jeremy Waldron on the State
 - Jon Elster's Methodological Individualism and the State
-- Joseph Raz’s Service Conception and the Normal Justification Theories of the State
 - H.L.A. Hart's Rule of Recognition Thesis and the State
 - Jacques Maritain on the Theory of the State
 - Jonathan Wolff's Universal Political Obligations Theory of the State
