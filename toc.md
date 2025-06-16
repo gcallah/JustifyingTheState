@@ -17,7 +17,7 @@ within the thematic scope of the project.
 - [Michael Oakeshott on Authority](abstracts/oakeshott.md), W. John Coats, Connecticut College
 - [Murray Rothbard's Case for Anarchy](abstracts/rothbard.md), Billy Christmas, West Virginia University
 - John Rawls and the Original Position, Jason Ferrell, Concordia University
-- Robert Nozick: Is Only the Minimal State Justified? Graeme Garrard, Cardiff University
+- [Robert Nozick: Is Only the Minimal State Justified?](abstracts/nozick.md) Graeme Garrard, Cardiff University
 - Gerald Gaus, Kevin Valier, University of Toledo
 - [Robert Paul Wolff's Autonomy Thesis of Anarchism](abstracts/wolff.md), Steve Coyne, University of Toronto
 - [Michel Foucault on Power Relations and Governmentalities](abstracts/focault.md), Otto Lehto, New York Univerty
