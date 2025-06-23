@@ -28,6 +28,8 @@ within the thematic scope of the project.
 Oris Kondwani Chimphambano, University of Malawi
 - [A Razian Audit of State Authority](abstracts.raz.md), Karim Dharamsi, Mount Royal University
 - [A. John Simmons On Justifying the State](abstracts/simmons.md), Jeff Carroll, West Virginia University
+- [Michael Walzer on Political Legitimacy and Wars of Intervention](abstracts/walzer.md), Leonard Kahn, Loyola
+    University
 - Michael Huemer's Case Against the State, David Pereplyotchik, Kent State University
 - [Coda: Is Justification of the Existence of Government a Useful Question?](abstracts/coda.md), Daniel Klein, George Mason University
 
@@ -54,7 +56,6 @@ Oris Kondwani Chimphambano, University of Malawi
 - Martha Nussbaum's Capabilities Theory as a Theory of the state
 - Murray Bookchin on Libertarian Municipalism and the State
 - Frantz Fanon on the Illegitimacy of Oppressive States
-- Michael Walzer on the state
 - Will Kymlicka on the State and Multicultural Citizenship
 - Philip Pettit on the Functionality Claim for the State
 - Noam Chomsky and the Critique of State Power
