@@ -38,7 +38,6 @@ Oris Kondwani Chimphambano, University of Malawi
 - Hannah Arendt on the State and a Just and Free Political Order
 - Isaiah Berlin on Negative and Positive Liberty
 - Eric Voegelin's Theory of Representation
-- Jürgen Habermas and Communicative Competence
 - Bernard Crick's Theory of the State
 - John Finnis and the Natural Law Theory of Authority 
 - Ronald Dworkin's Rights Theory and the State
