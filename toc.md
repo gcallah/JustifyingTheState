@@ -26,7 +26,7 @@ within the thematic scope of the project.
 - [James Buchanan on the Limits of Liberty](abstracts/buchanan.md), Alexander Craig, Saint Mary's College
 - The State as a Primary Good, Thaddeus Metz, University of Pretoria
 - David Miller on Migration and the Legitimacy of the State, Christina Straehle, University of Hamburg
-- [Beyond Coercion and Ideology: Rethinking Althusser's State Theory](abstracts/althusser.md), Özhan Öztür
+- [Beyond Coercion and Ideology: Rethinking Althusser's State Theory](abstracts/althusser.md), Özhan Öztür, Eötvös Loránd University
 - [Jürgen Habermas on Justifying the State through Communicative Rationality](abstracts/habermas.md),
 Oris Kondwani Chimphambano, University of Malawi
 - [A Razian Audit of State Authority](abstracts.raz.md), Karim Dharamsi, Mount Royal University
