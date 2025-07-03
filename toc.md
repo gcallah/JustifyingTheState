@@ -34,7 +34,7 @@ Oris Kondwani Chimphambano, University of Malawi
 - [A. John Simmons On Justifying the State](abstracts/simmons.md), Jeff Carroll, West Virginia University
 - [Michael Walzer on Political Legitimacy and Wars of Intervention](abstracts/walzer.md), Leonard Kahn, Loyola
     University
-- Michael Huemer's Case Against the State, David Pereplyotchik, Kent State University
+- [On Some Libertarian Intuition Pumps](abstracts/huemer.md), David Pereplyotchik, Kent State University
 - [Coda: Is Justification of the Existence of Government a Useful Question?](abstracts/coda.md), Daniel Klein, George Mason University
 
 ### Potential Chapters:
