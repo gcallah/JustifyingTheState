@@ -16,6 +16,7 @@ within the thematic scope of the project.
 - Giovanni Gentile: The State as an Idea for Overcoming Individualism and Collectivism, Spartaco Pupo, University of Calabria
 - [The State Between Culture and Power: Nietzsche’s Influence on Thomas Mann](abstracts/mann.md),
     Matteo Zanetti, University of Verona
+- [Binding Prometheus: Carl Schmitt's Philosophy of the State](abstracts/schmitt.md), Georgios Karakasis, University of Girona
 - [Michael Oakeshott on Authority](abstracts/oakeshott.md), W. John Coats, Connecticut College
 - [Murray Rothbard's Case for Anarchy](abstracts/rothbard.md), Billy Christmas, West Virginia University
 - [John Rawls and the Original Position](abstracts/rawls.md), Jason Ferrell, Concordia University
