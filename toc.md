@@ -13,7 +13,7 @@ within the thematic scope of the project.
 ### Assigned Chapters:
 
 - Bernard Bosanquet's Philosophical Theory of the State, Gene Callahan, New York University
-- Giovanni Gentile: The State as an Idea for Overcoming Individualism and Collectivism, Spartaco Pupo, University of Calabria
+- [Giovanni Gentile and the State "in interiore homine"](abstracts/gentile.md), Spartaco Pupo, University of Calabria
 - [The State Between Culture and Power: Nietzsche’s Influence on Thomas Mann](abstracts/mann.md),
     Matteo Zanetti, University of Verona
 - [Binding Prometheus: Carl Schmitt's Philosophy of the State](abstracts/schmitt.md), Georgios Karakasis, University of Girona
