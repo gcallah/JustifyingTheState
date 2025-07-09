@@ -27,7 +27,6 @@ Università degli Studi di Roma La Sapienza
 1. [Robert Paul Wolff's Autonomy Thesis of Anarchism](abstracts/wolff.md), Steve Coyne, University of Toronto
 1. [Michel Foucault on Power Relations and Governmentalities](abstracts/focault.md), Otto Lehto, New York Univerty
 1. [James Buchanan on the Limits of Liberty](abstracts/buchanan.md), Alexander Craig, Saint Mary's College
-1. The State as a Primary Good, Thaddeus Metz, University of Pretoria
 1. David Miller on Migration and the Legitimacy of the State, Christina Straehle, University of Hamburg
 1. [Beyond Coercion and Ideology: Rethinking Althusser's State Theory](abstracts/althusser.md), Özhan Öztür, Eötvös Loránd University
 1. [Jürgen Habermas on Justifying the State through Communicative Rationality](abstracts/habermas.md),
