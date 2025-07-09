@@ -12,32 +12,32 @@ within the thematic scope of the project.
 
 ### Assigned Chapters:
 
-- Bernard Bosanquet's Philosophical Theory of the State, Gene Callahan, New York University
-- [Giovanni Gentile and the State "in interiore homine"](abstracts/gentile.md), Spartaco Pupo, University of Calabria
-- [The State Between Culture and Power: Nietzsche’s Influence on Thomas Mann](abstracts/mann.md),
+1. Bernard Bosanquet's Philosophical Theory of the State, Gene Callahan, New York University
+1. [Giovanni Gentile and the State "in interiore homine"](abstracts/gentile.md), Spartaco Pupo, University of Calabria
+1. [The State Between Culture and Power: Nietzsche’s Influence on Thomas Mann](abstracts/mann.md),
     Matteo Zanetti, University of Verona
-- [Binding Prometheus: Carl Schmitt's Philosophy of the State](abstracts/schmitt.md), Georgios Karakasis, University of Girona
-- [Michael Oakeshott on Authority](abstracts/oakeshott.md), W. John Coats, Connecticut College
-- [Friedrich von Hayek on Spontaneous Order](abstracts/hayek.md), Cristiano Leone, 
+1. [Binding Prometheus: Carl Schmitt's Philosophy of the State](abstracts/schmitt.md), Georgios Karakasis, University of Girona
+1. [Michael Oakeshott on Authority](abstracts/oakeshott.md), W. John Coats, Connecticut College
+1. [Friedrich von Hayek on Spontaneous Order](abstracts/hayek.md), Cristiano Leone, 
 Università degli Studi di Roma La Sapienza 
-- [Murray Rothbard's Case for Anarchy](abstracts/rothbard.md), Billy Christmas, West Virginia University
-- [John Rawls and the Original Position](abstracts/rawls.md), Jason Ferrell, Concordia University
-- [Robert Nozick: Is Only the Minimal State Justified?](abstracts/nozick.md) Graeme Garrard, Cardiff University
-- Gerald Gaus, Kevin Valier, University of Toledo
-- [Robert Paul Wolff's Autonomy Thesis of Anarchism](abstracts/wolff.md), Steve Coyne, University of Toronto
-- [Michel Foucault on Power Relations and Governmentalities](abstracts/focault.md), Otto Lehto, New York Univerty
-- [James Buchanan on the Limits of Liberty](abstracts/buchanan.md), Alexander Craig, Saint Mary's College
-- The State as a Primary Good, Thaddeus Metz, University of Pretoria
-- David Miller on Migration and the Legitimacy of the State, Christina Straehle, University of Hamburg
-- [Beyond Coercion and Ideology: Rethinking Althusser's State Theory](abstracts/althusser.md), Özhan Öztür, Eötvös Loránd University
-- [Jürgen Habermas on Justifying the State through Communicative Rationality](abstracts/habermas.md),
+1. [Murray Rothbard's Case for Anarchy](abstracts/rothbard.md), Billy Christmas, West Virginia University
+1. [John Rawls and the Original Position](abstracts/rawls.md), Jason Ferrell, Concordia University
+1. [Robert Nozick: Is Only the Minimal State Justified?](abstracts/nozick.md) Graeme Garrard, Cardiff University
+1. Gerald Gaus, Kevin Valier, University of Toledo
+1. [Robert Paul Wolff's Autonomy Thesis of Anarchism](abstracts/wolff.md), Steve Coyne, University of Toronto
+1. [Michel Foucault on Power Relations and Governmentalities](abstracts/focault.md), Otto Lehto, New York Univerty
+1. [James Buchanan on the Limits of Liberty](abstracts/buchanan.md), Alexander Craig, Saint Mary's College
+1. The State as a Primary Good, Thaddeus Metz, University of Pretoria
+1. David Miller on Migration and the Legitimacy of the State, Christina Straehle, University of Hamburg
+1. [Beyond Coercion and Ideology: Rethinking Althusser's State Theory](abstracts/althusser.md), Özhan Öztür, Eötvös Loránd University
+1. [Jürgen Habermas on Justifying the State through Communicative Rationality](abstracts/habermas.md),
 Oris Kondwani Chimphambano, University of Malawi
-- [A Razian Audit of State Authority](abstracts.raz.md), Karim Dharamsi, Mount Royal University
-- [A. John Simmons On Justifying the State](abstracts/simmons.md), Jeff Carroll, West Virginia University
-- [Michael Walzer on Political Legitimacy and Wars of Intervention](abstracts/walzer.md), Leonard Kahn, Loyola
+1. [A Razian Audit of State Authority](abstracts.raz.md), Karim Dharamsi, Mount Royal University
+1. [A. John Simmons On Justifying the State](abstracts/simmons.md), Jeff Carroll, West Virginia University
+1. [Michael Walzer on Political Legitimacy and Wars of Intervention](abstracts/walzer.md), Leonard Kahn, Loyola
     University
-- [On Some Libertarian Intuition Pumps](abstracts/huemer.md), David Pereplyotchik, Kent State University
-- [Coda: Is Justification of the Existence of Government a Useful Question?](abstracts/coda.md), Daniel Klein, George Mason University
+1. [On Some Libertarian Intuition Pumps](abstracts/huemer.md), David Pereplyotchik, Kent State University
+1. [Coda: Is Justification of the Existence of Government a Useful Question?](abstracts/coda.md), Daniel Klein, George Mason University
 
 ### Potential Chapters:
 
