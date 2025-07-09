@@ -18,6 +18,8 @@ within the thematic scope of the project.
     Matteo Zanetti, University of Verona
 - [Binding Prometheus: Carl Schmitt's Philosophy of the State](abstracts/schmitt.md), Georgios Karakasis, University of Girona
 - [Michael Oakeshott on Authority](abstracts/oakeshott.md), W. John Coats, Connecticut College
+- [Friedrich von Hayek on Spontaneous Order](abstracts/hayek.md), Cristiano Leone, 
+Università degli Studi di Roma La Sapienza 
 - [Murray Rothbard's Case for Anarchy](abstracts/rothbard.md), Billy Christmas, West Virginia University
 - [John Rawls and the Original Position](abstracts/rawls.md), Jason Ferrell, Concordia University
 - [Robert Nozick: Is Only the Minimal State Justified?](abstracts/nozick.md) Graeme Garrard, Cardiff University
