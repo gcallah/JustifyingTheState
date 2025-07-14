@@ -20,6 +20,7 @@ within the thematic scope of the project.
 1. [Michael Oakeshott on Authority](abstracts/oakeshott.md), W. John Coats, Connecticut College
 1. [Dooyeweerd: There is No Secular Justification for the State](abstracts/dooyeweerd.md), Ben Van de Wall,
 National Research University Higher School of Economics
+1. [Hannah Arendt: When the State is Unjustified](abstracts/arendt.md), Nataliia Reva, Universidade Tecnológica Federal do Paraná
 1. [Friedrich von Hayek on Spontaneous Order](abstracts/hayek.md), Cristiano Leone, 
 Università degli Studi di Roma La Sapienza 
 1. [Murray Rothbard's Case for Anarchy](abstracts/rothbard.md), Billy Christmas, West Virginia University
