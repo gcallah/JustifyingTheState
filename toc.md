@@ -12,7 +12,7 @@ within the thematic scope of the project.
 
 ### Assigned Chapters:
 
-1. Bernard Bosanquet's Philosophical Theory of the State, Gene Callahan, New York University
+1. [Bernard Bosanquet's Philosophical Theory of the State](abstracts.bosanquet.md), Gene Callahan, New York University
 1. [Giovanni Gentile and the State "in interiore homine"](abstracts/gentile.md), Spartaco Pupo, University of Calabria
 1. [The State Between Culture and Power: Nietzsche’s Influence on Thomas Mann](abstracts/mann.md),
     Matteo Zanetti, University of Verona
