@@ -28,6 +28,7 @@ Università degli Studi di Roma La Sapienza
 1. [Robert Nozick: Is Only the Minimal State Justified?](abstracts/nozick.md) Graeme Garrard, Cardiff University
 1. [Robert Paul Wolff's Autonomy Thesis of Anarchism](abstracts/wolff.md), Steve Coyne, University of Toronto
 1. [Michel Foucault on Power Relations and Governmentalities](abstracts/focault.md), Otto Lehto, New York Univerty
+1. [Jacques Derrida on the Abyss of the State](abstracts/derrida.md), Nils Hofmann, University of Vienna
 1. [James Buchanan on the Limits of Liberty](abstracts/buchanan.md), Alexander Craig, Saint Mary's College
 1. David Miller on Migration and the Legitimacy of the State, Christina Straehle, University of Hamburg
 1. [Beyond Coercion and Ideology: Rethinking Althusser's State Theory](abstracts/althusser.md), Özhan Öztür, Eötvös Loránd University
@@ -45,7 +46,6 @@ Oris Kondwani Chimphambano, University of Malawi
 
 ### Potential Chapters:
 
-- Hannah Arendt on the State and a Just and Free Political Order
 - Isaiah Berlin on Negative and Positive Liberty
 - Eric Voegelin's Theory of Representation
 - Bernard Crick's Theory of the State
@@ -58,7 +58,6 @@ Oris Kondwani Chimphambano, University of Malawi
 - Jonathan Wolff's Universal Political Obligations Theory of the State
 - Alasdair MacIntyre's Internal Goods and Goods of Excellence Defense of the State
 - David Schmidtz's Public Goods Theory of the State
-- Louis Althusser's Marxist Critique of the State
 - Jacques Ellul On the Irreconcilability of True Freedom and Social Justice
 - Charles Taylor's Communitarian Political Theory
 - G.A. Cohen on the State
@@ -67,7 +66,6 @@ Oris Kondwani Chimphambano, University of Malawi
 - Frantz Fanon on the Illegitimacy of Oppressive States
 - Will Kymlicka on the State and Multicultural Citizenship
 - Philip Pettit on the Functionality Claim for the State
-- Noam Chomsky and the Critique of State Power
 - Christopher Heath Wellman on the State
 - Catherine MacKinnon's Feminist Theory of the State
 - Judith Butler's Discourse on the State
