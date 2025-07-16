@@ -19,6 +19,7 @@ National Research University Higher School of Economics
 1. [Friedrich von Hayek on Spontaneous Order](abstracts/hayek.md), Cristiano Leone, 
 Università degli Studi di Roma La Sapienza 
 1. [Murray Rothbard's Case for Anarchy](abstracts/rothbard.md), Billy Christmas, West Virginia University
+1. [Frantz Fanon on the Illegitimacy of Oppressive States](abstracts/fanon.md), Jordan Liz, San Jose State University
 1. [John Rawls and the Original Position](abstracts/rawls.md), Jason Ferrell, Concordia University
 1. [Robert Nozick: Is Only the Minimal State Justified?](abstracts/nozick.md) Graeme Garrard, Cardiff University
 1. [Robert Paul Wolff's Autonomy Thesis of Anarchism](abstracts/wolff.md), Steve Coyne, University of Toronto
@@ -39,3 +40,4 @@ Oris Kondwani Chimphambano, University of Malawi
 1. [On Some Libertarian Intuition Pumps in Huemer](abstracts/huemer.md), David Pereplyotchik, Kent State University
 1. [Coda: Is the Justification for the Existence of Government a Useful Question?](abstracts/coda.md), Daniel Klein, George Mason University
 
+Jordan Liz, San Jose State University
