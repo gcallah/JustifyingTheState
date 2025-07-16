@@ -1,6 +1,6 @@
 # Coercion All the Way Down: A Ripsteinian Justification of the State
 
-Chrysogonus Okwenna
+Chrysogonus Okwenna, University of British Columbia
 
 
 In this paper, I argue that the pervasiveness of coercion in interpersonal relations may not undermine the legitimacy of

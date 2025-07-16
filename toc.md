@@ -17,6 +17,7 @@ within the thematic scope of the project.
 1. [The State Between Culture and Power: Nietzsche’s Influence on Thomas Mann](abstracts/mann.md),
     Matteo Zanetti, University of Verona
 1. [Binding Prometheus: Carl Schmitt's Philosophy of the State](abstracts/schmitt.md), Georgios Karakasis, University of Girona
+1. [The Institutionalist Philosophy of the State](abstracts/institutionalist.md), Wojciech Engelking, University of Warsaw
 1. [Michael Oakeshott on Authority](abstracts/oakeshott.md), W. John Coats, Connecticut College
 1. [Dooyeweerd: There is No Secular Justification for the State](abstracts/dooyeweerd.md), Ben Van de Wall,
 National Research University Higher School of Economics
@@ -39,8 +40,8 @@ Oris Kondwani Chimphambano, University of Malawi
 1. [A. John Simmons On Justifying the State](abstracts/simmons.md), Jeff Carroll, West Virginia University
 1. [Michael Walzer on Political Legitimacy and Wars of Intervention](abstracts/walzer.md), Leonard Kahn, Loyola
     University
-1. [Noam Chomsky's Anarcho-Syndicalism](abstracts/chomsky.md), Anindita Adhikari
-1. [Coercion All the Way Down: A Ripsteinian Justification of the State](abstracts/ripstein.md), Chrysogonus Okwenna
+1. [Noam Chomsky's Anarcho-Syndicalism](abstracts/chomsky.md), Anindita Adhikari, Independent Scholar
+1. [Coercion All the Way Down: A Ripsteinian Justification of the State](abstracts/ripstein.md), Chrysogonus Okwenna, University of British Columbia
 1. [On Some Libertarian Intuition Pumps in Huemer](abstracts/huemer.md), David Pereplyotchik, Kent State University
 1. [Coda: Is the Justification for the Existence of Government a Useful Question?](abstracts/coda.md), Daniel Klein, George Mason University
 
