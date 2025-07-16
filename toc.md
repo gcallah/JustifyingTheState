@@ -10,6 +10,7 @@ Edited by Gene Callahan and Leye Komolafe
 1. [The State Between Culture and Power: Nietzsche’s Influence on Thomas Mann](abstracts/mann.md),
     Matteo Zanetti, University of Verona
 1. [Binding Prometheus: Carl Schmitt's Philosophy of the State](abstracts/schmitt.md), Georgios Karakasis, University of Girona
+1. [Heidegger on State Authority: Being, Nature, and History](abstracts/heidegger.md), Taylor Green, Carleton University
 1. [The Institutionalist Philosophy of the State](abstracts/institutionalist.md), Wojciech Engelking, University of Warsaw
 1. [Michael Oakeshott on Authority](abstracts/oakeshott.md), W. John Coats, Connecticut College
 1. [Dooyeweerd: There is No Secular Justification for the State](abstracts/dooyeweerd.md), Ben Van de Wall,
