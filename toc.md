@@ -5,13 +5,6 @@ Edited by Gene Callahan and Leye Komolafe
 
 ## Table of Contents
 
-All potential chapter titles are provisional!
-
-Authors are welcome to propose alternative topics, provided they fall
-within the thematic scope of the project.
-
-### Assigned Chapters:
-
 1. [Bernard Bosanquet's Philosophical Theory of the State](abstracts.bosanquet.md), Gene Callahan, New York University
 1. [Giovanni Gentile and the State "in interiore homine"](abstracts/gentile.md), Spartaco Pupo, University of Calabria
 1. [The State Between Culture and Power: Nietzsche’s Influence on Thomas Mann](abstracts/mann.md),
@@ -45,31 +38,3 @@ Oris Kondwani Chimphambano, University of Malawi
 1. [On Some Libertarian Intuition Pumps in Huemer](abstracts/huemer.md), David Pereplyotchik, Kent State University
 1. [Coda: Is the Justification for the Existence of Government a Useful Question?](abstracts/coda.md), Daniel Klein, George Mason University
 
-### Potential Chapters:
-
-- Isaiah Berlin on Negative and Positive Liberty
-- Eric Voegelin's Theory of Representation
-- Bernard Crick's Theory of the State
-- John Finnis and the Natural Law Theory of Authority 
-- Ronald Dworkin's Rights Theory and the State
-- Jeremy Waldron on the State
-- Jon Elster's Methodological Individualism and the State
-- H.L.A. Hart's Rule of Recognition Thesis and the State
-- Jacques Maritain on the Theory of the State
-- Jonathan Wolff's Universal Political Obligations Theory of the State
-- Alasdair MacIntyre's Internal Goods and Goods of Excellence Defense of the State
-- David Schmidtz's Public Goods Theory of the State
-- Jacques Ellul On the Irreconcilability of True Freedom and Social Justice
-- Charles Taylor's Communitarian Political Theory
-- G.A. Cohen on the State
-- Martha Nussbaum's Capabilities Theory as a Theory of the state
-- Murray Bookchin on Libertarian Municipalism and the State
-- Frantz Fanon on the Illegitimacy of Oppressive States
-- Will Kymlicka on the State and Multicultural Citizenship
-- Philip Pettit on the Functionality Claim for the State
-- Christopher Heath Wellman on the State
-- Catherine MacKinnon's Feminist Theory of the State
-- Judith Butler's Discourse on the State
-- Kwame Anthony Appiah on Identity, the Nation, and the State
-- Yves Simon and the General Theory of Authority 
-- Jonathan Crowe and the Natural Law Tradition Theory of the State
