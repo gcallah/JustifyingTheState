@@ -38,5 +38,3 @@ Oris Kondwani Chimphambano, University of Malawi
 1. [Coercion All the Way Down: A Ripsteinian Justification of the State](abstracts/ripstein.md), Chrysogonus Okwenna, University of British Columbia
 1. [On Some Libertarian Intuition Pumps in Huemer](abstracts/huemer.md), David Pereplyotchik, Kent State University
 1. [Coda: Is the Justification for the Existence of Government a Useful Question?](abstracts/coda.md), Daniel Klein, George Mason University
-
-Jordan Liz, San Jose State University
