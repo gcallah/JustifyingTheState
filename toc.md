@@ -31,7 +31,7 @@ Università degli Studi di Roma La Sapienza
 1. [Jürgen Habermas on Justifying the State through Communicative Rationality](abstracts/habermas.md),
 Oris Kondwani Chimphambano, University of Malawi
 1. [Gerald Gaus's Justification for the State](abstracts/gaus.md), Kevin Valier, University of Toledo
-1. [A Razian Audit of State Authority](abstracts.raz.md), Karim Dharamsi, Mount Royal University
+1. [A Razian Audit of State Authority](abstracts/raz.md), Karim Dharamsi, Mount Royal University
 1. [A. John Simmons On Justifying the State](abstracts/simmons.md), Jeff Carroll, West Virginia University
 1. [Michael Walzer on Political Legitimacy and Wars of Intervention](abstracts/walzer.md), Leonard Kahn, Loyola
     University
