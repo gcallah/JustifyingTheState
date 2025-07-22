@@ -1,7 +1,6 @@
-Jonathan Wolff’s Pluralist Theory of Political Obligation
-
+**Jonathan Wolff’s Pluralist Theory of Political Obligation
+**
 Leye Komolafe
-University of South Carolina
 
 In this paper, I present a comprehensive engagement with Jonathan Wolff’s nuanced conception
 of the state and political obligations. Wolff argues that if the state is to be justified, it must be
