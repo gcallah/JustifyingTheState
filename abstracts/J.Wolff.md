@@ -1,4 +1,4 @@
-Jonathan Wolff’s Pluralist Theory of Political Obligation
+# Jonathan Wolff’s Pluralist Theory of Political Obligation
 
 Leye Komolafe
 
@@ -12,6 +12,7 @@ voluntarist theory can adequately satisfy this second stage. The utilitarian sol
 also fails because it permits enormous injustices and is susceptible to the ‘scapegoat’ objection.
 Thus, Wolff concludes that no single theory can satisfactorily resolve the problem of political
 obligation.
+
 Wolff, therefore, endorses a form of moral pluralism as a framework for addressing the problem
 of political obligations, and thus proposes a three-way scheme: first, rational justification
 grounded in self-interest; second, reciprocity based on fair exchange; and third, reasonableness,
@@ -20,6 +21,7 @@ be based on one or more of the three moral schemes, a relatively small number of
 escape political obligations altogether. Nevertheless, those who escape political obligation
 would, in principle, still have moral duties of justice, even if the state lacks the practical
 authority to enforce them.
+
 This paper is structured in three parts. In the first part, I give a careful explication of Wolff’s
 thesis and arguments. In the second part, I identify some of the successful aspects of Wolff’s
 three-way model. In the third part, I offer two objections to Wolff’s thesis: first, the
