@@ -1,5 +1,5 @@
-**Jonathan Wolff’s Pluralist Theory of Political Obligation
-**
+Jonathan Wolff’s Pluralist Theory of Political Obligation
+
 Leye Komolafe
 
 In this paper, I present a comprehensive engagement with Jonathan Wolff’s nuanced conception
