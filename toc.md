@@ -1,4 +1,4 @@
-# Justifying the State
+# Is the State Justified?
 
 Edited by Gene Callahan and Leye Komolafe
 
