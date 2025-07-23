@@ -5,6 +5,7 @@ Edited by Gene Callahan and Leye Komolafe
 
 ## Table of Contents
 
+1. [Introduction](intro.md), Gene Callahan and Leye Komolafe
 1. [Bernard Bosanquet's Philosophical Theory of the State](abstracts.bosanquet.md), Gene Callahan, New York University
 1. [Giovanni Gentile and the State "in interiore homine"](abstracts/gentile.md), Spartaco Pupo, University of Calabria
 1. [Binding Prometheus: Carl Schmitt's Philosophy of the State](abstracts/schmitt.md), Georgios Karakasis, University of Girona
