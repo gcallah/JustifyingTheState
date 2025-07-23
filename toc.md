@@ -7,7 +7,7 @@ Edited by Gene Callahan and Leye Komolafe
 
 1. [Introduction](intro.md), Gene Callahan and Leye Komolafe
 1. [Bernard Bosanquet's Philosophical Theory of the State](abstracts.bosanquet.md), [Gene Callahan](bios/callahan.md), New York University
-1. [Giovanni Gentile and the State "in interiore homine"](abstracts/gentile.md), Spartaco Pupo, University of Calabria
+1. [Giovanni Gentile and the State "in interiore homine"](abstracts/gentile.md), [Spartaco Pupo](bios/pupo.md), University of Calabria
 1. [Binding Prometheus: Carl Schmitt's Philosophy of the State](abstracts/schmitt.md), Georgios Karakasis, University of Girona
 1. [Heidegger on State Authority: Being, Nature, and History](abstracts/heidegger.md), Taylor Green, Carleton University
 1. [Michael Oakeshott on Authority](abstracts/oakeshott.md), W. John Coats, Connecticut College
@@ -17,7 +17,7 @@ National Research University Higher School of Economics
 1. [Murray Rothbard's Case for Anarchy](abstracts/rothbard.md), Billy Christmas, West Virginia University
 1. [Frantz Fanon on the Illegitimacy of Oppressive States](abstracts/fanon.md), Jordan Liz, San Jose State University
 1. [John Rawls and the Original Position](abstracts/rawls.md), Jason Ferrell, Concordia University
-1. [Robert Nozick: Is Only the Minimal State Justified?](abstracts/nozick.md) Graeme Garrard, Cardiff University
+1. [Robert Nozick: Is Only the Minimal State Justified?](abstracts/nozick.md) [Graeme Garrard](bios/garrard.md), Cardiff University
 1. [Robert Paul Wolff's Autonomy Thesis of Anarchism](abstracts/wolff.md), Steve Coyne, University of Toronto
 1. [Michel Foucault on Power Relations and Governmentalities](abstracts/focault.md), Otto Lehto, New York Univerty
 1. [Jacques Derrida on the Abyss of the State](abstracts/derrida.md), Nils Hofmann, University of Vienna
