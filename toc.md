@@ -6,7 +6,7 @@ Edited by Gene Callahan and Leye Komolafe
 ## Table of Contents
 
 1. [Introduction](intro.md), Gene Callahan and Leye Komolafe
-1. [Bernard Bosanquet's Philosophical Theory of the State](abstracts.bosanquet.md), Gene Callahan, New York University
+1. [Bernard Bosanquet's Philosophical Theory of the State](abstracts.bosanquet.md), [Gene Callahan](bios/callahan.md), New York University
 1. [Giovanni Gentile and the State "in interiore homine"](abstracts/gentile.md), Spartaco Pupo, University of Calabria
 1. [Binding Prometheus: Carl Schmitt's Philosophy of the State](abstracts/schmitt.md), Georgios Karakasis, University of Girona
 1. [Heidegger on State Authority: Being, Nature, and History](abstracts/heidegger.md), Taylor Green, Carleton University
@@ -24,7 +24,7 @@ National Research University Higher School of Economics
 1. [James Buchanan on the Limits of Liberty](abstracts/buchanan.md), Alexander Craig, Saint Mary's College
 1. [Beyond Coercion and Ideology: Rethinking Althusser's State Theory](abstracts/althusser.md), Özhan Öztür, Eötvös Loránd University
 1. [Jürgen Habermas on Justifying the State through Communicative Rationality](abstracts/habermas.md),
-Oris Kondwani Chimphambano, University of Malawi
+[Oris Kondwani Chimphambano](bios/chimphambano.md), University of Malawi
 1. [Gerald Gaus's Justification for the State](abstracts/gaus.md), Kevin Vallier, University of Toledo
 1. [A Razian Audit of State Authority](abstracts/raz.md), Karim Dharamsi, Mount Royal University
 1. [A. John Simmons On Justifying the State](abstracts/simmons.md), Jeff Carroll, West Virginia University
