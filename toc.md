@@ -24,7 +24,7 @@ National Research University Higher School of Economics
 1. [Beyond Coercion and Ideology: Rethinking Althusser's State Theory](abstracts/althusser.md), Özhan Öztür, Eötvös Loránd University
 1. [Jürgen Habermas on Justifying the State through Communicative Rationality](abstracts/habermas.md),
 Oris Kondwani Chimphambano, University of Malawi
-1. [Gerald Gaus's Justification for the State](abstracts/gaus.md), Kevin Valier, University of Toledo
+1. [Gerald Gaus's Justification for the State](abstracts/gaus.md), Kevin Vallier, University of Toledo
 1. [A Razian Audit of State Authority](abstracts/raz.md), Karim Dharamsi, Mount Royal University
 1. [A. John Simmons On Justifying the State](abstracts/simmons.md), Jeff Carroll, West Virginia University
 1. [Jonathan Wolff’s Pluralist Theory of Political Obligation](abstracts/jwolff.md), Leye Komolafe, University of South Carolina
