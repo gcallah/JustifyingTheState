@@ -33,6 +33,7 @@ National Research University Higher School of Economics
     University
 1. [Noam Chomsky's Anarcho-Syndicalism](abstracts/chomsky.md), Anindita Adhikari, Independent Scholar
 1. [Coercion All the Way Down: A Ripsteinian Justification of the State](abstracts/ripstein.md), Chrysogonus Okwenna, University of British Columbia
-1. [On Some Libertarian Intuition Pumps in Huemer](abstracts/huemer.md), David Pereplyotchik, Kent State University
+1. [On Some Libertarian Intuition Pumps in Huemer](abstracts/huemer.md),
+[David Pereplyotchik](bios/pereplyotchik.md), Kent State University
 1. [Coda: Is the Justification for the Existence of Government a Useful Question?](abstracts/coda.md),
 [Daniel Klein](bios/klein.md), George Mason University
