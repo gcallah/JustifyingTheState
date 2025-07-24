@@ -24,7 +24,7 @@ National Research University Higher School of Economics
 1. [Michel Foucault on Power Relations and Governmentalities](abstracts/focault.md), Otto Lehto, New York Univerty
 1. [Jacques Derrida on the Abyss of the State](abstracts/derrida.md), Nils Hofmann, University of Vienna
 1. [James Buchanan on the Limits of Liberty](abstracts/buchanan.md), Alexander Craig, Saint Mary's College
-1. [Beyond Coercion and Ideology: Rethinking Althusser's State Theory](abstracts/althusser.md), Özhan Öztür, Eötvös Loránd University
+1. [Beyond Coercion and Ideology: Rethinking Althusser's State Theory](abstracts/althusser.md), Özhan Öztürk, Eötvös Loránd University
 1. [Jürgen Habermas on Justifying the State through Communicative Rationality](abstracts/habermas.md),
 [Oris Kondwani Chimphambano](bios/chimphambano.md), University of Malawi
 1. [Gerald Gaus's Justification for the State](abstracts/gaus.md), Kevin Vallier, University of Toledo
