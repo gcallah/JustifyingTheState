@@ -3,7 +3,7 @@
 Daniel B. Klein
 
 To contemplate justification for the existence of something is to contemplate
-whether a human aim's either to bring that thing into original existence or to annihilate
+whether a human aims either to bring that thing into original existence or to annihilate
 that thing as it exists is justified.
 
 If the something is government, then, either way, the action is farfetched and
@@ -14,14 +14,14 @@ wrestle with the question of the justification for the existence of government. 
 would express the attitude that the existence of government is an unalterable reality.
 Like mortality, it is something to be managed but not justified.
 The piece would likely suggest that we are still very much in the period of history
-of Hume’s liberal adage: “liberty is the perfection of civil society; but still authority must
-be acknowledged essential to its very existence.” It is apt to understand “authority” as
+of Hume's liberal adage: "liberty is the perfection of civil society; but still authority must
+be acknowledged essential to its very existence." It is apt to understand "authority" as
 government authority and hence government. I will explain what Hume meant by the
 adage.
 
 I will argue that as long as that the adage is true, it makes little sense for liberty-
 lovers to ponder whether a government-free or anarchic society would be desirable.
-I will suggest that the adage was true Hume’s day, is true in our day, will be true
+I will suggest that the adage was true in Hume's day, is true in our day, will be true
 500 years from today (assuming humankind exists). For classical liberals such as
 myself, the proper aim is in the spirit of Hume, Smith, and Burke, to make government
 better (which will generally mean making it smaller). I would deal with Hume, Smith, and

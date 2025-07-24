@@ -30,7 +30,8 @@ National Research University Higher School of Economics
 [Oris Kondwani Chimphambano](bios/chimphambano.md), University of Malawi
 1. [Gerald Gaus's Justification for the State](abstracts/gaus.md), Kevin Vallier, University of Toledo
 1. [A Razian Audit of State Authority](abstracts/raz.md), Karim Dharamsi, Mount Royal University
-1. [A. John Simmons On Justifying the State](abstracts/simmons.md), Jeff Carroll, West Virginia University
+1. [A. John Simmons On Justifying the State](abstracts/simmons.md),
+[Jeff Carroll](bios/carroll.md), West Virginia University
 1. [Jonathan Wolff’s Pluralist Theory of Political Obligation](abstracts/jwolff.md), Leye Komolafe, University of South Carolina
 1. [Michael Walzer on Political Legitimacy and Wars of Intervention](abstracts/walzer.md), Leonard Kahn, Loyola
     University
