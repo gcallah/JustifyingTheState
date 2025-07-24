@@ -13,7 +13,7 @@ unilaterally dictated by those in power. For Fanon, within the colonial context,
 people are like, the purported 'biological' reality of their racial inferiority, etc. – was fabricated by Europeans and
 violently forced upon the colonized. Those ideas shape every interaction the colonized have with others, as well as how
 they perceive themselves and their own possibilities. In "being through others," the colonized are in a constant state
-of self-alienation wherein their ability to self-define and create meaning in the world are denied. For Fanon, this
+of self-alienation wherein their capacities to self-define and create meaning in the world are denied. For Fanon, this
 status is at the core of "the colonized mind" that decolonization seeks to eliminate. Ultimately, any state that fails
 to embrace an openness to human possibilities and flourishing, that lacks a commitment to a radical humanism, is
 illegitimate. 
