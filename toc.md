@@ -25,7 +25,8 @@ National Research University Higher School of Economics
 [Graeme Garrard](bios/garrard.md), Cardiff University
 1. [Robert Paul Wolff's Autonomy Thesis of Anarchism](abstracts/wolff.md),
 [Steve Coyne](bios/coyne.md), University of Toronto
-1. [Michel Foucault on Power Relations and Governmentalities](abstracts/focault.md), Otto Lehto, New York Univerty
+1. [Michel Foucault on Power Relations and Governmentalities](abstracts/focault.md),
+[Otto Lehto](bios/lehto.md), New York Univerty
 1. [Jacques Derrida on the Abyss of the State](abstracts/derrida.md), Nils Hofmann, University of Vienna
 1. [James Buchanan on the Limits of Liberty](abstracts/buchanan.md), Alexander Craig, Saint Mary's College
 1. [Beyond Coercion and Ideology: Rethinking Althusser's State Theory](abstracts/althusser.md),
