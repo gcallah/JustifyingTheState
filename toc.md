@@ -10,7 +10,8 @@ Edited by Gene Callahan and Leye Komolafe
 [Gene Callahan](bios/callahan.md), New York University
 1. [Giovanni Gentile and the State "in interiore homine"](abstracts/gentile.md),
 [Spartaco Pupo](bios/pupo.md), University of Calabria
-1. [Binding Prometheus: Carl Schmitt's Philosophy of the State](abstracts/schmitt.md), Georgios Karakasis, University of Girona
+1. [Binding Prometheus: Carl Schmitt's Philosophy of the State](abstracts/schmitt.md),
+[Georgios Karakasis](bios/karakasis.md), University of Girona
 1. [Heidegger on State Authority: Being, Nature, and History](abstracts/heidegger.md), Taylor Green, Carleton University
 1. [Michael Oakeshott on Authority](abstracts/oakeshott.md), W. John Coats, Connecticut College
 1. [Dooyeweerd: There is No Secular Justification for the State](abstracts/dooyeweerd.md), Ben Van de Wall,
