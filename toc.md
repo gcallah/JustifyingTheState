@@ -13,7 +13,8 @@ Edited by Gene Callahan and Leye Komolafe
 1. [Binding Prometheus: Carl Schmitt's Philosophy of the State](abstracts/schmitt.md),
 [Georgios Karakasis](bios/karakasis.md), University of Girona
 1. [Heidegger on State Authority: Being, Nature, and History](abstracts/heidegger.md), Taylor Green, Carleton University
-1. [Michael Oakeshott on Authority](abstracts/oakeshott.md), W. John Coats, Connecticut College
+1. [Michael Oakeshott on Authority](abstracts/oakeshott.md),
+[W. John Coats](bios/coats.md), Connecticut College
 1. [Dooyeweerd: There is No Secular Justification for the State](abstracts/dooyeweerd.md), Ben Van de Wall,
 National Research University Higher School of Economics
 1. [Hannah Arendt: When the State is Unjustified](abstracts/arendt.md), Nataliia Reva, Universidade Tecnológica Federal do Paraná
