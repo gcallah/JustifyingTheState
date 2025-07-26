@@ -34,7 +34,8 @@ National Research University Higher School of Economics
 [Özhan Öztürk](bios/ozturk.md), Eötvös Loránd University
 1. [Jürgen Habermas on Justifying the State through Communicative Rationality](abstracts/habermas.md),
 [Oris Kondwani Chimphambano](bios/chimphambano.md), University of Malawi
-1. [Gerald Gaus's Justification for the State](abstracts/gaus.md), Kevin Vallier, University of Toledo
+1. [Gerald Gaus's Justification for the State](abstracts/gaus.md),
+[Kevin Vallier](bios/vallier.md), University of Toledo
 1. [A Razian Audit of State Authority](abstracts/raz.md),
 [Karim Dharamsi](bios/dharamsi.md), Mount Royal University
 1. [A. John Simmons On Justifying the State](abstracts/simmons.md),
