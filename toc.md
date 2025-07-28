@@ -21,7 +21,8 @@ Edited by Gene Callahan and Leye Komolafe
 National Research University Higher School of Economics
 1. [Hannah Arendt: When the State is Unjustified](abstracts/arendt.md),
 [Nataliia Reva](bios/reva.md), Universidade Tecnológica Federal do Paraná
-1. [Murray Rothbard's Case for Anarchy](abstracts/rothbard.md), Billy Christmas, West Virginia University
+1. [Murray Rothbard's Case for Anarchy](abstracts/rothbard.md),
+[Billy Christmas](bios/christmas.md), West Virginia University
 1. [Frantz Fanon on the Illegitimacy of Oppressive States](abstracts/fanon.md),
 [Jordan Liz](bios/liz.md), San Jose State University
 1. [John Rawls and the Original Position](abstracts/rawls.md),
@@ -46,10 +47,12 @@ National Research University Higher School of Economics
 [Karim Dharamsi](bios/dharamsi.md), Mount Royal University
 1. [A. John Simmons On Justifying the State](abstracts/simmons.md),
 [Jeff Carroll](bios/carroll.md), West Virginia University
-1. [Jonathan Wolff’s Pluralist Theory of Political Obligation](abstracts/jwolff.md), Leye Komolafe, University of South Carolina
+1. [Jonathan Wolff’s Pluralist Theory of Political Obligation](abstracts/jwolff.md),
+[Leye Komolafe](bios/komolafe.md), University of South Carolina
 1. [Michael Walzer on Political Legitimacy and Wars of Intervention](abstracts/walzer.md),
 [Leonard Kahn](bios/kahn.md), Loyola University
-1. [Noam Chomsky's Anarcho-Syndicalism](abstracts/chomsky.md), Anindita Adhikari, Independent Scholar
+1. [Noam Chomsky's Anarcho-Syndicalism](abstracts/chomsky.md),
+[Anindita Adhikari](bios/adhikari.md), Independent Scholar
 1. [Coercion All the Way Down: A Ripsteinian Justification of the State](abstracts/ripstein.md), Chrysogonus Okwenna, University of British Columbia
 1. [On Some Libertarian Intuition Pumps in Huemer](abstracts/huemer.md),
 [David Pereplyotchik](bios/pereplyotchik.md), Kent State University
