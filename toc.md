@@ -17,7 +17,8 @@ Edited by Gene Callahan and Leye Komolafe
 [W. John Coats](bios/coats.md), Connecticut College
 1. [Dooyeweerd: There is No Secular Justification for the State](abstracts/dooyeweerd.md), Ben Van de Wall,
 National Research University Higher School of Economics
-1. [Hannah Arendt: When the State is Unjustified](abstracts/arendt.md), Nataliia Reva, Universidade Tecnológica Federal do Paraná
+1. [Hannah Arendt: When the State is Unjustified](abstracts/arendt.md),
+[Nataliia Reva](bios/reva.md), Universidade Tecnológica Federal do Paraná
 1. [Murray Rothbard's Case for Anarchy](abstracts/rothbard.md), Billy Christmas, West Virginia University
 1. [Frantz Fanon on the Illegitimacy of Oppressive States](abstracts/fanon.md), Jordan Liz, San Jose State University
 1. [John Rawls and the Original Position](abstracts/rawls.md),
