@@ -16,7 +16,8 @@ Edited by Gene Callahan and Leye Komolafe
 [Taylor Green](bios/green.md), Carleton University
 1. [Michael Oakeshott on Authority](abstracts/oakeshott.md),
 [W. John Coats](bios/coats.md), Connecticut College
-1. [Dooyeweerd: There is No Secular Justification for the State](abstracts/dooyeweerd.md), Ben Van de Wall,
+1. [Dooyeweerd: There is No Secular Justification for the State](abstracts/dooyeweerd.md),
+[Ben Van de Wall](bios/vandewall.md),
 National Research University Higher School of Economics
 1. [Hannah Arendt: When the State is Unjustified](abstracts/arendt.md),
 [Nataliia Reva](bios/reva.md), Universidade Tecnológica Federal do Paraná
@@ -44,8 +45,8 @@ National Research University Higher School of Economics
 1. [A. John Simmons On Justifying the State](abstracts/simmons.md),
 [Jeff Carroll](bios/carroll.md), West Virginia University
 1. [Jonathan Wolff’s Pluralist Theory of Political Obligation](abstracts/jwolff.md), Leye Komolafe, University of South Carolina
-1. [Michael Walzer on Political Legitimacy and Wars of Intervention](abstracts/walzer.md), Leonard Kahn, Loyola
-    University
+1. [Michael Walzer on Political Legitimacy and Wars of Intervention](abstracts/walzer.md),
+[Leonard Kahn](bios/kahn.md), Loyola University
 1. [Noam Chomsky's Anarcho-Syndicalism](abstracts/chomsky.md), Anindita Adhikari, Independent Scholar
 1. [Coercion All the Way Down: A Ripsteinian Justification of the State](abstracts/ripstein.md), Chrysogonus Okwenna, University of British Columbia
 1. [On Some Libertarian Intuition Pumps in Huemer](abstracts/huemer.md),
