@@ -22,7 +22,8 @@ National Research University Higher School of Economics
 1. [Hannah Arendt: When the State is Unjustified](abstracts/arendt.md),
 [Nataliia Reva](bios/reva.md), Universidade Tecnológica Federal do Paraná
 1. [Murray Rothbard's Case for Anarchy](abstracts/rothbard.md), Billy Christmas, West Virginia University
-1. [Frantz Fanon on the Illegitimacy of Oppressive States](abstracts/fanon.md), Jordan Liz, San Jose State University
+1. [Frantz Fanon on the Illegitimacy of Oppressive States](abstracts/fanon.md),
+[Jordan Liz](bios/liz.md), San Jose State University
 1. [John Rawls and the Original Position](abstracts/rawls.md),
 [Jason Ferrell](bios/ferrell.md), Concordia University
 1. [Robert Nozick: Is Only the Minimal State Justified?](abstracts/nozick.md)
