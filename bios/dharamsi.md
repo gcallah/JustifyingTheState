@@ -1,3 +1,5 @@
+================
+
 Karim Dharamsi is Vice-Provost Academic and Professor of Philosophy at Mount Royal University in Calgary, Alberta,
 Canada. His earlier work focused on liberal education and the philosophy of history, especially the thought of R.G.
 Collingwood. His current research explores the intersections of liberal legal theory, postcolonial critique, and

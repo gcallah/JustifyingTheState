@@ -1,3 +1,5 @@
+================
+
 Leonard Kahn currently serves as the Dean of the College of Arts & Sciences at Loyola University New Orleans, where he
 is also the Gerald N. Gaston Distinguished Professor of Religion & Science in the Department of Philosophy. His edited
 books have been published by Routledge, Broadview, and Palgrave Macmillan. His articles have appeared in the journals

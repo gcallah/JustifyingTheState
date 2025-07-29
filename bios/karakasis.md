@@ -1,3 +1,5 @@
+================
+
 Georgios Karakasis holds a PhD in Philosophy from the University of the Basque Country. He earned a degree in Political
 Science and Public Administration from the National Kapodistrian University of Athens, as well as two master's degrees:
 one in Humanities (University of the Basque Country) and another in the Phenomenology of Terrorism (University of

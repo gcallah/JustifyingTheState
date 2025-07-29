@@ -1,3 +1,5 @@
+================
+
 Kevin Vallier is a professor of philosophy at the University of Toledo, where he is director of research at the
 Institute of American Constitutional Thought and Leadership. Vallier's interests lie primarily in political philosophy,
 ethics, philosophy of religion, and philosophy, politics, and economics (PPE). He is the author of four monographs, five

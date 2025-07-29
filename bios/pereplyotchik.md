@@ -1,3 +1,5 @@
+================
+
 David Pereplyotchik is an Associate Professor of Philosophy at Kent State University.  His primary areas of research
 have been in philosophy of mind, philosophy of language, and philosophy of science.  He is the author of *Psychosyntax:
 The Nature of Grammar and Its Place in the Mind* (2017), as well as numerous articles, reviews, and commentaries for

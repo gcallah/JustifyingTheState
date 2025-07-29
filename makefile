@@ -1,7 +1,7 @@
 export WORD_DIR = ./word_docs
 export PUB_DIR = ./to_publisher
-export BIO_DIR = ./bio
-export ABS_DIR = ./abstract
+export BIO_DIR = ./bios
+export ABS_DIR = ./abstracts
 export TMP_DIR = ./tmp
 export BIN_DIR = ./bin
 export PROP_DIR = ./proposal
@@ -20,33 +20,33 @@ github:
 	-git commit -a
 	git push origin main
 
-parts: abstract bio toc proposal
+parts: abstracts bios toc proposal
 
 toc: $(WORD_DIR)/toc.docx
 
 $(WORD_DIR)/toc.docx: toc.md
-	pandoc -o $@ -f markdown -t docx toc.md
+	pandoc -o $@ -f markdown -t docx $^
 
 proposal: $(WORD_DIR)/prop.docx $(WORD_DIR)/palgrave.docx
 
 $(WORD_DIR)/prop.docx: $(PROP_DIR)/prop.md
-	pandoc -o $@ -f markdown -t docx $(PROP_DIR)/prop.md
+	pandoc -o $@ -f markdown -t docx $^
 
 $(WORD_DIR)/palgrave.docx: $(PROP_DIR)/palgrave.md
-	pandoc -o $@ -f markdown -t docx $(PROP_DIR)/palgrave.md
+	pandoc -o $@ -f markdown -t docx $^
 
-abstract: $(WORD_DIR)/abstract.docx
+abstracts: $(WORD_DIR)/abstracts.docx
 
-$(WORD_DIR)/abstract.docx: $(TMP_DIR)/abstract.md
-	pandoc -o $@ -f markdown -t docx $(TMP_DIR)/abstract.md
+$(WORD_DIR)/abstracts.docx: $(TMP_DIR)/abstracts.md
+	pandoc -o $@ -f markdown -t docx $^
 
-$(TMP_DIR)/abstract.md: $(ABS_DIR)/*.md $(STRUCT_DIR)/chap_order.txt
-	$(BIN_DIR)/collect_abstract.sh
+$(TMP_DIR)/abstracts.md: $(ABS_DIR)/*.md
+	cat $^ > $@
 
-bio: $(WORD_DIR)/bio.docx
+bios: $(WORD_DIR)/bios.docx
 
-$(WORD_DIR)/bio.docx: $(TMP_DIR)/bio.md
-	pandoc -o $@ -f markdown -t docx $(TMP_DIR)/bio.md
+$(WORD_DIR)/bios.docx: $(TMP_DIR)/bios.md
+	pandoc -o $@ -f markdown -t docx $^
 
-$(TMP_DIR)/bio.md: $(BIO_DIR)/*.md
+$(TMP_DIR)/bios.md: $(BIO_DIR)/*.md
 	cat $^ > $@

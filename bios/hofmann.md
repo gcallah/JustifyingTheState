@@ -1,3 +1,5 @@
+================
+
 Nils Hofmann, MD, BA, is currently a Master's student in Philosophy and Political Science at the University of Vienna
 and a medical doctor trained at the Medical University of Vienna. His MA thesis, which he is about to defend, explores a
 deconstructive theory of the foundation of law following Jacques Derrida. His research focuses on deconstructive legal

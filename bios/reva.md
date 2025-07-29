@@ -1,3 +1,5 @@
+================
+
 Nataliia Reva earned her PhD in Philosophy from Taras Shevchenko National University of Kyiv (Ukraine) in December 2021.
 Since then, she has been actively establishing her international academic profile as an emerging scholar. Her paper
 "Crises in Personal Orientation and Ways of Overcoming Them" won the 2022-2023 Philosophical Essay Prize Competition by
