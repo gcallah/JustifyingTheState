@@ -18,8 +18,6 @@ Edited by Gene Callahan and Leye Komolafe
 [W. John Coats](bios/coats.md), Connecticut College
 1. [John Rawls and the Original Position](abstracts/rawls.md),
 [Jason Ferrell](bios/ferrell.md), Concordia University
-1. [Robert Nozick: Is Only the Minimal State Justified?](abstracts/nozick.md)
-[Graeme Garrard](bios/garrard.md), Cardiff University
 1. [James Buchanan on the Limits of Liberty](abstracts/buchanan.md),
 [Alexander Craig](bios/craig.md), Saint Mary's College
 1. [Jürgen Habermas on Justifying the State through Communicative Rationality](abstracts/habermas.md),
@@ -36,7 +34,5 @@ Edited by Gene Callahan and Leye Komolafe
 [Leonard Kahn](bios/kahn.md), Loyola University
 1. [Coercion All the Way Down: A Ripsteinian Justification of the State](abstracts/ripstein.md),
 [Chrysogonus Okwenna](bios/okwenna.md), University of British Columbia
-1. [On Some Libertarian Intuition Pumps in Huemer](abstracts/huemer.md),
-[David Pereplyotchik](bios/pereplyotchik.md), Kent State University
 1. [Coda: Is the Justification for the Existence of Government a Useful Question?](abstracts/coda.md),
 [Daniel Klein](bios/klein.md), George Mason University
