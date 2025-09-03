@@ -34,5 +34,4 @@ Edited by Gene Callahan and Leye Komolafe
 [Leonard Kahn](bios/kahn.md), Loyola University
 1. [Coercion All the Way Down: A Ripsteinian Justification of the State](abstracts/ripstein.md),
 [Chrysogonus Okwenna](bios/okwenna.md), University of British Columbia
-1. [Coda: Is the Justification for the Existence of Government a Useful Question?](abstracts/coda.md),
-[Daniel Klein](bios/klein.md), George Mason University
+
