@@ -1,3 +1,4 @@
+
 ================
 
 Taylor J. Green holds a PhD in Political Theory from Carleton University. His research examines the conquest of nature

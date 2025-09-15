@@ -1,3 +1,4 @@
+
 Leye Komolafe is a researcher in legal and political philosophy and a Ph.D. candidate in Philosophy at the University of
 South Carolina, USA. His research focuses on political obligation, with particular emphasis on the ontological primacy
 of the human subject. His academic interests also include applied ethics and African philosophy. He holds a B.A. from

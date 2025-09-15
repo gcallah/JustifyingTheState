@@ -1,3 +1,4 @@
+
 ================
 
 W.J. Coats is a Professor of Government at Connecticut College where he

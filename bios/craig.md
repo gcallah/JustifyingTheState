@@ -1,3 +1,4 @@
+
 ================
 
 Alexander W. Craig is an Assistant Professor of Economics at Saint Mary's College in Notre Dame, IN. His research

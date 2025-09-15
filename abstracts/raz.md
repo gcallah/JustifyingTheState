@@ -1,3 +1,6 @@
+
+========
+
 # A Razian Audit of State Authority: Political Obligation, Legal Directives, and the Limits of Legitimate Power
 
 Karim Dharamsi, Mount Royal University

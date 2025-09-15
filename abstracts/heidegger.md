@@ -1,3 +1,6 @@
+
+========
+
 # Heidegger on State Authority: Being, Nature, and History
 
 Taylor Green, Carleton University
