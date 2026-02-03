@@ -24,6 +24,16 @@ def author_has_file(authors: dict, dir_to_check: str) -> dict:
     return authors
 
 
+def who_is_missing(authors: dict, dir_to_check: str):
+    missing_count = 0
+    for author in authors:
+        if not authors[author]:
+            missing_count += 1
+            print(f'{author} is missing in {dir_to_check}')
+    if missing_count == 0:
+        print('All accounted for, captain!')
+
+
 def main():
     if len(sys.argv) < 3:
         print('USAGE: missing.py [author_file] [dir_to_check]')
@@ -32,9 +42,7 @@ def main():
     dir_to_check = sys.argv[2]
     authors = read_authors(author_file)
     authors = author_has_file(authors, dir_to_check)
-    for author in authors:
-        if not authors[author]:
-            print(f'{author} is missing in {dir_to_check}')
+    who_is_missing(authors, dir_to_check)
 
 
 if __name__ == '__main__':
