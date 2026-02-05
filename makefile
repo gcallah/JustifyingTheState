@@ -2,6 +2,7 @@ export ABS_DIR = ./abstracts
 export ADDR_DIR = ./addresses
 export BIN_DIR = ./bin
 export BIO_DIR = ./bios
+export CHAP_DIR = ./chapters
 export PROP_DIR = ./proposal
 export PUB_DIR = ./to_publisher
 export STRUCT_DIR = ./structure
@@ -39,6 +40,9 @@ missing_addrs: FORCE
 missing_bios: FORCE
 	$(MISSING_PROG) $(AUTHOR_FILE) $(BIO_DIR)
 	
+missing_chaps: FORCE
+	$(MISSING_PROG) $(AUTHOR_FILE) $(CHAP_DIR) docx
+
 toc: $(WORD_DIR)/toc.docx
 
 $(WORD_DIR)/toc.docx: toc.md

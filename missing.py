@@ -2,7 +2,7 @@
 import os
 import sys
 
-SUFFIX = '.md'
+DEF_EXT = 'md'
 
 
 def read_authors(filenm: str) -> dict:
@@ -13,12 +13,12 @@ def read_authors(filenm: str) -> dict:
     return authors
 
 
-def author_has_file(authors: dict, dir_to_check: str) -> dict:
+def author_has_file(authors: dict, dir_to_check: str, ext: str) -> dict:
     os.chdir(dir_to_check)
     print(f"Current working directory changed to: {os.getcwd()}")
     files = os.listdir('.') # '.' refers to the current directory
     for file in files:
-        stripped = file.replace(SUFFIX, '')
+        stripped = file.replace(f'.{ext}', '')
         if stripped in authors:
             authors[stripped] = True
     return authors
@@ -31,7 +31,7 @@ def who_is_missing(authors: dict, dir_to_check: str):
             missing_count += 1
             print(f'{author} is missing in {dir_to_check}')
     if missing_count == 0:
-        print('All accounted for, captain!')
+        print(f'All accounted for in {dir_to_check}, captain!')
 
 
 def main():
@@ -40,8 +40,11 @@ def main():
         exit(1)
     author_file = sys.argv[1]
     dir_to_check = sys.argv[2]
+    ext = DEF_EXT
+    if len(sys.argv) > 3:
+        ext = sys.argv[3]
     authors = read_authors(author_file)
-    authors = author_has_file(authors, dir_to_check)
+    authors = author_has_file(authors, dir_to_check, ext)
     who_is_missing(authors, dir_to_check)
 
 
