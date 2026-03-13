@@ -29,7 +29,7 @@ github:
 
 parts: abstracts bios toc proposal
 
-whats_missing: missing_abs missing_addrs missing_bios 
+whats_missing: missing_abs missing_addrs missing_bios missing_chaps
 
 missing_abs: FORCE
 	$(MISSING_PROG) $(AUTHOR_FILE) $(ABS_DIR)
