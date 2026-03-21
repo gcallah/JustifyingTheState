@@ -21,6 +21,8 @@ def author_has_file(authors: dict, dir_to_check: str, ext: str) -> dict:
         stripped = file.replace(f'.{ext}', '')
         if stripped in authors:
             authors[stripped] = True
+        elif '~' not in file:
+            print(f'Possible extra file: {file}')
     return authors
 
 
