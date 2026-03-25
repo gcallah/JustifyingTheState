@@ -6,7 +6,6 @@ craig
 dharamsi
 ferrell
 green
-kahn
 karakasis
 klein
 komolafe

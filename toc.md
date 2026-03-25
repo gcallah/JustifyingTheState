@@ -30,8 +30,6 @@ Edited by Gene Callahan and Leye Komolafe
 [Jeff Carroll](bios/carroll.md), West Virginia University
 1. [Jonathan Wolff’s Pluralist Theory of Political Obligation](abstracts/jwolff.md),
 [Leye Komolafe](bios/komolafe.md), University of South Carolina
-1. [Michael Walzer on Political Legitimacy and Wars of Intervention](abstracts/walzer.md),
-[Leonard Kahn](bios/kahn.md), Loyola University
 1. [Coercion All the Way Down: A Ripsteinian Justification of the State](abstracts/ripstein.md),
 [Chrysogonus Okwenna](bios/okwenna.md), University of British Columbia
 
