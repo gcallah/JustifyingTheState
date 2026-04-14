@@ -91,6 +91,80 @@ system can work on any scale larger than a commune.
 She notes that "[Robert] Owen's [utopian] community was beset by wrangling and bad temper, and it
 survived for only two years (1825-1827)."
 
+"Anarchist demand the abolition of all economic monopolies and the common ownership of the soil and all other means of
+production, the use of which must be available to all without distinction" 23
+
+Say what one will about the Soviet Union, at least the people running it were intelligent enough to know that if a
+resource like a farm or a factory is available for all to use "without distinction," it will almost immediately cease to
+be a resource. Somebody or other must decide what will be grown on a farm, and what will be produced in a factory, and
+that somebody or other cannot possibly be everybody.  Even if we have a system where all the workers in a factory decide
+how things will be run by vote, that is still a distinction: what about all the people who do not work there? Per
+Rocker's declaration, they should have just as much access to the factory as the current workers. 
+
+Rocker goes on to favorably quote Saint-Simon declaring that the government of men will soon be replaced the
+administration of things. But no explanation is offered as to how anyone can "administer things" without also governing
+men. If a farm has an administrator, and he decides the farm will grow peaches, what is he supposed to do if the workers
+declare that instead they are going to grow cannabis? We have the decision to grow peaches came about through a vote of
+the current workers, what are they supposed to do if a new group of workers arrives, and proposes to tear out the peach
+trees and grow corn?
+
+
+"Anarchism is no patent solution for all human problems, no Utopia of a perfect social order, as it is so often been
+called, since on principal it rejects all absolute schemes and concepts." 30
+
+
+"The less [the] natural development of man is influenced by ecclesiastical or political guardianship, the more efficient
+and harmonious will human personality become, the more it will become the measure of the intellectual culture of the
+society in which it has grown." 31
+
+Why should we imagine that this is so? The evidence we actually have, documented, for instance, by René Girard, would
+seem to indicate that attempts to eliminate all hierarchies do not result in Shangri-La, but in a fierce competition for
+status.
+
+
+"This is the reason why all great culture periods in history have been periods of political weakness." 31
+
+What about the golden age of Athens? The Pax Romana? Elizabethan England? The Tang Dynasty? The Egyptian New Kingdom?
+This declaration appears to be an instance of only seeing what one wants to see.
+
+"Power operates only destructively, bent always on forcing every manifestation of life into the straight jacket of its
+laws." 33
+
+And here we see the Keystone of the utopian fantasy: power can just be wished away. The complete abandonment of power by
+all the decent people in society will not lead to it being seized by the worst.
+
+As Lenin said, the Bolsheviks did not seize power; they found it laying in the street and picked it up.
+
+Power cannot be wished away. We can only hope it gets used towards the good.
+
+
+Anarcho-Syndicalism recognizes "only the organic agreement of all on the basis of like interests and common convictions"
+90
+
+So the economy will function on the basis that everyone will agree about pretty much everything of importance. But as we
+have seen, even small communes fall apart because not everyone can agree on everything. So the basis of governance in
+this society rests simply on wishing away the fact that people often disagree, and wishing it away on a scale much
+larger than the commune.
+
+
+"The trade unions of a city or a rural district combine in a so-called labour cartel… they weld the workers together as
+a class and prevent the rise of any narrow-minded factional spirit." 93
+
+But how do they prevent this rise, if they have no coercive powers? Again, it seems to be merely by wishing it away.
+
+
+"All the labour cartels are grouped according to districts and regions to form the National Federation of Labour
+cartels, which maintain the permanent connection between the local bodies, arranges for free adjustment of the
+productive labour of the members of the different organizations on cooperative lines... 
+Every trade union is, moreover, federatively allied with all the organizations in the same trade throughout the country, and these in turn with all related trades, so that all are combined in general industrial alliances. It is the task of these alliances to arrange for the co-operative action of the local groups, to conduct solidarity strikes when the necessity arises, and to meet all the demands of the day-to-day struggle between capital and labour. Thus the Federation of Labour Cartels and the Federation of Industrial Alliances constitute the two poles about which the whole life of the trade unions revolves." 93-94
+
+So here we come to the crux of the matter: do these two poles actually have the power necessary to arrange the
+cooperative action of local groups and to order the conduct of solidarity strikes? If they do, then they constitute the
+AS state. But if they do not have such power, than what reason, other than wishful thinking, do we have to believe that
+they *can* carry out those tasks?
+
+
+
 
 
 
