@@ -248,10 +248,18 @@ do so, and never agreed to use any arbitration firm if Acme accused him of doing
 been acknowledged by him, beforehand. Second the existence of arbitration agency X ensures fairness and objectivity in
 any disputes." 15
 
-There are two things wrong here: the first is that the firm will presumably want to avoid being robbed not only by its
+There are several problems here: the first is that the firm will presumably want to avoid being robbed not only by its
 own employees, but by outsiders as well. And those outsiders have signed no such contract.
 
-The second problem is the assumption that these arbitration agencies will be unbiased. But if we accept the existence of
+Furthermore, what if the contract was signed with a 16-year-old employee, or a 14 year-old employee, or a 10 year-old
+employee? Is there some age for which, if one of the parties is below it, any contract is invalid? If not, babies can
+sell their labor for years for a lollipop. (One of my older children repeatedly tried to get a younger sibling to agree
+to such lopsided deals.) But if there is such an age, how is it agreed to? Surely the people too young to make valid
+contracts could not contract into such an arrangement. The same problem occurs with something like age of consent laws:
+Surely there is some age below which a person cannot meaningfully consent to sex. But wherever that cut off is set, the
+people falling below it did not consent to having it set there.
+
+Thirdly, there is the assumption that these arbitration agencies will be unbiased. But if we accept the existence of
 firms with hundreds of billions of dollars at their disposal to pay entities like arbitration agencies, firms which may
 be bringing claims against an employee who might have a few thousand dollars to spare to pay an agency... anyone who has
 ever been interested in buying an inexpensive property employing a real estate agent who sells multimillion dollar homes
