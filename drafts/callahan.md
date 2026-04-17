@@ -265,6 +265,13 @@ be bringing claims against an employee who might have a few thousand dollars to 
 ever been interested in buying an inexpensive property employing a real estate agent who sells multimillion dollar homes
 will it test to the fact that agents are influenced by the amount of money their clients can spend.
 
+Murphy, to his credit, anticipates this complaint and attempts to handle it by claiming that employees will be reluctant
+to work for companies that employ biased arbitration agents. But this simply assumes that there are companies where one
+can find employment that use non-biased agents. A note that the bias need not, and probably would not, be as extreme as
+the sort Murphy depicts, where the company simply makes up theft charges to milk departing employees for money. It could
+be as simple as a general inclination to accept the companies evidence as reliable, while the evidence the employee
+presents to refute their case is regarded with suspicion.
+
 
 
 
