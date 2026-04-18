@@ -274,6 +274,100 @@ presents to refute their case is regarded with suspicion.
 
 
 
+### Huemer
+
+
+"you assumed two of [the modern state's] most central roles: you punished people who violated others rights or disobeyed
+your commands, and you collected non-voluntary contributions to finance your activities. In the case of government,
+these activities are referred to as the criminal justice system and the tax system. In your case, they are referred to
+as kidnapping and extortion."
+
+
+Huemer does not seem to consider that what might be wrong for someone in one social position might be perfectly OK for
+someone in another. Imagine someone's mom showing up at the playground in her car, rolling down the window, and ordering
+Billy to get into the car because "we're going for a trip." Employing H's intuition pump here, we could imagine him
+complaining "If some perfect stranger did this, we would call it kidnapping!" Well, yes we would. But we don't call it
+that when Billy's mom does it, because we recognize that she has the proper authority to do so.
+
+
+
+"The system as a whole must be anchored by a non-voluntary intervention, a harm that the state can impose regardless of
+the individual's choices." 9
+
+But as Plato taught us long ago, being punished for one's wrongdoing is not a harm, but a good. (Gorgias) Of course,
+laws may punish actions that are not actually instances of wrongdoing, and those laws should be amended. As Habermas
+notes, a crucial aspect of politics is public reasoning about what the law should be.
+
+"Thus, the legal system is founded on *intentional, harmful coercion*." 10
+
+Again, see Gorgias.
+
+
+"But it never seemed to me that there were people with the right to rule over others, and it never seemed to me that
+anyone was obligated to obey a law merely because it was the law." 17
+
+So H has created a series of arguments not to reach the conclusion called for by his philosophizing, but to reach the
+conclusion he already wanted to reach.
+
+
+H several times says something such as "some explanation is required for why some people should have this special moral
+status." 17 But this is a confusion on H's part: it is not *people* who have the special moral status, but *roles*. For
+example, members of the judicial branch are not some special sort of people who have the power to pass judgment on
+others. They are current occupants of the role of *judge*, and that role consists in passing judgments on legal matters.
+He is not a special sort of person who, as he strolls out to the diner in the morning, or plays with his kids in the
+park on Saturday afternoon, can simply pass judgments on anything going on around him, judgments which those involved
+are obligated to follow. No, it is only during those times when he is occupying the role of judge that he is able to do
+these things.
+
+One wonders if H attends a baseball game, if he constantly complains about one single person somehow having the special
+status that only he can call balls and strikes?
+
+Once one understands that the accurate focus of discussion is roles, and not people, we can understand why authoritative
+laws should generally be obeyed, even if one judges them misguided.
+
+Consider someone occupying the role of head coach of a basketball team. When that person draws up a play during a
+timeout, the team should execute that play, even if some members think the coach is mistaken. That is because the role
+of head coach is to decide what sort of pattern the team should coordinate upon: are they going to try a pick and roll,
+or a backdoor play? And note that the coach himself could limit his own authority, by telling the team, for instance,
+"of course if they try a different defense, you'll have to improvise!"
+
+No, this obligation to obey depends upon the fact that the person is issuing a directive it's actually acting in the
+social role he has been assigned to, rather than departing from it, and simply acting towards his own individual goals.
+
+So if, for instance, with his team down by one point, and a few seconds left in a crucial game, the coach instructs his
+players to "inbound the ball, and then just hold it for the rest of the game," the players are fully justified in
+deciding that this person has left his role as coach and is now acting in, perhaps, the role of "game fixer." And while
+the players have an obligation to follow directives coming from the role of head coach, they have no such obligation to
+follow those coming from the role game fixer. And that is why revolution against authority is sometimes, if rarely,
+justified.
+
+Of course it is possible to play basketball without anyone occupying that role: every person who has ever played
+playground basketball knows that and that such games are interesting in their own right. But contests between teams of
+players simply improvising, and teams of players coordinating around some plan given to them by their coach largely
+favorite letter form of organization. Otherwise, NBA teams would stop paying head coaches so much money, and simply tell
+the players, "go out there and do whatever!"
+
+Much can be achieved through the spontaneous cooperation of individual humans. But such achievements are always fragile
+in the face of an antagonistic society that has organized along military lines.
+
+
+
+
+
+The role of authority is to have a means of resolving disputes. If only the pitcher and hitter got to have opinions
+about balls and strikes, we would have interminable arguments about any questionable pitch. The role of home plate
+umpire is necessary so that we can have a game of baseball at all, rather than a couple of pitches, followed by an
+enormous argument.
+
+
+
+
+No children ever consented to having their parents have authority over them. But amongst most mammal species, the
+newborn will not survive without guidance of their parents. And they are naturally oriented to accept such guidance.
+
+
+
+
 
 
 
