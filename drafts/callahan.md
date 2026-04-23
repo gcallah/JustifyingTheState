@@ -351,22 +351,95 @@ Much can be achieved through the spontaneous cooperation of individual humans. B
 in the face of an antagonistic society that has organized along military lines.
 
 
-
-
-
 The role of authority is to have a means of resolving disputes. If only the pitcher and hitter got to have opinions
 about balls and strikes, we would have interminable arguments about any questionable pitch. The role of home plate
 umpire is necessary so that we can have a game of baseball at all, rather than a couple of pitches, followed by an
 enormous argument.
 
 
-
-
 No children ever consented to having their parents have authority over them. But amongst most mammal species, the
 newborn will not survive without guidance of their parents. And they are naturally oriented to accept such guidance.
 
+H does a good job of showing my social contract theory does not work. But this is no argument against B, because B is
+not a social contract theorist.
+
+If one accepts that the state is the vehicle of social organization of some people, then we can answer H as Socrates
+does in Crito: you literally owe your existence to the state, and that is your source of obligation to it. No infant
+born without support from other humans will ever live more than a few days. Even if we grant a source of nourishment,
+without being educated by other human beings, no person could function as a somewhat autonomous adult.
+
+This has been read as a form of social contract theory, but I believe that is projecting contemporary ideas back into
+the dialogue. It's not a theory about any sort of "contract" one has signed agreeing to obey the state in return for
+certain benefits. No, because the society that reared one made one's existence today possible, one has a moral
+obligation to that society. And that society has seen fit to have a government that decides when coercion is permissible
+against someone violating the society's norms.
 
 
+Somewhat shockingly, given that he is discussing one of the most famous books in the history of political philosophy, H
+claims that "Nor, in Hobbs view, should the people fear injury at the hands of the state itself. The rulers will
+naturally want the people to survive in prosper, because that will make the rulers themselves more wealthy and
+powerful." 199
+
+AI: Thomas Hobbes acknowledges that subjects might fear the Leviathan (the Sovereign) primarily in Chapter XVIIIand
+Chapter XX of Leviathan. He admits that the absolute power necessary for security can be oppressive, but argues that
+this fear is a necessary trade-off to avoid the much greater terror of the state of nature. 
+
+He goes on to claim that Hobbes believes "there is no need to limit the state power, because excessive state power has
+not caused any significant problems." 199
+
+He accuses Hobbes of embracing totalitarianism. But as Michael Oakeshott pointed out, Hobbes was not a totalitarian
+because he was an authoritarian. His Leviathan did not care about things such as whether people smoked tobacco, ate a
+healthy diet, or wore seatbelts. It cared about times when a subject threatened to disturb the civil order.
+
+"pace Hobbes, people care about their family and friends" 200-201
+
+
+"In any realistic human society, even an anarchist one, at least some individuals will commit aggression against
+others." 230
+
+Again, it is worth noting that the ACs have a more realistic view of human nature than the ASs.
+
+"Arbitration by a neutral third-party is the best way to resolve most disputes, since it generally provides a good
+chance of delivering a reasonably fair resolution, and the costs of achieving this resolution are almost always far less
+for both parties than the cost of attempting a resolution through violence. For these reasons, almost all individuals
+would want their disputes to be resolved through arbitration." 231
+
+There are a few things worth noting here. First of all the arbitration agencies have exactly the kind of special
+"special moral status" that H complains of the government having. Why aren't they able to resolve these disputes, rather
+than me, or any other arbitrary person? Well, his society has given them that role, just like ours has assigned that
+role to government courts. The employees of the arbitration agency are not people given a special moral status, but
+occupy roles that are given a special moral status.
+
+And citizens typically looke to the government to perform exactly this role, although it always does so imperfectly.
+
+And the claim that is less costly to resolve a dispute through arbitration then through violence only applies when each
+side has roughly equal ability to use violence. But if an organization in anarchy focuses on being able to employ
+violence to extent that no other group in its area can do, it may find it less costly, and more beneficial, to use
+violence against any who oppose its preferred solution to some dispute. And this is exactly how the mafia arose in what
+was an essentially stateless island of Sicily in the kingdom of the two Sicilies. When Somalia fell into a state of
+anarchy, we did not see the rise of arbitration agencies peacefully settling disputes, but the rise of rival warlords
+employing violence against each other's organizations.
+
+
+When it comes to argue that AC is actually a form of anarchism, he claims that a key difference between AC and state
+governance is "voluntariness versus coerciveness" 232, because people choose their own protection agencies. Indeed, they
+will have voluntary we chosen their agency, but those agencies must still exercise coercion against people who did not
+choose them. (DP) for instance, if an AS sincerely believes that the capitalists ownership of the factory he works in
+his unjust, and leads the workers in an attempt to seize control of the factory, the capitalists protection agency will
+employ violence against him, if necessary, to protect its clients property rights. But the AS most definitely did not
+voluntarily agree that the capitalist had those property rights.
+
+The second advantage H claims for AC, is that one can more easily switch protection agencies than one can switch
+governments. But this is actually not a claim of a moral difference, but of a practical advantage for AC. And this, is
+indeed, how we should properly regard AC: as a proposal for a more effective system of governance than our current one,
+not as a system of "anarchy."
+
+And indeed, perhaps it would be more effective. But recognition of this fact strips AC of its claims tomorrow's
+superiority, and reduces it to an alternate proposal for how states should be governed.
+
+
+
+## Bosanquet on the Nature of the State
 
 
 
