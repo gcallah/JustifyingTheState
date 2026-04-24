@@ -8,20 +8,6 @@ Gene Callahan, New York University
 The British idealist philosopher Bernard Bosanquet offered, in the early twentieth century, a philosophical analysis of
 the nature of the state which to this day has not been adequately digested.
 
-Bosanquet argues that a philosophical theory of some aspect of experience is an attempt to place that aspect in the
-context of experience as a whole. Viewing the State thus philosophically, he writes:
-
-"We are thus led to see more plainly the true character of the State as a source of pervading adjustments and an
-idea-force, holding together a complex hierarchy of groups, and not itself a separable thing like the monarch or the
-'government...'"
-
-Seen from Bosanquet's vantage point, the justification for the State's existence is that it is the condition for society
-forming any sort of unity at all. As such, Bosanquet offers, in advance, a critique of projects such as Rothbard's
-anarcho-capitalism or Chomsky's anarcho-syndicalism: Rather than abolishing the State as they claim to do, these
-projects are, in fact, recommendations for reconfiguring the State in a form their authors believe will function more
-justly.
-
-
 ## How Bs State Is Different from the State of Most Modern Theories
 
 It is important in understanding B that by the State, B does not mean the government of some nation.
@@ -437,10 +423,30 @@ not as a system of "anarchy."
 And indeed, perhaps it would be more effective. But recognition of this fact strips AC of its claims tomorrow's
 superiority, and reduces it to an alternate proposal for how states should be governed.
 
+It makes an argument that the state of nature would not be anything like Hobbes picture of it: people would be generally
+peaceful, as employing violence against others risks injury to oneself, and will make many people other than the target
+of your violence see you as threatening.
+
+So humans lived in stateless societies, and people in them were mostly peaceful. If that is true, how did we wind up in
+a world in which all land is controlled by one state or another?
+
 
 
 ## Bosanquet on the Nature of the State
 
+
+Bosanquet argues that a philosophical theory of some aspect of experience is an attempt to place that aspect in the
+context of experience as a whole. Viewing the State thus philosophically, he writes:
+
+"We are thus led to see more plainly the true character of the State as a source of pervading adjustments and an
+idea-force, holding together a complex hierarchy of groups, and not itself a separable thing like the monarch or the
+'government...'"
+
+Seen from Bosanquet's vantage point, the justification for the State's existence is that it is the condition for society
+forming any sort of unity at all. As such, Bosanquet offers, in advance, a critique of projects such as Rothbard's
+anarcho-capitalism or Chomsky's anarcho-syndicalism: Rather than abolishing the State as they claim to do, these
+projects are, in fact, recommendations for reconfiguring the State in a form their authors believe will function more
+justly.
 
 
 
@@ -459,6 +465,10 @@ Nothing in history suggests that any social order can long endure if it does not
 not, act to undermine that order.
 
 
+If a society is organized around a body of rules and norms the violation of which will lead to coercion being exercised
+against the violator, then it is, among other things, a state. If it has such rules and norms but does not coerce
+violators, then it will soon cease to be a state and fall into social chaos.
+
 
 
 
@@ -470,6 +480,22 @@ ever been attempted at any scale, all that a fair-minded judge of their proposal
 work out as you envision. If you ever get a chance to implement them, we will find out." And even if their schemes did
 not work out as envisioned, the thinkers in these traditions have done us a valuable service in at least getting us to
 question our fundamental assumptions about what a state ought to look like.
+
+
+The government of that state is the portion of it tasked with coercing those who would act to undermine that order. Nothing in history suggests that any social order can long endure if it does not act against those who, unwittingly or not, act to undermine that order.
+
+
+
+
+Once we understand the fundamental nature of a state as B did, then we see the both AS and AC, if either were ever
+implemented, must become either states, or failed states exhibiting the genuinely bad sort of anarchy they both wish to
+avoid. They will either:
+
+1. Enforce the principles that are foundational to their social arrangements, even against those who object to them, and
+   thus function as the government of a state; or
+2. Fail to do so, and thus make likely the breakdown of social order
+
+
 
 Thus, this paper is not intended as a complete rejection of these proposals; its only aim is to point out that the claim
 that such proposals are "stateless" or would do away with "coercion," or would create societies without politics, are
