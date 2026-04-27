@@ -5,7 +5,8 @@
 
 Gene Callahan, New York University
 
-The British idealist philosopher Bernard Bosanquet offered, in the early twentieth century, a philosophical analysis of
+The British idealist philosopher Bernard Bosanquet offered, in his book *The Philosophical Theory of the State*,
+an analysis of
 the nature of the state which to this day has not been adequately recognized.
 This essay will use that analysis to reflect upon two prominent forms of
 "anarchism": anarcho-syndicalism (whose best-known advocate is the linguist Noam
@@ -19,13 +20,25 @@ implementing either. Rather, by pointing out that neither proposal actually
 does away with the State, it will hopefully aid in a clearer evaluation of
 these proposals in the future.
 
-We will begin by looking at 
+We will begin by looking at our pair of anarchist proposals, and then turn to
+Bosanquet to see why they are not actually stateless.
+
+NOTE: This essay is not an attempt to offer a full examination of Bosanquet
+book; it will indeed, only need to employ his discussion of the nature of the
+State in his introduction to the second edition.
 
 ## Anarcho-Syndicalism
 
+Let us first examine anarcho-syndicalism. The movement grew out of the
+libertarian branch of socialism, and focused on organizing workers through
+trade unions (*syndicat* in French), using their power as a group to eliminate
+both capitalism and the State.
 
-Rudolf Rocker was a German anarchist who moved to the United States after Hitler rose to power. At the behest of fellow
-anarchist Emma Goldman, he wrote an introduction to anarcho-syndicalism, published just before World War II.*
+Here we will focus on the work of Rudolf Rocker.
+Rocker was a German anarchist who moved to the United States after Hitler rose to power. At the behest of fellow
+anarchist Emma Goldman, he wrote a book on anarcho-syndicalism, published just
+before World War II.* The book was re-published in 1978, with a forward by Noam
+Chomsky.
 
 NOTE: Rocker, Rudolf. 1989. *Anarcho-Syndicalism*. Pluto Press: London.
 
