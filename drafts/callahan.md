@@ -8,29 +8,6 @@ Gene Callahan, New York University
 The British idealist philosopher Bernard Bosanquet offered, in the early twentieth century, a philosophical analysis of
 the nature of the state which to this day has not been adequately digested.
 
-## How Bs State Is Different from the State of Most Modern Theories
-
-It is important in understanding B that by the State, B does not mean the government of some nation.
-
-Compare with Gentiles take that the state is the need to live with others under determinate rules.
-
-As both are idealists working in the broadly Hegelian tradition and near contemporaries, it is not surprising that they
-might have similar ideas about what constitutes the state.
-
-
-
-The state is the representation of a people as a political reality.
-
-They might also be, or not be, a single religious community, or a kinship community, and perhaps also a single
-linguistic community.
-
-
-
-Since there have been many proponents of each of these views, and one could easily devote a book to each comparing their
-different varieties, this paper will necessarily offer only a sketch of each. In order to do so, we will focus on just a
-few prominent writers working in these traditions.
-
-
 
 ## Anarcho-Syndicalism
 
@@ -435,6 +412,27 @@ a world in which all land is controlled by one state or another?
 ## Bosanquet on the Nature of the State
 
 
+It is important in understanding B that by the State, B does not mean the government of some nation.
+
+Compare with Gentiles take that the state is the need to live with others under determinate rules.
+
+As both are idealists working in the broadly Hegelian tradition and near contemporaries, it is not surprising that they
+might have similar ideas about what constitutes the state.
+
+
+
+The state is the representation of a people as a political reality.
+
+They might also be, or not be, a single religious community, or a kinship community, and perhaps also a single
+linguistic community.
+
+
+
+Since there have been many proponents of each of these views, and one could easily devote a book to each comparing their
+different varieties, this paper will necessarily offer only a sketch of each. In order to do so, we will focus on just a
+few prominent writers working in these traditions.
+
+
 Bosanquet argues that a philosophical theory of some aspect of experience is an attempt to place that aspect in the
 context of experience as a whole. Viewing the State thus philosophically, he writes:
 
@@ -447,6 +445,11 @@ forming any sort of unity at all. As such, Bosanquet offers, in advance, a criti
 anarcho-capitalism or Chomsky's anarcho-syndicalism: Rather than abolishing the State as they claim to do, these
 projects are, in fact, recommendations for reconfiguring the State in a form their authors believe will function more
 justly.
+
+
+"it must be remembered that our theory does not place sovereignty in any determinate person or body of persons, but only
+in the working of the system of institutions as a whole."
+Xxiii
 
 
 
