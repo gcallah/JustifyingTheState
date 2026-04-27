@@ -6,8 +6,20 @@
 Gene Callahan, New York University
 
 The British idealist philosopher Bernard Bosanquet offered, in the early twentieth century, a philosophical analysis of
-the nature of the state which to this day has not been adequately digested.
+the nature of the state which to this day has not been adequately recognized.
+This essay will use that analysis to reflect upon two prominent forms of
+"anarchism": anarcho-syndicalism (whose best-known advocate is the linguist Noam
+Chomsky) and anarcho-capitalism (developed by Murray Rothbard (NOTE) and
+recently championed by Michael Huemer and Robert P. Murphy, among others). In
+light of Bosanquet's theory, we will see that neither anarcho-syndicalism's nor
+anarcho-capitalism's ideal societies are actually stateless: both are proposals
+for novel forms of the State. This paper will not attempt an evaluation of the
+potential benefits and downsides of such a State, or even of the feasibility of
+implementing either. Rather, by pointing out that neither proposal actually
+does away with the State, it will hopefully aid in a clearer evaluation of
+these proposals in the future.
 
+We will begin by looking at 
 
 ## Anarcho-Syndicalism
 
