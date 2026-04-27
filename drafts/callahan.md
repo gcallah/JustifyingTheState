@@ -463,6 +463,17 @@ justly.
 in the working of the system of institutions as a whole."
 Xxiii
 
+"the administrative expression of the general will... may take any efficient and convenient shape... It is impossible to
+lay down in detail any indispensable form even for the supreme direction of affairs…" xxiv
+
+"The state is rightly described as the hindrance to hindrances of good life." xxvi
+
+"we can see how the working of the State proper, as society armed with force, has in it a negative element, without
+being driven by a false antithesis to ascribe all fertile and positive achievement to 'individualistic' factors." xxviii
+
+
+
+
 
 
 
