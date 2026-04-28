@@ -5,97 +5,124 @@
 
 Gene Callahan, New York University
 
-The British idealist philosopher Bernard Bosanquet offered, in his book *The Philosophical Theory of the State*,
-an analysis of
+The British idealist philosopher Bernard Bosanquet offered, in his book *The
+Philosophical Theory of the State*, an analysis of
 the nature of the state which to this day has not been adequately recognized.
+
 This essay will use that analysis to reflect upon two prominent forms of
 "anarchism": anarcho-syndicalism (whose best-known advocate is the linguist Noam
 Chomsky) and anarcho-capitalism (developed by Murray Rothbard (NOTE) and
 recently championed by Michael Huemer and Robert P. Murphy, among others). In
 light of Bosanquet's theory, we will see that neither anarcho-syndicalism's nor
 anarcho-capitalism's ideal societies are actually stateless: both are proposals
-for novel forms of the State. This paper will not attempt an evaluation of the
+for novel forms of the State.
+
+This chapter will not attempt an evaluation of the
 potential benefits and downsides of such a State, or even of the feasibility of
-implementing either. Rather, by pointing out that neither proposal actually
-does away with the State, it will hopefully aid in a clearer evaluation of
-these proposals in the future.
+implementing either. Nor does it pretend to be a comprehensive survey of AS or
+AC thinkers: such a project would require a book for each camp, not a single 
+book chapter for both.
 
-We will begin by looking at our pair of anarchist proposals, and then turn to
-Bosanquet to see why they are not actually stateless.
+Instead, we will begin by looking at a few highly regarded texts from these traditions.
+Along the way to understanding why both of their proposed systems of social
+organization are actually states, we will analyze some dubious arguments their
+proponents make. that, while perhaps not directly demonstrating our central
+thesis, are examples of how the claims of statelessness are superficially made
+to appear more plausible.
+We will then turn to Bosanquet to see why they are not actually stateless.
+Recognizing that neither actually does away with the State will hopefully aid
+in a clearer evaluation of these proposals in the future.
 
-NOTE: This essay is not an attempt to offer a full examination of Bosanquet
+NOTE: This essay also is not an attempt to offer a full examination of Bosanquet's
 book; it will indeed, only need to employ his discussion of the nature of the
 State in his introduction to the second edition.
 
 ## Anarcho-Syndicalism
 
-Let us first examine anarcho-syndicalism. The movement grew out of the
+We will first examine anarcho-syndicalism. The movement grew out of the
 libertarian branch of socialism, and focused on organizing workers through
-trade unions (*syndicat* in French), using their power as a group to eliminate
-both capitalism and the State.
+trade unions (*syndicat* in French), proposing using their collective
+power to eliminate both capitalism and the State.
 
-Here we will focus on the work of Rudolf Rocker.
-Rocker was a German anarchist who moved to the United States after Hitler rose to power. At the behest of fellow
-anarchist Emma Goldman, he wrote a book on anarcho-syndicalism, published just
-before World War II.* The book was re-published in 1978, with a forward by Noam
-Chomsky.
+Rudolf Rocker will be our spokesperson for AS.  Rocker was a German anarchist
+who moved to the United States after Hitler rose to power. At the behest of
+fellow anarchist Emma Goldman, he wrote the book *Anarcho-Syndicalism*, which
+was published just before World War II.* It was re-published in 1978, with a
+forward by Noam Chomsky. It has been re-printed and translated many other
+times, and a new version from AK Press is scheduled this year.
 
 NOTE: Rocker, Rudolf. 1989. *Anarcho-Syndicalism*. Pluto Press: London.
 
+Early on, Rocker endorses a very simple labor-theory of value:
 
-"The average working time required for the completion of any product becomes the measure of its value and is the basis
-of mutual exchange." (15)
+"The average working time required for the completion of any product becomes
+the measure of its value and is the basis of mutual exchange." (15)
 
-So tomorrow, if you devise a cure for cancer during four hours in the morning, while I make a rickety footstool which
-takes me eight hours to produce, my footstool must have twice the value of your cure for cancer.
+NOTE: Marx and Engels never would have endorsed such a naive labor theory: they
+always insisted upon "socially necessary labor." (NEED REF!)
 
-In fact, any such scheme:
+
+So tomorrow, if you devise a cure for cancer during four hours in your morning,
+while I make a rickety footstool which takes me eight hours to produce, my
+footstool must have twice the value of your cure for cancer.
+
+In fact, any scheme that realized Rocker's ideal:
 
 1. Would require coercion to enforce these prices; and
-2. Would tempt any syndicate to earn more for its labor by producing it in a more leisurely fashion, thereby increasing
-   the average time it takes to make that product, and thus increasing its price. (Of course if they cut their work rate
-   in half and the amount of products they output decreased proportionately, they would not actually earn more. But they
-   would earn the same amount for half the work. And this would be very likely to inspire a race to the bottom, where
-   every syndicate simply works at a more and more leisurely pace, since it keeps earning the same nominal amount. (Of
-   course, if all syndicates enter into this race, their *real* earnings will keep dropping, as total output will
-   continually fall.)
+2. Would tempt any syndicate to earn more for its labor by producing it in a
+   more leisurely fashion, thereby increasing the average time it takes to make
+   that product, and thus increasing its price. (Of course if they cut their
+   work rate in half and the amount of products they output decreased
+   proportionately, they would not actually earn more. But they would earn the
+   same amount for half the work. And this would be very likely to inspire a
+   race to the bottom, where every syndicate simply works at a more and more
+   leisurely pace, since it keeps earning the same nominal amount. (Of course,
+   if all syndicates enter into this race, their *real* earnings will keep
+   dropping, as total output will continually fall.)
 
-   Rocker would probably respond, "Well, people wouldn't act that way under anarchism." As with many utopias, his
-   depends heavily on the people living in it being significantly different than the people we actually see around us.
-   Rocker is aware of this fact, but it does not trouble him, since he believes the nature of the people we meet today
-   (as in his time) is deformed by:
+Rocker would probably respond, "Well, people wouldn't act that way under
+anarchism." As with many utopias, his depends heavily on the people living
+in it being significantly different than the people we actually see around
+us. Rocker is aware of this fact, but it does not trouble him, since he
+believes the nature of the people we meet today (as in his time) is deformed
+by:
 
-   "The ever-growing power of a solace political bureaucracy which supervises and safeguards life of man from the cradle
-   to the grave... [which puts] ever greater obstacles in the way of the solidaric cooperation of human beings and
-   [crushes] out every possibility of new development" (p. 11).
 
-   Perhaps he is right, but the evidence is against him. It is true that in a small community in which everyone knows
-   everyone else and has close knowledge of what they do every day, such shirking is difficult to get away with. But
-   even in such communities, it still occurs.* But I cannot think of any period in history which provides any evidence
-   that such a system can work on any scale larger than a commune.
+"The ever-growing power of a solace political bureaucracy which supervises and
+safeguards life of man from the cradle to the grave... [which puts] ever
+greater obstacles in the way of the solidaric cooperation of human beings and
+[crushes] out every possibility of new development" (p. 11).
+
+Perhaps he is right, but the evidence is against him. It is true that in a
+small community in which everyone knows everyone else and has close knowledge
+of what they do every day, such shirking is difficult to get away with. But
+even in such communities, it still occurs.* But I cannot think of any period in
+history which provides any evidence that such a system can work on any scale
+larger than a commune.
 
 * See, for instance, Botscharow, Lucy Jayne (1989) "Disharmony in Utopia: Social Categories in Robert Owen's New
-* Harmony,"
+Harmony,"
     *Communal Societies*: Vol. 9 No. 1, Article 9. DOI: https://doi.org/10.9707/0739-1250.1819.  She notes that
     "[Robert] Owen's [utopian] community was beset by wrangling and bad temper, and it survived for only two years
     (1825-1827)."
 
-    "Anarchist demand the abolition of all economic monopolies and the common ownership of the soil and all other means
-    of production, the use of which must be available to all without distinction" 23
 
-    Say what one will about the Soviet Union, at least the people running it were intelligent enough to know that if a
-    resource like a farm or a factory is available for all to use "without distinction," it will almost immediately
-    cease to be a resource. Somebody or other must decide what will be grown on a farm, and what will be produced in a
-    factory, and that somebody or other cannot possibly be everybody.  Even if we have a system where all the workers in
-    a factory decide how things will be run by vote, that is still a distinction: what about all the people who do not
-    work there? Per Rocker's declaration, they should have just as much access to the factory as the current workers. 
+"Anarchist demand the abolition of all economic monopolies and the common ownership of the soil and all other means
+of production, the use of which must be available to all without distinction" 23
 
-    Rocker goes on to favorably quote Saint-Simon declaring that the government of men will soon be replaced the
-    administration of things. But no explanation is offered as to how anyone can "administer things" without also
-    governing men. If a farm has an administrator, and he decides the farm will grow peaches, what is he supposed to do
-    if the workers declare that instead they are going to grow cannabis? We have the decision to grow peaches came about
-    through a vote of the current workers, what are they supposed to do if a new group of workers arrives, and proposes
-    to tear out the peach trees and grow corn?
+Say what one will about the Soviet Union, at least the people running it were intelligent enough to know that if a
+resource like a farm or a factory is available for all to use "without distinction," it will almost immediately
+cease to be a resource. Somebody or other must decide what will be grown on a farm, and what will be produced in a
+factory, and that somebody or other cannot possibly be everybody.  Even if we have a system where all the workers in
+a factory decide how things will be run by vote, that is still a distinction: what about all the people who do not
+work there? Per Rocker's declaration, they should have just as much access to the factory as the current workers. 
+
+Rocker goes on to favorably quote Saint-Simon declaring that the government of men will soon be replaced the
+administration of things. But no explanation is offered as to how anyone can "administer things" without also
+governing men. If a farm has an administrator, and he decides the farm will grow peaches, what is he supposed to do
+if the workers declare that instead they are going to grow cannabis? We have the decision to grow peaches came about
+through a vote of the current workers, what are they supposed to do if a new group of workers arrives, and proposes
+to tear out the peach trees and grow corn?
 
 
 "Anarchism is no patent solution for all human problems, no Utopia of a perfect social order, as it is so often been
