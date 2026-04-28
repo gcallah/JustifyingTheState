@@ -53,22 +53,32 @@ times, and a new version from AK Press is scheduled this year.
 
 NOTE: Rocker, Rudolf. 1989. *Anarcho-Syndicalism*. Pluto Press: London.
 
-Early on, Rocker endorses a very simple labor-theory of value:
+Early on, Rocker endorses a labor-theory of value:
 
 "The average working time required for the completion of any product becomes
 the measure of its value and is the basis of mutual exchange." (15)
 
-NOTE: Marx and Engels never would have endorsed such a naive labor theory: they
-always insisted upon "socially necessary labor." (NEED REF!)
+This is apparently an instance of Marx's theory of value, in which he offers
+this definition of socially necessary labor:
 
+"In the process we are now considering it is of extreme importance, that no
+more time be consumed in the work of transforming the cotton into yarn than is
+necessary under the given social conditions. If under normal, i.e., average
+social conditions of production, a pounds of cotton ought to be made into b
+pounds of yarn by one hour’s labour, then a day’s labour does not count as 12
+hours’ labour unless 12 a pounds of cotton have been made into 12 b pounds of
+yarn; for in the creation of value, the time that is socially necessary alone
+counts."
 
-So tomorrow, if you devise a cure for cancer during four hours in your morning,
-while I make a rickety footstool which takes me eight hours to produce, my
-footstool must have twice the value of your cure for cancer.
+NOTE: Capital, Volume I, Chapter 7.
+https://www.marxists.org/archive/marx/works/1867-c1/ch07.htm.
+
 
 In fact, any scheme that realized Rocker's ideal:
 
-1. Would require coercion to enforce these prices; and
+1. Would require a final arbiter to resolve disputes as to exactly how many
+   hours of some syndicate's labor were "socially necessary," with the ability
+   to enforce its decisions with coercion, if necessary.
 2. Would tempt any syndicate to earn more for its labor by producing it in a
    more leisurely fashion, thereby increasing the average time it takes to make
    that product, and thus increasing its price. (Of course if they cut their
@@ -100,17 +110,21 @@ even in such communities, it still occurs.* But I cannot think of any period in
 history which provides any evidence that such a system can work on any scale
 larger than a commune.
 
-* See, for instance, Botscharow, Lucy Jayne (1989) "Disharmony in Utopia: Social Categories in Robert Owen's New
-Harmony,"
-    *Communal Societies*: Vol. 9 No. 1, Article 9. DOI: https://doi.org/10.9707/0739-1250.1819.  She notes that
-    "[Robert] Owen's [utopian] community was beset by wrangling and bad temper, and it survived for only two years
-    (1825-1827)."
+NOTE: See, for instance, Botscharow, Lucy Jayne (1989) "Disharmony in Utopia: Social Categories in Robert Owen's New
+Harmony," *Communal Societies*: Vol. 9 No. 1, Article 9. DOI:
+https://doi.org/10.9707/0739-1250.1819.  She notes that "[Robert] Owen's
+[utopian] community was beset by wrangling and bad temper, and it survived for
+only two years (1825-1827)."
+For more examples, with links to further sources, see Reed, Lawrence W. (2021).
+"The Dark Side of Paradise: A Brief History of America's Utopian Experiments in
+Communal Living." *The Freeman*.
+https://fee.org/articles/the-dark-side-of-paradise-a-brief-history-of-americas-utopian-experiments-in-communal-living/.
 
+Rocker then declares that: "Anarchists demand the abolition of all economic
+monopolies and the common ownership of the soil and all other means of
+production, the use of which must be available to all without distinction" 23
 
-"Anarchist demand the abolition of all economic monopolies and the common ownership of the soil and all other means
-of production, the use of which must be available to all without distinction" 23
-
-Say what one will about the Soviet Union, at least the people running it were intelligent enough to know that if a
+Say what one will about the Soviet Union, at least the people running it were realistic enough to know that if a
 resource like a farm or a factory is available for all to use "without distinction," it will almost immediately
 cease to be a resource. Somebody or other must decide what will be grown on a farm, and what will be produced in a
 factory, and that somebody or other cannot possibly be everybody.  Even if we have a system where all the workers in
@@ -120,22 +134,26 @@ work there? Per Rocker's declaration, they should have just as much access to th
 Rocker goes on to favorably quote Saint-Simon declaring that the government of men will soon be replaced the
 administration of things. But no explanation is offered as to how anyone can "administer things" without also
 governing men. If a farm has an administrator, and he decides the farm will grow peaches, what is he supposed to do
-if the workers declare that instead they are going to grow cannabis? We have the decision to grow peaches came about
+if the workers declare that instead they are going to grow cannabis? If the decision to grow peaches came about
 through a vote of the current workers, what are they supposed to do if a new group of workers arrives, and proposes
-to tear out the peach trees and grow corn?
+to tear out the peach trees and grow corn? After all, the use of the farm "must
+be available to all without distinction."
 
-
-"Anarchism is no patent solution for all human problems, no Utopia of a perfect social order, as it is so often been
-called, since on principal it rejects all absolute schemes and concepts." 30
-
+For Rocker, the factor that makes people in our actual world behave so differently than
+they will in his utopia is authority:
 
 "The less [the] natural development of man is influenced by ecclesiastical or political guardianship, the more efficient
 and harmonious will human personality become, the more it will become the measure of the intellectual culture of the
 society in which it has grown." 31
 
-Why should we imagine that this is so? The evidence we actually have, documented, for instance, by René Girard, would
+But why should we imagine that this is so? The evidence we actually have, documented, for instance, by René Girard, would
 seem to indicate that attempts to eliminate all hierarchies do not result in Shangri-La, but in a fierce competition for
-status.
+status. Girard points out that this is the problem plaguing the Greek army in
+Troilus and Cressida: "Ulysses diagnoses the problem... as a loss of authority
+caused by rivalry among the chiefs."
+
+NOTE: Girard, Rene (1991). *A Theater of Envy: William Shakespeare*. St.
+Augustine's Press: South Bend, Indiana. Pg. 141.
 
 
 "This is the reason why all great culture periods in history have been periods of political weakness." 31
