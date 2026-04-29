@@ -146,46 +146,44 @@ they will in his utopia is authority:
 and harmonious will human personality become, the more it will become the measure of the intellectual culture of the
 society in which it has grown." 31
 
-But why should we imagine that this is so? The evidence we actually have, documented, for instance, by René Girard, would
-seem to indicate that attempts to eliminate all hierarchies do not result in Shangri-La, but in a fierce competition for
-status. Girard points out that this is the problem plaguing the Greek army in
-Troilus and Cressida: "Ulysses diagnoses the problem... as a loss of authority
+But why should we imagine that this is so? The evidence we actually have,
+documented, for instance, by René Girard, would seem to indicate that attempts
+to eliminate all hierarchies do not result in Shangri-La, but in a fierce
+competition for status. Girard points out that this is the problem plaguing the
+Greek army in Troilus and Cressida: "Ulysses diagnoses the problem... as a loss
+of authority
 caused by rivalry among the chiefs."
 
 NOTE: Girard, Rene (1991). *A Theater of Envy: William Shakespeare*. St.
 Augustine's Press: South Bend, Indiana. Pg. 141.
 
 
-"This is the reason why all great culture periods in history have been periods of political weakness." 31
-
-What about the golden age of Athens? The Pax Romana? Elizabethan England? The Tang Dynasty? The Egyptian New Kingdom?
-This declaration appears to be an instance of only seeing what one wants to see.
-
+Rocker claims:
 "Power operates only destructively, bent always on forcing every manifestation of life into the straight jacket of its
 laws." 33
 
-And here we see the Keystone of the utopian fantasy: power can just be wished away. The complete abandonment of power by
+And here we see the one of the keystones of the utopian fantasy: power can just be wished away. The complete abandonment of power by
 all the decent people in society will not lead to it being seized by the worst.
-
-As Lenin said, the Bolsheviks did not seize power; they found it laying in the street and picked it up.
-
-Power cannot be wished away. We can only hope it gets used towards the good.
+But, as Lenin said, the Bolsheviks did not seize power; they found it laying in the street and picked it up.
 
 
-Anarcho-Syndicalism recognizes "only the organic agreement of all on the basis of like interests and common convictions"
-90
+Rather than using power, Anarcho-Syndicalism recognizes "only the organic
+agreement of all on the basis of like interests and common convictions" 90
 
-So the economy will function on the basis that everyone will agree about pretty much everything of importance. But as we
+So society will function on the basis that everyone will agree about pretty much everything of importance. But as we
 have seen, even small communes fall apart because not everyone can agree on everything. So the basis of governance in
 this society rests simply on wishing away the fact that people often disagree, and wishing it away on a scale much
 larger than the commune.
 
+There is some acknowledgement that strife may need to be managed: "The trade
+unions of a city or a rural district combine in a so-called labour cartel...
+they weld the workers together as a class and prevent the rise of any
+narrow-minded factional spirit." 93
 
-"The trade unions of a city or a rural district combine in a so-called labour cartel… they weld the workers together as
-a class and prevent the rise of any narrow-minded factional spirit." 93
+But how do they prevent this rise, if they have no coercive powers? Again, it
+seems to be merely by wishing it away.
 
-But how do they prevent this rise, if they have no coercive powers? Again, it seems to be merely by wishing it away.
-
+When it comes to the larger-scale organization of society, Rocker's plan is:
 
 "All the labour cartels are grouped according to districts and regions to form the National Federation of Labour
 cartels, which maintain the permanent connection between the local bodies, arranges for free adjustment of the
@@ -202,108 +200,140 @@ cooperative action of local groups and to order the conduct of solidarity strike
 AS state. But if they do not have such power, than what reason, other than wishful thinking, do we have to believe that
 they *can* carry out those tasks?
 
+Thus, AS either offers:
 
-
-
+- An alternative form of the State; or
+- A recipe for anarchy in the bad sense of mere chaos.
 
 
 ## Anarcho-Capitalism
 
-Anarcho-Capitalism it's a very different strain of anarchism. It is sharply differentiated from a AS by:
+Anarcho-Capitalism is sharply differentiated from a AS by:
 
-* making private property central to its proposed social system.  Not worrying about great wealth disparities, except to
-* the extent that it some advocates promise that these will be smaller under their system.* An explicit recognition that
-* violence will be necessary in order to enforce the rules of their system. Of course, they regard this as just
-* violence, not unjust coercion.
-
-
-Note: they do so based on their belief that most of today's great mega-fortunes depend upon government favoritism such
-as unjust granting of monopolies in, for instance, intellectual property.
+- Making private property central to its proposed social system.
+- Not worrying about great wealth disparities, except to the extent that it
+  some advocates promise that these will be smaller under their system.*
+- An explicit recognition that violence will be necessary in order to enforce
+  the rules of their system. Of course, ACs regard this as just violence, not
+  unjust coercion.
 
 
-In this section, we will look at two prominent examples of AC literature: Robert P Murphy's book chaos theory, and
-Michael Huemer's work, The Problem of Political Authority.
+Note: they do so based on their belief that most of today's great mega-fortunes
+depend upon government favoritism such as unjust granting of monopolies in
+intellectual property or gaining revenue through state contracts, which for
+them is the receipt of stolen property. We will return to this point later.
 
 
-
-In fact, given the AC critique of the current economic system, it is hard to see why most people would consent to the
-current property distribution. After all, the extremely wealthy largely got that way by exploiting government-granted
-privileges. Why should I accept the fact that I only own 1 acre of land, while my neighbor has 1000 acres, but only
-because of a grant given to his great-great… grandfather buy some remote English king?
-
-Nevertheless, there must be some determinate starting property distribution in AC, otherwise there is no stable way to
-adjudicate property disputes, and no uncontested way to decide who gets to fund which protection agencies. There is
-nothing to prevent protection agencies from, for instance, selling packages to their clients, that grant them various
-levels of protection. And if Rich clients are paying the agencies many times the amount of poor clients can pay them, it
-is hard to imagine that the agencies won't pay attention to where their revenue is coming from.
+In this section, we will look at two prominent examples of AC literature:
+Robert P. Murphy's book *Chaos Theory*, and Michael Huemer's work, *The Problem of
+Political Authority*.
 
 
-
-
-So even many of those who wake up one day to find themselves living in Americapistan will not consent to the current
-property distribution, but will simply sign up with some protection agency or another because the alternative is much
-worse. 
-
-
-If Elon Musk can afford to sign a $50 million a year contract with a protection agency and not lose a significant
-portion of his wealth, then it will certainly protect him a lot more than someone living in inner-city Detroit. There is
-no reason to think that the disparity will be proportionate: Mask does not want to live a mid total chaos, and he
-doesn't mind some portion of his wealth going to provide some protection to much poorer clients of the protection
-agency. But it is hard to believe that he will not want his protection agency to protect the monopoly he receives
-through the intellectual property rights he holds.
 
 
 ### Murphy
 
 
-"But in the stateless society there wouldn't be a legislative body of laws, nor would there be government courts or
-police. Nonetheless, employers would still like some protection from theft by their employees. So before hiring an
-applicant, the employer would make him sign a document that had clauses to the effect of 'I promise not to steal from
-the Acme Firm. If I get caught stealing, *as established by arbitration agency X*...'" 14
+"But in the stateless society there wouldn't be a legislative body of laws, nor
+would there be government courts or police. Nonetheless, employers would still
+like some protection from theft by their employees. So before hiring an
+applicant, the employer would make him sign a document that had clauses to the
+effect of 'I promise not to steal from the Acme Firm. If I get caught stealing,
+*as established by arbitration agency X*...'" 14
 
-We can imagine that the Acme Firm is an industrial conglomerate producing the various devices with which the coyote
-hunts the roadrunner. But how did the Acme Firm come to be in a position where it was the recognized owner of its
-factories, and could accuse anyone taking things out of them without authorization as a thief? Perhaps they came to own
-them by contractually purchasing them from the previous owner. But it can't be contracts all the way down: at some
-point, there was a first owner of the land the factories sat upon. And that owner quite likely acquired them through a
-government grant or military conquest, which the employee signing the contract certainly never voluntarily agreed to. As
-any good AS would tell you, of course, when most productive resources are concentrated in a relatively small number of
-hands, the rest of the populace has no choice but to "voluntarily" work for the people who own those resources. And,
-under AC, to voluntarily sign contracts promising not to take any of those resources for themselves.
+We can imagine that the Acme Firm is an industrial conglomerate producing the
+various devices with which the coyote hunts the roadrunner. But how did the
+Acme Firm come to be in a position where it was the recognized owner of its
+factories, and could accuse anyone taking things out of them without
+authorization as a thief? Perhaps they came to own them by contractually
+purchasing them from the previous owner. But it can't be contracts all the way
+down: at some point, there was a first owner of the land the factories sat
+upon. And that owner quite likely acquired them through a government grant or
+military conquest, which the employee signing the contract certainly never
+voluntarily agreed to. As any good AS would tell you, of course, when most
+productive resources are concentrated in a relatively small number of hands,
+the rest of the populace has no choice but to "voluntarily" work for the people
+who own those resources. And, under AC, to voluntarily sign contracts promising
+not to take any of those resources for themselves.
 
-And, as DP points out in this volume, if protection agencies really are going to safeguard their clients property, they
-will have to employ coercion against people who never signed a contract with them. Consider, for instance, someone who
-sneaks into the factory at night and steals a number of Acme Rocket Shoes: *he* never signed a contract promising not to
-do so, and never agreed to use any arbitration firm if Acme accused him of doing so.
+And, as DP points out in this volume, if protection agencies really are going
+to safeguard their clients property, they will have to employ coercion against
+people who never signed a contract with them. Consider, for instance, someone
+who sneaks into the factory at night and steals a number of Acme Rocket Shoes:
+*he* never signed a contract promising not to do so, and never agreed to use
+any arbitration firm if Acme accused him of doing so.
 
 
-"We immediately see two things in this contract. First it is completely voluntary; any 'laws' binding the employee have
-been acknowledged by him, beforehand. Second the existence of arbitration agency X ensures fairness and objectivity in
-any disputes." 15
+"We immediately see two things in this contract. First it is completely
+voluntary; any 'laws' binding the employee have been acknowledged by him,
+beforehand. Second the existence of arbitration agency X ensures fairness and
+objectivity in any disputes." 15
 
-There are several problems here: the first is that the firm will presumably want to avoid being robbed not only by its
-own employees, but by outsiders as well. And those outsiders have signed no such contract.
+There are several problems here: the first is that the firm will presumably
+want to avoid being robbed not only by its own employees, but by outsiders as
+well. And those outsiders have signed no such contract.
 
-Furthermore, what if the contract was signed with a 16-year-old employee, or a 14 year-old employee, or a 10 year-old
-employee? Is there some age for which, if one of the parties is below it, any contract is invalid? If not, babies can
-sell their labor for years for a lollipop. (One of my older children repeatedly tried to get a younger sibling to agree
-to such lopsided deals.) But if there is such an age, how is it agreed to? Surely the people too young to make valid
-contracts could not contract into such an arrangement. The same problem occurs with something like age of consent laws:
-Surely there is some age below which a person cannot meaningfully consent to sex. But wherever that cut off is set, the
-people falling below it did not consent to having it set there.
+Furthermore, what if the contract was signed with a 16-year-old employee, or a
+14 year-old employee, or a 10 year-old employee? Is there some age for which,
+if one of the parties is below it, any contract is invalid? If not, babies can
+sell their labor for years for a lollipop. (One of my older children repeatedly
+tried to get a younger sibling to agree to such lopsided deals.) But if there
+is such an age, how is it agreed to? Surely the people too young to make valid
+contracts could not contract into such an arrangement. The same problem occurs
+with something like age of consent laws: Surely there is some age below which a
+person cannot meaningfully consent to sex. But wherever that cut off is set,
+the people falling below it did not consent to having it set there.
 
-Thirdly, there is the assumption that these arbitration agencies will be unbiased. But if we accept the existence of
-firms with hundreds of billions of dollars at their disposal to pay entities like arbitration agencies, firms which may
-be bringing claims against an employee who might have a few thousand dollars to spare to pay an agency... anyone who has
-ever been interested in buying an inexpensive property employing a real estate agent who sells multimillion dollar homes
-will it test to the fact that agents are influenced by the amount of money their clients can spend.
+Thirdly, there is the assumption that these arbitration agencies will be
+unbiased. But if we accept the existence of firms with hundreds of billions of
+dollars at their disposal to pay entities like arbitration agencies, firms
+which may be bringing claims against an employee who might have a few thousand
+dollars to spare to pay an agency... anyone who has ever been interested in
+buying an inexpensive property employing a real estate agent who sells
+multimillion dollar homes will it test to the fact that agents are influenced
+by the amount of money their clients can spend.
 
-Murphy, to his credit, anticipates this complaint and attempts to handle it by claiming that employees will be reluctant
-to work for companies that employ biased arbitration agents. But this simply assumes that there are companies where one
-can find employment that use non-biased agents. A note that the bias need not, and probably would not, be as extreme as
-the sort Murphy depicts, where the company simply makes up theft charges to milk departing employees for money. It could
-be as simple as a general inclination to accept the companies evidence as reliable, while the evidence the employee
-presents to refute their case is regarded with suspicion.
+Murphy, to his credit, anticipates this complaint and attempts to handle it by
+claiming that employees will be reluctant to work for companies that employ
+biased arbitration agents. But this simply assumes that there are companies
+where one can find employment that use non-biased agents. A note that the bias
+need not, and probably would not, be as extreme as the sort Murphy depicts,
+where the company simply makes up theft charges to milk departing employees for
+money. It could be as simple as a general inclination to accept the companies
+evidence as reliable, while the evidence the employee presents to refute their
+case is regarded with suspicion.
+
+
+If Elon Musk can afford to sign a $50 million a year contract with a protection
+agency and not lose a significant portion of his wealth, then it will certainly
+protect him a lot more than someone living in inner-city Detroit. There is no
+reason to think that the disparity will be proportionate: Mask does not want to
+live a mid total chaos, and he doesn't mind some portion of his wealth going to
+provide some protection to much poorer clients of the protection agency. But it
+is hard to believe that he will not want his protection agency to protect the
+monopoly he receives through the intellectual property rights he holds.
+
+
+In fact, given the AC critique of the current economic system, it is hard to
+see why most people would consent to the current property distribution. After
+all, the extremely wealthy largely got that way by exploiting
+government-granted privileges. Why should I accept the fact that I only own 1
+acre of land, while my neighbor has 1000 acres, but only because of a grant
+given to his great-great… grandfather buy some remote English king?
+
+Nevertheless, there must be some determinate starting property distribution in
+AC, otherwise there is no stable way to adjudicate property disputes, and no
+uncontested way to decide who gets to fund which protection agencies. There is
+nothing to prevent protection agencies from, for instance, selling packages to
+their clients, that grant them various levels of protection. And if Rich
+clients are paying the agencies many times the amount of poor clients can pay
+them, it is hard to imagine that the agencies won't pay attention to where
+their revenue is coming from.
+
+So even many of those who wake up one day to find themselves living in
+Americapistan will not consent to the current property distribution, but will
+simply sign up with some protection agency or another because the alternative
+is much worse. 
 
 
 
