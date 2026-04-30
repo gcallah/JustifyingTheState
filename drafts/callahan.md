@@ -5,129 +5,185 @@
 
 Gene Callahan, New York University
 
-The British idealist philosopher Bernard Bosanquet offered, in the early twentieth century, a philosophical analysis of
+The British idealist philosopher Bernard Bosanquet offered, in his book *The
+Philosophical Theory of the State*, an analysis of
 the nature of the state which to this day has not been adequately recognized.
+
 This essay will use that analysis to reflect upon two prominent forms of
 "anarchism": anarcho-syndicalism (whose best-known advocate is the linguist Noam
 Chomsky) and anarcho-capitalism (developed by Murray Rothbard (NOTE) and
 recently championed by Michael Huemer and Robert P. Murphy, among others). In
 light of Bosanquet's theory, we will see that neither anarcho-syndicalism's nor
 anarcho-capitalism's ideal societies are actually stateless: both are proposals
-for novel forms of the State. This paper will not attempt an evaluation of the
-potential benefits and downsides of such a State, or even of the feasibility of
-implementing either. Rather, by pointing out that neither proposal actually
-does away with the State, it will hopefully aid in a clearer evaluation of
-these proposals in the future.
+for novel forms of the State.
 
-We will begin by looking at 
+This chapter will not attempt an evaluation of the
+potential benefits and downsides of such a State, or even of the feasibility of
+implementing either. Nor does it pretend to be a comprehensive survey of AS or
+AC thinkers: such a project would require a book for each camp, not a single 
+book chapter for both.
+
+Instead, we will begin by looking at a few highly regarded texts from these traditions.
+Along the way to understanding why both of their proposed systems of social
+organization are actually states, we will analyze some dubious arguments their
+proponents make. that, while perhaps not directly demonstrating our central
+thesis, are examples of how the claims of statelessness are superficially made
+to appear more plausible.
+We will then turn to Bosanquet to see why they are not actually stateless.
+Recognizing that neither actually does away with the State will hopefully aid
+in a clearer evaluation of these proposals in the future.
+
+NOTE: This essay also is not an attempt to offer a full examination of Bosanquet's
+book; it will indeed, only need to employ his discussion of the nature of the
+State in his introduction to the second edition.
 
 ## Anarcho-Syndicalism
 
+We will first examine anarcho-syndicalism. The movement grew out of the
+libertarian branch of socialism, and focused on organizing workers through
+trade unions (*syndicat* in French), proposing using their collective
+power to eliminate both capitalism and the State.
 
-Rudolf Rocker was a German anarchist who moved to the United States after Hitler rose to power. At the behest of fellow
-anarchist Emma Goldman, he wrote an introduction to anarcho-syndicalism, published just before World War II.*
+Rudolf Rocker will be our spokesperson for AS.  Rocker was a German anarchist
+who moved to the United States after Hitler rose to power. At the behest of
+fellow anarchist Emma Goldman, he wrote the book *Anarcho-Syndicalism*, which
+was published just before World War II.* It was re-published in 1978, with a
+forward by Noam Chomsky. It has been re-printed and translated many other
+times, and a new version from AK Press is scheduled this year.
 
 NOTE: Rocker, Rudolf. 1989. *Anarcho-Syndicalism*. Pluto Press: London.
 
+Early on, Rocker endorses a labor-theory of value:
 
-"The average working time required for the completion of any product becomes the measure of its value and is the basis
-of mutual exchange." (15)
+"The average working time required for the completion of any product becomes
+the measure of its value and is the basis of mutual exchange." (15)
 
-So tomorrow, if you devise a cure for cancer during four hours in the morning, while I make a rickety footstool which
-takes me eight hours to produce, my footstool must have twice the value of your cure for cancer.
+This is apparently an instance of Marx's theory of value, in which he offers
+this definition of socially necessary labor:
 
-In fact, any such scheme:
+"In the process we are now considering it is of extreme importance, that no
+more time be consumed in the work of transforming the cotton into yarn than is
+necessary under the given social conditions. If under normal, i.e., average
+social conditions of production, a pounds of cotton ought to be made into b
+pounds of yarn by one hour’s labour, then a day’s labour does not count as 12
+hours’ labour unless 12 a pounds of cotton have been made into 12 b pounds of
+yarn; for in the creation of value, the time that is socially necessary alone
+counts."
 
-1. Would require coercion to enforce these prices; and
-2. Would tempt any syndicate to earn more for its labor by producing it in a more leisurely fashion, thereby increasing
-   the average time it takes to make that product, and thus increasing its price. (Of course if they cut their work rate
-   in half and the amount of products they output decreased proportionately, they would not actually earn more. But they
-   would earn the same amount for half the work. And this would be very likely to inspire a race to the bottom, where
-   every syndicate simply works at a more and more leisurely pace, since it keeps earning the same nominal amount. (Of
-   course, if all syndicates enter into this race, their *real* earnings will keep dropping, as total output will
-   continually fall.)
-
-   Rocker would probably respond, "Well, people wouldn't act that way under anarchism." As with many utopias, his
-   depends heavily on the people living in it being significantly different than the people we actually see around us.
-   Rocker is aware of this fact, but it does not trouble him, since he believes the nature of the people we meet today
-   (as in his time) is deformed by:
-
-   "The ever-growing power of a solace political bureaucracy which supervises and safeguards life of man from the cradle
-   to the grave... [which puts] ever greater obstacles in the way of the solidaric cooperation of human beings and
-   [crushes] out every possibility of new development" (p. 11).
-
-   Perhaps he is right, but the evidence is against him. It is true that in a small community in which everyone knows
-   everyone else and has close knowledge of what they do every day, such shirking is difficult to get away with. But
-   even in such communities, it still occurs.* But I cannot think of any period in history which provides any evidence
-   that such a system can work on any scale larger than a commune.
-
-* See, for instance, Botscharow, Lucy Jayne (1989) "Disharmony in Utopia: Social Categories in Robert Owen's New
-* Harmony,"
-    *Communal Societies*: Vol. 9 No. 1, Article 9. DOI: https://doi.org/10.9707/0739-1250.1819.  She notes that
-    "[Robert] Owen's [utopian] community was beset by wrangling and bad temper, and it survived for only two years
-    (1825-1827)."
-
-    "Anarchist demand the abolition of all economic monopolies and the common ownership of the soil and all other means
-    of production, the use of which must be available to all without distinction" 23
-
-    Say what one will about the Soviet Union, at least the people running it were intelligent enough to know that if a
-    resource like a farm or a factory is available for all to use "without distinction," it will almost immediately
-    cease to be a resource. Somebody or other must decide what will be grown on a farm, and what will be produced in a
-    factory, and that somebody or other cannot possibly be everybody.  Even if we have a system where all the workers in
-    a factory decide how things will be run by vote, that is still a distinction: what about all the people who do not
-    work there? Per Rocker's declaration, they should have just as much access to the factory as the current workers. 
-
-    Rocker goes on to favorably quote Saint-Simon declaring that the government of men will soon be replaced the
-    administration of things. But no explanation is offered as to how anyone can "administer things" without also
-    governing men. If a farm has an administrator, and he decides the farm will grow peaches, what is he supposed to do
-    if the workers declare that instead they are going to grow cannabis? We have the decision to grow peaches came about
-    through a vote of the current workers, what are they supposed to do if a new group of workers arrives, and proposes
-    to tear out the peach trees and grow corn?
+NOTE: Capital, Volume I, Chapter 7.
+https://www.marxists.org/archive/marx/works/1867-c1/ch07.htm.
 
 
-"Anarchism is no patent solution for all human problems, no Utopia of a perfect social order, as it is so often been
-called, since on principal it rejects all absolute schemes and concepts." 30
+In fact, any scheme that realized Rocker's ideal:
 
+1. Would require a final arbiter to resolve disputes as to exactly how many
+   hours of some syndicate's labor were "socially necessary," with the ability
+   to enforce its decisions with coercion, if necessary.
+2. Would tempt any syndicate to earn more for its labor by producing it in a
+   more leisurely fashion, thereby increasing the average time it takes to make
+   that product, and thus increasing its price. (Of course if they cut their
+   work rate in half and the amount of products they output decreased
+   proportionately, they would not actually earn more. But they would earn the
+   same amount for half the work. And this would be very likely to inspire a
+   race to the bottom, where every syndicate simply works at a more and more
+   leisurely pace, since it keeps earning the same nominal amount. (Of course,
+   if all syndicates enter into this race, their *real* earnings will keep
+   dropping, as total output will continually fall.)
+
+Rocker would probably respond, "Well, people wouldn't act that way under
+anarchism." As with many utopias, his depends heavily on the people living
+in it being significantly different than the people we actually see around
+us. Rocker is aware of this fact, but it does not trouble him, since he
+believes the nature of the people we meet today (as in his time) is deformed
+by:
+
+
+"The ever-growing power of a solace political bureaucracy which supervises and
+safeguards life of man from the cradle to the grave... [which puts] ever
+greater obstacles in the way of the solidaric cooperation of human beings and
+[crushes] out every possibility of new development" (p. 11).
+
+Perhaps he is right, but the evidence is against him. It is true that in a
+small community in which everyone knows everyone else and has close knowledge
+of what they do every day, such shirking is difficult to get away with. But
+even in such communities, it still occurs.* But I cannot think of any period in
+history which provides any evidence that such a system can work on any scale
+larger than a commune.
+
+NOTE: See, for instance, Botscharow, Lucy Jayne (1989) "Disharmony in Utopia: Social Categories in Robert Owen's New
+Harmony," *Communal Societies*: Vol. 9 No. 1, Article 9. DOI:
+https://doi.org/10.9707/0739-1250.1819.  She notes that "[Robert] Owen's
+[utopian] community was beset by wrangling and bad temper, and it survived for
+only two years (1825-1827)."
+For more examples, with links to further sources, see Reed, Lawrence W. (2021).
+"The Dark Side of Paradise: A Brief History of America's Utopian Experiments in
+Communal Living." *The Freeman*.
+https://fee.org/articles/the-dark-side-of-paradise-a-brief-history-of-americas-utopian-experiments-in-communal-living/.
+
+Rocker then declares that: "Anarchists demand the abolition of all economic
+monopolies and the common ownership of the soil and all other means of
+production, the use of which must be available to all without distinction" 23
+
+Say what one will about the Soviet Union, at least the people running it were realistic enough to know that if a
+resource like a farm or a factory is available for all to use "without distinction," it will almost immediately
+cease to be a resource. Somebody or other must decide what will be grown on a farm, and what will be produced in a
+factory, and that somebody or other cannot possibly be everybody.  Even if we have a system where all the workers in
+a factory decide how things will be run by vote, that is still a distinction: what about all the people who do not
+work there? Per Rocker's declaration, they should have just as much access to the factory as the current workers. 
+
+Rocker goes on to favorably quote Saint-Simon declaring that the government of men will soon be replaced the
+administration of things. But no explanation is offered as to how anyone can "administer things" without also
+governing men. If a farm has an administrator, and he decides the farm will grow peaches, what is he supposed to do
+if the workers declare that instead they are going to grow cannabis? If the decision to grow peaches came about
+through a vote of the current workers, what are they supposed to do if a new group of workers arrives, and proposes
+to tear out the peach trees and grow corn? After all, the use of the farm "must
+be available to all without distinction."
+
+For Rocker, the factor that makes people in our actual world behave so differently than
+they will in his utopia is authority:
 
 "The less [the] natural development of man is influenced by ecclesiastical or political guardianship, the more efficient
 and harmonious will human personality become, the more it will become the measure of the intellectual culture of the
 society in which it has grown." 31
 
-Why should we imagine that this is so? The evidence we actually have, documented, for instance, by René Girard, would
-seem to indicate that attempts to eliminate all hierarchies do not result in Shangri-La, but in a fierce competition for
-status.
+But why should we imagine that this is so? The evidence we actually have,
+documented, for instance, by René Girard, would seem to indicate that attempts
+to eliminate all hierarchies do not result in Shangri-La, but in a fierce
+competition for status. Girard points out that this is the problem plaguing the
+Greek army in Troilus and Cressida: "Ulysses diagnoses the problem... as a loss
+of authority
+caused by rivalry among the chiefs."
+
+NOTE: Girard, Rene (1991). *A Theater of Envy: William Shakespeare*. St.
+Augustine's Press: South Bend, Indiana. Pg. 141.
 
 
-"This is the reason why all great culture periods in history have been periods of political weakness." 31
-
-What about the golden age of Athens? The Pax Romana? Elizabethan England? The Tang Dynasty? The Egyptian New Kingdom?
-This declaration appears to be an instance of only seeing what one wants to see.
-
+Rocker claims:
 "Power operates only destructively, bent always on forcing every manifestation of life into the straight jacket of its
 laws." 33
 
-And here we see the Keystone of the utopian fantasy: power can just be wished away. The complete abandonment of power by
+And here we see the one of the keystones of the utopian fantasy: power can just be wished away. The complete abandonment of power by
 all the decent people in society will not lead to it being seized by the worst.
-
-As Lenin said, the Bolsheviks did not seize power; they found it laying in the street and picked it up.
-
-Power cannot be wished away. We can only hope it gets used towards the good.
+But, as Lenin said, the Bolsheviks did not seize power; they found it laying in the street and picked it up.
 
 
-Anarcho-Syndicalism recognizes "only the organic agreement of all on the basis of like interests and common convictions"
-90
+Rather than using power, Anarcho-Syndicalism recognizes "only the organic
+agreement of all on the basis of like interests and common convictions" 90
 
-So the economy will function on the basis that everyone will agree about pretty much everything of importance. But as we
+So society will function on the basis that everyone will agree about pretty much everything of importance. But as we
 have seen, even small communes fall apart because not everyone can agree on everything. So the basis of governance in
 this society rests simply on wishing away the fact that people often disagree, and wishing it away on a scale much
 larger than the commune.
 
+There is some acknowledgement that strife may need to be managed: "The trade
+unions of a city or a rural district combine in a so-called labour cartel...
+they weld the workers together as a class and prevent the rise of any
+narrow-minded factional spirit." 93
 
-"The trade unions of a city or a rural district combine in a so-called labour cartel… they weld the workers together as
-a class and prevent the rise of any narrow-minded factional spirit." 93
+But how do they prevent this rise, if they have no coercive powers? Again, it
+seems to be merely by wishing it away.
 
-But how do they prevent this rise, if they have no coercive powers? Again, it seems to be merely by wishing it away.
-
+When it comes to the larger-scale organization of society, Rocker's plan is:
 
 "All the labour cartels are grouped according to districts and regions to form the National Federation of Labour
 cartels, which maintain the permanent connection between the local bodies, arranges for free adjustment of the
@@ -144,108 +200,140 @@ cooperative action of local groups and to order the conduct of solidarity strike
 AS state. But if they do not have such power, than what reason, other than wishful thinking, do we have to believe that
 they *can* carry out those tasks?
 
+Thus, AS either offers:
 
-
-
+- An alternative form of the State; or
+- A recipe for anarchy in the bad sense of mere chaos.
 
 
 ## Anarcho-Capitalism
 
-Anarcho-Capitalism it's a very different strain of anarchism. It is sharply differentiated from a AS by:
+Anarcho-Capitalism is sharply differentiated from a AS by:
 
-* making private property central to its proposed social system.  Not worrying about great wealth disparities, except to
-* the extent that it some advocates promise that these will be smaller under their system.* An explicit recognition that
-* violence will be necessary in order to enforce the rules of their system. Of course, they regard this as just
-* violence, not unjust coercion.
-
-
-Note: they do so based on their belief that most of today's great mega-fortunes depend upon government favoritism such
-as unjust granting of monopolies in, for instance, intellectual property.
+- Making private property central to its proposed social system.
+- Not worrying about great wealth disparities, except to the extent that it
+  some advocates promise that these will be smaller under their system.*
+- An explicit recognition that violence will be necessary in order to enforce
+  the rules of their system. Of course, ACs regard this as just violence, not
+  unjust coercion.
 
 
-In this section, we will look at two prominent examples of AC literature: Robert P Murphy's book chaos theory, and
-Michael Huemer's work, The Problem of Political Authority.
+Note: they do so based on their belief that most of today's great mega-fortunes
+depend upon government favoritism such as unjust granting of monopolies in
+intellectual property or gaining revenue through state contracts, which for
+them is the receipt of stolen property. We will return to this point later.
 
 
-
-In fact, given the AC critique of the current economic system, it is hard to see why most people would consent to the
-current property distribution. After all, the extremely wealthy largely got that way by exploiting government-granted
-privileges. Why should I accept the fact that I only own 1 acre of land, while my neighbor has 1000 acres, but only
-because of a grant given to his great-great… grandfather buy some remote English king?
-
-Nevertheless, there must be some determinate starting property distribution in AC, otherwise there is no stable way to
-adjudicate property disputes, and no uncontested way to decide who gets to fund which protection agencies. There is
-nothing to prevent protection agencies from, for instance, selling packages to their clients, that grant them various
-levels of protection. And if Rich clients are paying the agencies many times the amount of poor clients can pay them, it
-is hard to imagine that the agencies won't pay attention to where their revenue is coming from.
+In this section, we will look at two prominent examples of AC literature:
+Robert P. Murphy's book *Chaos Theory*, and Michael Huemer's work, *The Problem of
+Political Authority*.
 
 
-
-
-So even many of those who wake up one day to find themselves living in Americapistan will not consent to the current
-property distribution, but will simply sign up with some protection agency or another because the alternative is much
-worse. 
-
-
-If Elon Musk can afford to sign a $50 million a year contract with a protection agency and not lose a significant
-portion of his wealth, then it will certainly protect him a lot more than someone living in inner-city Detroit. There is
-no reason to think that the disparity will be proportionate: Mask does not want to live a mid total chaos, and he
-doesn't mind some portion of his wealth going to provide some protection to much poorer clients of the protection
-agency. But it is hard to believe that he will not want his protection agency to protect the monopoly he receives
-through the intellectual property rights he holds.
 
 
 ### Murphy
 
 
-"But in the stateless society there wouldn't be a legislative body of laws, nor would there be government courts or
-police. Nonetheless, employers would still like some protection from theft by their employees. So before hiring an
-applicant, the employer would make him sign a document that had clauses to the effect of 'I promise not to steal from
-the Acme Firm. If I get caught stealing, *as established by arbitration agency X*...'" 14
+"But in the stateless society there wouldn't be a legislative body of laws, nor
+would there be government courts or police. Nonetheless, employers would still
+like some protection from theft by their employees. So before hiring an
+applicant, the employer would make him sign a document that had clauses to the
+effect of 'I promise not to steal from the Acme Firm. If I get caught stealing,
+*as established by arbitration agency X*...'" 14
 
-We can imagine that the Acme Firm is an industrial conglomerate producing the various devices with which the coyote
-hunts the roadrunner. But how did the Acme Firm come to be in a position where it was the recognized owner of its
-factories, and could accuse anyone taking things out of them without authorization as a thief? Perhaps they came to own
-them by contractually purchasing them from the previous owner. But it can't be contracts all the way down: at some
-point, there was a first owner of the land the factories sat upon. And that owner quite likely acquired them through a
-government grant or military conquest, which the employee signing the contract certainly never voluntarily agreed to. As
-any good AS would tell you, of course, when most productive resources are concentrated in a relatively small number of
-hands, the rest of the populace has no choice but to "voluntarily" work for the people who own those resources. And,
-under AC, to voluntarily sign contracts promising not to take any of those resources for themselves.
+We can imagine that the Acme Firm is an industrial conglomerate producing the
+various devices with which the coyote hunts the roadrunner. But how did the
+Acme Firm come to be in a position where it was the recognized owner of its
+factories, and could accuse anyone taking things out of them without
+authorization as a thief? Perhaps they came to own them by contractually
+purchasing them from the previous owner. But it can't be contracts all the way
+down: at some point, there was a first owner of the land the factories sat
+upon. And that owner quite likely acquired them through a government grant or
+military conquest, which the employee signing the contract certainly never
+voluntarily agreed to. As any good AS would tell you, of course, when most
+productive resources are concentrated in a relatively small number of hands,
+the rest of the populace has no choice but to "voluntarily" work for the people
+who own those resources. And, under AC, to voluntarily sign contracts promising
+not to take any of those resources for themselves.
 
-And, as DP points out in this volume, if protection agencies really are going to safeguard their clients property, they
-will have to employ coercion against people who never signed a contract with them. Consider, for instance, someone who
-sneaks into the factory at night and steals a number of Acme Rocket Shoes: *he* never signed a contract promising not to
-do so, and never agreed to use any arbitration firm if Acme accused him of doing so.
+And, as DP points out in this volume, if protection agencies really are going
+to safeguard their clients property, they will have to employ coercion against
+people who never signed a contract with them. Consider, for instance, someone
+who sneaks into the factory at night and steals a number of Acme Rocket Shoes:
+*he* never signed a contract promising not to do so, and never agreed to use
+any arbitration firm if Acme accused him of doing so.
 
 
-"We immediately see two things in this contract. First it is completely voluntary; any 'laws' binding the employee have
-been acknowledged by him, beforehand. Second the existence of arbitration agency X ensures fairness and objectivity in
-any disputes." 15
+"We immediately see two things in this contract. First it is completely
+voluntary; any 'laws' binding the employee have been acknowledged by him,
+beforehand. Second the existence of arbitration agency X ensures fairness and
+objectivity in any disputes." 15
 
-There are several problems here: the first is that the firm will presumably want to avoid being robbed not only by its
-own employees, but by outsiders as well. And those outsiders have signed no such contract.
+There are several problems here: the first is that the firm will presumably
+want to avoid being robbed not only by its own employees, but by outsiders as
+well. And those outsiders have signed no such contract.
 
-Furthermore, what if the contract was signed with a 16-year-old employee, or a 14 year-old employee, or a 10 year-old
-employee? Is there some age for which, if one of the parties is below it, any contract is invalid? If not, babies can
-sell their labor for years for a lollipop. (One of my older children repeatedly tried to get a younger sibling to agree
-to such lopsided deals.) But if there is such an age, how is it agreed to? Surely the people too young to make valid
-contracts could not contract into such an arrangement. The same problem occurs with something like age of consent laws:
-Surely there is some age below which a person cannot meaningfully consent to sex. But wherever that cut off is set, the
-people falling below it did not consent to having it set there.
+Furthermore, what if the contract was signed with a 16-year-old employee, or a
+14 year-old employee, or a 10 year-old employee? Is there some age for which,
+if one of the parties is below it, any contract is invalid? If not, babies can
+sell their labor for years for a lollipop. (One of my older children repeatedly
+tried to get a younger sibling to agree to such lopsided deals.) But if there
+is such an age, how is it agreed to? Surely the people too young to make valid
+contracts could not contract into such an arrangement. The same problem occurs
+with something like age of consent laws: Surely there is some age below which a
+person cannot meaningfully consent to sex. But wherever that cut off is set,
+the people falling below it did not consent to having it set there.
 
-Thirdly, there is the assumption that these arbitration agencies will be unbiased. But if we accept the existence of
-firms with hundreds of billions of dollars at their disposal to pay entities like arbitration agencies, firms which may
-be bringing claims against an employee who might have a few thousand dollars to spare to pay an agency... anyone who has
-ever been interested in buying an inexpensive property employing a real estate agent who sells multimillion dollar homes
-will it test to the fact that agents are influenced by the amount of money their clients can spend.
+Thirdly, there is the assumption that these arbitration agencies will be
+unbiased. But if we accept the existence of firms with hundreds of billions of
+dollars at their disposal to pay entities like arbitration agencies, firms
+which may be bringing claims against an employee who might have a few thousand
+dollars to spare to pay an agency... anyone who has ever been interested in
+buying an inexpensive property employing a real estate agent who sells
+multimillion dollar homes will it test to the fact that agents are influenced
+by the amount of money their clients can spend.
 
-Murphy, to his credit, anticipates this complaint and attempts to handle it by claiming that employees will be reluctant
-to work for companies that employ biased arbitration agents. But this simply assumes that there are companies where one
-can find employment that use non-biased agents. A note that the bias need not, and probably would not, be as extreme as
-the sort Murphy depicts, where the company simply makes up theft charges to milk departing employees for money. It could
-be as simple as a general inclination to accept the companies evidence as reliable, while the evidence the employee
-presents to refute their case is regarded with suspicion.
+Murphy, to his credit, anticipates this complaint and attempts to handle it by
+claiming that employees will be reluctant to work for companies that employ
+biased arbitration agents. But this simply assumes that there are companies
+where one can find employment that use non-biased agents. A note that the bias
+need not, and probably would not, be as extreme as the sort Murphy depicts,
+where the company simply makes up theft charges to milk departing employees for
+money. It could be as simple as a general inclination to accept the companies
+evidence as reliable, while the evidence the employee presents to refute their
+case is regarded with suspicion.
+
+
+If Elon Musk can afford to sign a $50 million a year contract with a protection
+agency and not lose a significant portion of his wealth, then it will certainly
+protect him a lot more than someone living in inner-city Detroit. There is no
+reason to think that the disparity will be proportionate: Mask does not want to
+live a mid total chaos, and he doesn't mind some portion of his wealth going to
+provide some protection to much poorer clients of the protection agency. But it
+is hard to believe that he will not want his protection agency to protect the
+monopoly he receives through the intellectual property rights he holds.
+
+
+In fact, given the AC critique of the current economic system, it is hard to
+see why most people would consent to the current property distribution. After
+all, the extremely wealthy largely got that way by exploiting
+government-granted privileges. Why should I accept the fact that I only own 1
+acre of land, while my neighbor has 1000 acres, but only because of a grant
+given to his great-great… grandfather buy some remote English king?
+
+Nevertheless, there must be some determinate starting property distribution in
+AC, otherwise there is no stable way to adjudicate property disputes, and no
+uncontested way to decide who gets to fund which protection agencies. There is
+nothing to prevent protection agencies from, for instance, selling packages to
+their clients, that grant them various levels of protection. And if Rich
+clients are paying the agencies many times the amount of poor clients can pay
+them, it is hard to imagine that the agencies won't pay attention to where
+their revenue is coming from.
+
+So even many of those who wake up one day to find themselves living in
+Americapistan will not consent to the current property distribution, but will
+simply sign up with some protection agency or another because the alternative
+is much worse. 
 
 
 
