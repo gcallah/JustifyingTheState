@@ -540,12 +540,12 @@ And indeed, perhaps it would be more effective. But recognition of this fact
 strips AC of its claims tomorrow's superiority, and reduces it to an alternate
 proposal for how states should be governed.
 
-It makes an argument that the state of nature would not be anything like Hobbes
-picture of it: people would be generally peaceful, as employing violence
-against others risks injury to oneself, and will make many people other than
-the target of your violence see you as threatening.
+H makes an argument that the state of nature would not be anything like
+Hobbes's picture of it: people would be generally peaceful, as employing
+violence against others risks injury to oneself, and will make many people
+other than the target of your violence see you as threatening.
 
-So if humans once lived in stateless societies, and people in them were mostly
+So humans once lived in stateless societies, and people in them were mostly
 peaceful, and cooperated with some success against those who would initiate
 violence (perhaps to become their ruler). If that is true, how did we wind up
 in a world in which all land is controlled by one state or another? Huemer
@@ -561,19 +561,18 @@ see why most people would consent to the current property distribution. After
 all, the extremely wealthy largely got that way by exploiting
 government-granted privileges. Why should I accept the fact that I only own 1
 acre of land, while my neighbor has 1000 acres, but only because of a grant
-given to his great-great… grandfather buy some remote English king?
+given to his great-great... grandfather buy some remote English king?
 
 Nevertheless, there must be some determinate starting property distribution in
 AC, otherwise there is no stable way to adjudicate property disputes, and no
-uncontested way to decide who gets to fund which protection agencies. There is
-nothing to prevent protection agencies from, for instance, selling packages to
-their clients, that grant them various levels of protection. And if Rich
-clients are paying the agencies many times the amount of poor clients can pay
-them, it is hard to imagine that the agencies won't pay attention to where
-their revenue is coming from.
-
-So even many of those who wake up one day to find themselves living in
-Americapistan will not consent to the current property distribution, but will
+uncontested way to decide who gets to fund which protection agencies. The
+likely resolution would be to simply accept the current property distribution.
+In fact, the founder of AC, Murray Rothbard, proposes just that solution in
+chapter ten of his book, *The Ethics of Liberty*. While this solution would no
+doubt be pleasing to those who wind up with most of the wealth, it would be
+nonsense to claim that those left with little voluntarily agreed to it.
+In fact, many of those who wake up one day to find themselves living in
+Ancapistan will *not* consent to the current property distribution, but will
 simply sign up with some protection agency or another because the alternative
 is much worse. 
 
@@ -581,9 +580,23 @@ is much worse.
 
 ## Bosanquet on the Nature of the State
 
+The work of British idealist Bernard Bosanquet suggests that both ASs and ACs
+are mistaken in their claims that there systems are stateless. His book, *The
+Philosophical Theory of the State*, was first published in 1899, and a second
+edition, with a new introduction, came out in 19xx.???
 
-It is important in understanding B that by the State, B does not mean the
-government of some nation.
+It is worth immediately noting that when B speaks of "the State," he does not
+mean *merely* the government of some nation. He argues that a
+philosophical theory of some aspect of experience is an attempt to place that
+aspect in the context of experience as a whole. From that vantage point, he
+concludes:
+
+"We are thus led to see more plainly the true character of the State as a
+source of pervading adjustments and an idea-force, holding together a complex
+hierarchy of groups, and not itself a separable thing like the monarch or the
+'government...'"
+
+
 
 Compare with Gentiles take that the state is the need to live with others under
 determinate rules.
@@ -606,15 +619,6 @@ easily devote a book to each comparing their different varieties, this paper
 will necessarily offer only a sketch of each. In order to do so, we will focus
 on just a few prominent writers working in these traditions.
 
-
-Bosanquet argues that a philosophical theory of some aspect of experience is an
-attempt to place that aspect in the context of experience as a whole. Viewing
-the State thus philosophically, he writes:
-
-"We are thus led to see more plainly the true character of the State as a
-source of pervading adjustments and an idea-force, holding together a complex
-hierarchy of groups, and not itself a separable thing like the monarch or the
-'government...'"
 
 Seen from Bosanquet's vantage point, the justification for the State's
 existence is that it is the condition for society forming any sort of unity at
