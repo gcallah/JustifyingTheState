@@ -21,7 +21,8 @@ for novel forms of the State.
 This chapter will not attempt an evaluation of the potential benefits and
 downsides of such a State, or even of the feasibility of implementing either.
 Nor does it pretend to be a comprehensive survey of AS or AC thinkers: such a
-project would require a book for each camp, not a single book chapter for both.
+project would require a book for each camp, not a single book chapter for both
+considered together.
 
 Instead, we will begin by looking at a few highly regarded texts from these
 traditions.  Along the way to understanding why both of their proposed systems
@@ -458,30 +459,6 @@ has seen fit to have a government that decides when coercion is permissible
 against someone violating the society's norms.
 
 
-Somewhat shockingly, given that he is discussing one of the most famous books
-in the history of political philosophy, H claims that "Nor, in Hobbs view,
-should the people fear injury at the hands of the state itself. The rulers will
-naturally want the people to survive in prosper, because that will make the
-rulers themselves more wealthy and powerful." 199
-
-AI: Thomas Hobbes acknowledges that subjects might fear the Leviathan (the
-Sovereign) primarily in Chapter XVIIIand Chapter XX of Leviathan. He admits
-that the absolute power necessary for security can be oppressive, but argues
-that this fear is a necessary trade-off to avoid the much greater terror of the
-state of nature. 
-
-He goes on to claim that Hobbes believes "there is no need to limit the state
-power, because excessive state power has not caused any significant problems."
-199
-
-He accuses Hobbes of embracing totalitarianism. But as Michael Oakeshott
-pointed out, Hobbes was not a totalitarian because he was an authoritarian. His
-Leviathan did not care about things such as whether people smoked tobacco, ate
-a healthy diet, or wore seatbelts. It cared about times when a subject
-threatened to disturb the civil order.
-
-"pace Hobbes, people care about their family and friends" 200-201
-
 
 "In any realistic human society, even an anarchist one, at least some
 individuals will commit aggression against others." 230
@@ -504,7 +481,7 @@ just like ours has assigned that role to government courts. The employees of
 the arbitration agency are not people given a special moral status, but occupy
 roles that are given a special moral status.
 
-And citizens typically looke to the government to perform exactly this role,
+And citizens typically look to the government to perform exactly this role,
 although it always does so imperfectly.
 
 And the claim that is less costly to resolve a dispute through arbitration then
@@ -581,11 +558,11 @@ is much worse.
 ## Bosanquet on the Nature of the State
 
 The work of British idealist Bernard Bosanquet suggests that both ASs and ACs
-are mistaken in their claims that there systems are stateless. His book, *The
-Philosophical Theory of the State*, was first published in 1899, and a second
-edition, with a new introduction, came out in 19xx.???
+are mistaken in their claims that their systems are stateless. His book, *The
+Philosophical Theory of the State*, was first published in 1899, and by 1923
+four editions had been printed.
 
-It is worth immediately noting that when B speaks of "the State," he does not
+It is worth first noting that when B speaks of "the State," he does not
 mean *merely* the government of some nation. He argues that a
 philosophical theory of some aspect of experience is an attempt to place that
 aspect in the context of experience as a whole. From that vantage point, he
@@ -596,10 +573,14 @@ source of pervading adjustments and an idea-force, holding together a complex
 hierarchy of groups, and not itself a separable thing like the monarch or the
 'government...'"
 
-
+In this light, the question we are faced with in evaluating AS and AC is, "Is
+there something in them 'holding together a complex hierarchy of groups'?"
+And the answer is clearly "yes," at least in intent. For AS it is the
+federations that "constitute the two poles about which the whole life of the trade
+unions revolves."
 
 Compare with Gentiles take that the state is the need to live with others under
-determinate rules.
+determinate rules.  [QUOTE SPARTACO]
 
 As both are idealists working in the broadly Hegelian tradition and near
 contemporaries, it is not surprising that they might have similar ideas about
@@ -612,12 +593,6 @@ The state is the representation of a people as a political reality.
 They might also be, or not be, a single religious community, or a kinship
 community, and perhaps also a single linguistic community.
 
-
-
-Since there have been many proponents of each of these views, and one could
-easily devote a book to each comparing their different varieties, this paper
-will necessarily offer only a sketch of each. In order to do so, we will focus
-on just a few prominent writers working in these traditions.
 
 
 Seen from Bosanquet's vantage point, the justification for the State's
