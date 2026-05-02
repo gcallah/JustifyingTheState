@@ -543,9 +543,27 @@ given to his great-great... grandfather buy some remote English king?
 Nevertheless, there must be some determinate starting property distribution in
 AC, otherwise there is no stable way to adjudicate property disputes, and no
 uncontested way to decide who gets to fund which protection agencies. The
-likely resolution would be to simply accept the current property distribution.
-In fact, the founder of AC, Murray Rothbard, proposes just that solution in
-chapter ten of his book, *The Ethics of Liberty*. While this solution would no
+likely resolution would be to simply accept the current property distribution
+as the default.
+In fact, the founder of AC, Murray Rothbard, proposes that solution in
+chapters nine and ten of his book, *The Ethics of Liberty*, and this despite the fact
+that he argued "the utilitarian's simply praising 
+a free market based upon all existing property titles is invalid and ethically 
+nihilistic." 52 Rothbard spends some time trying to show that his system would
+not result in "total uncertainty and chaos" 60. However, he ignores the fact
+that, per his own theory of government (it is a gang of criminals), essentially
+*all* property titles are tainted, but most especially those of large
+corporations, who through government contracting are regular recipients of
+"stolen goods," namely, the tax money used to pay them. (A brief search could
+not find any evidence of a Fortune 500 company *not* engaged in government
+contracting.)
+
+
+NOTE: Rothbard, Murray (1998). New York University Press: New York.
+https://mises.ch/library/Rothbard_Ethics_of_Liberty.pdf
+
+
+While Rothbard's solution would no
 doubt be pleasing to those who wind up with most of the wealth, it would be
 nonsense to claim that those left with little voluntarily agreed to it.
 In fact, many of those who wake up one day to find themselves living in
@@ -578,6 +596,8 @@ there something in them 'holding together a complex hierarchy of groups'?"
 And the answer is clearly "yes," at least in intent. For AS it is the
 federations that "constitute the two poles about which the whole life of the trade
 unions revolves."
+
+
 
 Compare with Gentiles take that the state is the need to live with others under
 determinate rules.  [QUOTE SPARTACO]
