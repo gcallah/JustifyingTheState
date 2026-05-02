@@ -595,13 +595,19 @@ In this light, the question we are faced with in evaluating AS and AC is, "Is
 there something in them 'holding together a complex hierarchy of groups'?"
 And the answer is clearly "yes," at least in intent. For AS it is the
 federations that "constitute the two poles about which the whole life of the trade
-unions revolves."
+unions revolves." And for AC it is the network of protection/defense agencies.
+
+If ever either AS or AC were put into practice, one of two things would happen:
+the Federation's or the network of protection agencies would hold together their
+society's hierarchy of groups, and be a source of pervading adjustments, and
+thus would form functioning states, or they would not, in which case the result
+would be a Hobbesian state of nature.
 
 
 
-Compare with Gentiles take that the state is the need to live with others under
+
+NOTE: Compare with Gentiles take that the state is the need to live with others under
 determinate rules.  [QUOTE SPARTACO]
-
 As both are idealists working in the broadly Hegelian tradition and near
 contemporaries, it is not surprising that they might have similar ideas about
 what constitutes the state.
