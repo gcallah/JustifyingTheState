@@ -10,7 +10,23 @@ The British idealist philosopher Bernard Bosanquet offered, in his book *The
 Philosophical Theory of the State*, an analysis of the nature of the state
 which to this day has not been adequately recognized.
 
-This essay will use that analysis to reflect upon two prominent forms of
+In that work, B addresses the concept of political obligation. Since both AS and
+AC deny that any such obligaiton exists, B's analysis of the topic is highly
+relevant. He begins by admitting that there is, indeed, a puzzle to be solved:
+
+"To every-day common sense there's something paradoxical in the phenomena of
+political obligation; however it may acquiesce in what, although not
+satisfactory explicable, is plainly seen to be necessary." 53
+
+B goes on to make the point that a political obligation is not something imposed
+on the individual from outside, but an essential part of the ethical life of the
+individual himself:
+
+"man, the actual flesh and blood, demands to be governed; and how a government,
+which puts real force upon him is essential, as he is aware, to his becoming
+what he has it in him to be." 78
+
+This essay will use B's analysis to reflect upon two prominent forms of
 "anarchism": anarcho-syndicalism (whose best-known advocate is the linguist
 Noam Chomsky) and anarcho-capitalism (developed by Murray Rothbard (NOTE) and
 recently championed by Michael Huemer and Robert P. Murphy, among others). In
@@ -25,12 +41,12 @@ project would require a book for each camp, not a single book chapter for both
 considered together.
 
 Instead, we will begin by looking at a few highly regarded texts from these
-traditions.  Along the way to understanding why both of their proposed systems
+traditions. Along the way to understanding why both of their proposed systems
 of social organization are actually states, we will analyze some dubious
 arguments their proponents make. that, while perhaps not directly demonstrating
 our central thesis, are examples of how the claims of statelessness are
-superficially made to appear more plausible.  We will then turn to Bosanquet to
-see why they are not actually stateless.  Recognizing that neither actually
+superficially made to appear more plausible. We will then turn to Bosanquet to
+see why they are not actually stateless. Recognizing that neither actually
 does away with the State will hopefully aid in a clearer evaluation of these
 proposals in the future.
 
@@ -45,7 +61,7 @@ libertarian branch of socialism, and focused on organizing workers through
 trade unions (*syndicat* in French), proposing using their collective power to
 eliminate both capitalism and the State.
 
-Rudolf Rocker will be our spokesperson for AS.  Rocker was a German anarchist
+Rudolf Rocker will be our spokesperson for AS. Rocker was a German anarchist
 who moved to the United States after Hitler rose to power. At the behest of
 fellow anarchist Emma Goldman, he wrote the book *Anarcho-Syndicalism*, which
 was published just before World War II.* It was re-published in 1978, with a
@@ -78,18 +94,18 @@ https://www.marxists.org/archive/marx/works/1867-c1/ch07.htm.
 In fact, any scheme that realized Rocker's ideal:
 
 1. Would require a final arbiter to resolve disputes as to exactly how many
-   hours of some syndicate's labor were "socially necessary," with the ability
-   to enforce its decisions with coercion, if necessary.
+  hours of some syndicate's labor were "socially necessary," with the ability
+  to enforce its decisions with coercion, if necessary.
 2. Would tempt any syndicate to earn more for its labor by producing it in a
-   more leisurely fashion, thereby increasing the average time it takes to make
-   that product, and thus increasing its price. (Of course if they cut their
-   work rate in half and the amount of products they output decreased
-   proportionately, they would not actually earn more. But they would earn the
-   same amount for half the work. And this would be very likely to inspire a
-   race to the bottom, where every syndicate simply works at a more and more
-   leisurely pace, since it keeps earning the same nominal amount. (Of course,
-   if all syndicates enter into this race, their *real* earnings will keep
-   dropping, as total output will continually fall.)
+  more leisurely fashion, thereby increasing the average time it takes to make
+  that product, and thus increasing its price. (Of course if they cut their
+  work rate in half and the amount of products they output decreased
+  proportionately, they would not actually earn more. But they would earn the
+  same amount for half the work. And this would be very likely to inspire a
+  race to the bottom, where every syndicate simply works at a more and more
+  leisurely pace, since it keeps earning the same nominal amount. (Of course,
+  if all syndicates enter into this race, their *real* earnings will keep
+  dropping, as total output will continually fall.)
 
 Rocker would probably respond, "Well, people wouldn't act that way under
 anarchism." As with many utopias, his depends heavily on the people living in
@@ -112,10 +128,10 @@ larger than a commune.
 
 NOTE: See, for instance, Botscharow, Lucy Jayne (1989) "Disharmony in Utopia:
 Social Categories in Robert Owen's New Harmony," *Communal Societies*: Vol. 9
-No. 1, Article 9. DOI: https://doi.org/10.9707/0739-1250.1819.  She notes that
+No. 1, Article 9. DOI: https://doi.org/10.9707/0739-1250.1819. She notes that
 "[Robert] Owen's [utopian] community was beset by wrangling and bad temper, and
 it survived for only two years (1825-1827)." For more examples, with links to
-further sources, see Reed, Lawrence W. (2021).  "The Dark Side of Paradise: A
+further sources, see Reed, Lawrence W. (2021). "The Dark Side of Paradise: A
 Brief History of America's Utopian Experiments in Communal Living." *The
 Freeman*.
 https://fee.org/articles/the-dark-side-of-paradise-a-brief-history-of-americas-utopian-experiments-in-communal-living/.
@@ -129,7 +145,7 @@ realistic enough to know that if a resource like a farm or a factory is
 available for all to use "without distinction," it will almost immediately
 cease to be a resource. Somebody or other must decide what will be grown on a
 farm, and what will be produced in a factory, and that somebody or other cannot
-possibly be everybody.  Even if we have a system where all the workers in a
+possibly be everybody. Even if we have a system where all the workers in a
 factory decide how things will be run by vote, that is still a distinction:
 what about all the people who do not work there? Per Rocker's declaration, they
 should have just as much access to the factory as the current workers. 
@@ -168,7 +184,7 @@ manifestation of life into the straight jacket of its laws." 33
 
 And here we see the one of the keystones of the utopian fantasy: power can just
 be wished away. The complete abandonment of power by all the decent people in
-society will not lead to it being seized by the worst.  But, as Lenin said, the
+society will not lead to it being seized by the worst. But, as Lenin said, the
 Bolsheviks did not seize power; they found it laying in the street and picked
 it up.
 
@@ -195,7 +211,7 @@ When it comes to the larger-scale organization of society, Rocker's plan is:
 the National Federation of Labour cartels, which maintain the permanent
 connection between the local bodies, arranges for free adjustment of the
 productive labour of the members of the different organizations on cooperative
-lines...  Every trade union is, moreover, federatively allied with all the
+lines... Every trade union is, moreover, federatively allied with all the
 organizations in the same trade throughout the country, and these in turn with
 all related trades, so that all are combined in general industrial alliances.
 It is the task of these alliances to arrange for the co-operative action of the
@@ -224,10 +240,10 @@ Anarcho-Capitalism is sharply differentiated from a AS by:
 
 - Making private property central to its proposed social system.
 - Not worrying about great wealth disparities, except to the extent that it
-  some advocates promise that these will be smaller under their system.*
+ some advocates promise that these will be smaller under their system.*
 - An explicit recognition that violence will be necessary in order to enforce
-  the rules of their system. Of course, ACs regard this as just violence, not
-  unjust coercion.
+ the rules of their system. Of course, ACs regard this as just violence, not
+ unjust coercion.
 
 
 NOTE: they do so based on their belief that most of today's great mega-fortunes
@@ -300,7 +316,7 @@ is such an age, how is it agreed to? Surely the people too young to make valid
 contracts could not contract into such an arrangement. The same problem occurs
 with something like age of consent laws: Surely there is some age below which a
 person cannot meaningfully consent to sex. But wherever that cut off is set,
-the people falling below it did not consent to having it set there.  And
+the people falling below it did not consent to having it set there. And
 besides age considerations, there is, even for adults, the question of when
 someone is so incapacitated that they cannot enter into a valid contract, for
 instance, if they are drugged, or severely mentally handicapped. But once
@@ -380,7 +396,7 @@ on H's part: it is not *people* who have the special moral status, but *roles*.
 For example, members of the judicial branch are not some special sort of people
 who have the power to pass judgment on others. They are current occupants of
 the role of *judge*, and that role consists in passing judgments on legal
-matters.  He is not a special sort of person who, as he strolls out to the
+matters. He is not a special sort of person who, as he strolls out to the
 diner in the morning, or plays with his kids in the park on Saturday afternoon,
 can simply pass judgments on anything going on around him, judgments which
 those involved are obligated to follow. No, it is only during those times when
@@ -526,7 +542,7 @@ So humans once lived in stateless societies, and people in them were mostly
 peaceful, and cooperated with some success against those who would initiate
 violence (perhaps to become their ruler). If that is true, how did we wind up
 in a world in which all land is controlled by one state or another? Huemer
-describes what  should be a quite stable equilibrium, but offers no explanation
+describes what should be a quite stable equilibrium, but offers no explanation
 as to how we left it.
 
 
@@ -607,7 +623,7 @@ would be a Hobbesian state of nature.
 
 
 NOTE: Compare with Gentiles take that the state is the need to live with others under
-determinate rules.  [QUOTE SPARTACO]
+determinate rules. [QUOTE SPARTACO]
 As both are idealists working in the broadly Hegelian tradition and near
 contemporaries, it is not surprising that they might have similar ideas about
 what constitutes the state.
@@ -663,7 +679,7 @@ importance.
 
 
 The government of that state is the portion of it tasked with coercing those
-who would act to undermine that order.  Nothing in history suggests that any
+who would act to undermine that order. Nothing in history suggests that any
 social order can long endure if it does not act against those who, unwittingly
 or not, act to undermine that order.
 
@@ -680,7 +696,7 @@ Understood in the light of B's philosophical conception of the state (or of
 Gentile's), neither anarcho-syndicalism nor anarcho-capitalism actually offer
 proposals for a "stateless society." In fact, as B or G understood the State,
 such a thing is not possible: in the absence of a State, we have no society,
-but mere chaos.  What both of these *do* provide are schemes for alternate ways
+but mere chaos. What both of these *do* provide are schemes for alternate ways
 of organizing the State. And as such, they may be valuable: since neither has
 actually ever been attempted at any scale, all that a fair-minded judge of
 their proposals can say is: "Well, perhaps these would work out as you
