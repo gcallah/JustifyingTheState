@@ -10,22 +10,6 @@ The British idealist philosopher Bernard Bosanquet offered, in his book *The
 Philosophical Theory of the State*, an analysis of the nature of the state
 which to this day has not been adequately recognized.
 
-In that work, B addresses the concept of political obligation. Since both AS and
-AC deny that any such obligaiton exists, B's analysis of the topic is highly
-relevant. He begins by admitting that there is, indeed, a puzzle to be solved:
-
-"To every-day common sense there's something paradoxical in the phenomena of
-political obligation; however it may acquiesce in what, although not
-satisfactory explicable, is plainly seen to be necessary." 53
-
-B goes on to make the point that a political obligation is not something imposed
-on the individual from outside, but an essential part of the ethical life of the
-individual himself:
-
-"man, the actual flesh and blood, demands to be governed; and how a government,
-which puts real force upon him is essential, as he is aware, to his becoming
-what he has it in him to be." 78
-
 This essay will use B's analysis to reflect upon two prominent forms of
 "anarchism": anarcho-syndicalism (whose best-known advocate is the linguist
 Noam Chomsky) and anarcho-capitalism (developed by Murray Rothbard (NOTE) and
@@ -54,7 +38,27 @@ NOTE: This essay also is not an attempt to offer a full examination of
 Bosanquet's book; it will indeed, only need to employ his discussion of the
 nature of the State in his introduction to the second edition.
 
-## Anarcho-Syndicalism
+## Our Anarchisms
+
+Both AS and AC have, as core premises of their systems, a denial that
+political obligation exists. Therefore, a good starting place for our
+discussion is B's examination of the topic. He begins by admitting that there
+is, indeed, a puzzle to be solved:
+
+"To every-day common sense there's something paradoxical in the phenomena of
+political obligation; however it may acquiesce in what, although not
+satisfactory explicable, is plainly seen to be necessary." 53
+
+B goes on to make the point that a political obligation is not something imposed
+on the individual from outside, but an essential part of the ethical life of the
+individual himself:
+
+"man, the actual flesh and blood, demands to be governed; and how a government,
+which puts real force upon him is essential, as he is aware, to his becoming
+what he has it in him to be." 78
+
+
+### Anarcho-Syndicalism
 
 We will first examine anarcho-syndicalism. The movement grew out of the
 libertarian branch of socialism, and focused on organizing workers through
@@ -234,7 +238,7 @@ Thus, AS either offers:
 - A recipe for anarchy in the bad sense of mere chaos.
 
 
-## Anarcho-Capitalism
+### Anarcho-Capitalism
 
 Anarcho-Capitalism is sharply differentiated from a AS by:
 
@@ -257,7 +261,7 @@ Robert P. Murphy's book *Chaos Theory*, and Michael Huemer's work, *The Problem
 of Political Authority*.
 
 
-### Murphy
+#### Murphy
 
 
 The writer T.C. Marti describes Murphy's *Chaos Theory* as "anarcho-capitalism
@@ -354,7 +358,7 @@ property rights he holds, and to use far more resources to defend them than
 they will the life of someone in the project.
 
 
-### Huemer
+#### Huemer
 
 H makes much of the fact that the State is permitted to do things that private
 citizens are not, e.g.:
@@ -547,14 +551,14 @@ as to how we left it.
 
 
 
-Ultimately?????
-
-In fact, given the AC critique of the current economic system, it is hard to
-see why most people would consent to the current property distribution. After
-all, the extremely wealthy largely got that way by exploiting
-government-granted privileges. Why should I accept the fact that I only own 1
-acre of land, while my neighbor has 1000 acres, but only because of a grant
-given to his great-great... grandfather buy some remote English king?
+The ultimate selling point of AC for most people who endorse, as we saw in
+Murphy, is its claim that, should AC be adopted, almost all social arrangements
+will be voluntary. To the contrary, if we accept the AC critique of the current
+economic system, it is hard to see why most people would consent to the current
+property distribution. After all, the extremely wealthy largely got that way by
+exploiting government-granted privileges. Why should I accept the fact that I
+only own 1 acre of land, while my neighbor has 1000 acres, but only because of
+a grant given to his great-great... grandfather buy some remote English king?
 
 Nevertheless, there must be some determinate starting property distribution in
 AC, otherwise there is no stable way to adjudicate property disputes, and no
@@ -577,7 +581,6 @@ contracting.)
 
 NOTE: Rothbard, Murray (1998). New York University Press: New York.
 https://mises.ch/library/Rothbard_Ethics_of_Liberty.pdf
-
 
 While Rothbard's solution would no
 doubt be pleasing to those who wind up with most of the wealth, it would be
@@ -630,41 +633,42 @@ what constitutes the state.
 
 
 
-The state is the representation of a people as a political reality.
-
-They might also be, or not be, a single religious community, or a kinship
-community, and perhaps also a single linguistic community.
-
-
-
 Seen from Bosanquet's vantage point, the justification for the State's
 existence is that it is the condition for society forming any sort of unity at
-all. As such, Bosanquet offers, in advance, a critique of projects such as
+all, as well as being a central part of the moral formation of its citizens.
+As such, Bosanquet offers, in advance, a critique of projects such as
 Rothbard's anarcho-capitalism or Chomsky's anarcho-syndicalism: Rather than
 abolishing the State as they claim to do, these projects are, in fact,
 recommendations for reconfiguring the State in a form their authors believe
 will function more justly.
 
+B explicitly rejects the idea that "the State" consists only of the government
+of a country:
 
 "it must be remembered that our theory does not place sovereignty in any
 determinate person or body of persons, but only in the working of the system of
 institutions as a whole." Xxiii
 
+And he goes on to declare that there is no particular form that "system of
+institutions must take for it to be a state:
+
 "the administrative expression of the general will... may take any efficient
 and convenient shape... It is impossible to lay down in detail any
-indispensable form even for the supreme direction of affairs…" xxiv
+indispensable form even for the supreme direction of affairs... xxiv
+
+For B, the State's role as the coordinator of actions of its sub-groups is
+paramount:
 
 "The state is rightly described as the hindrance to hindrances of good life."
 xxvi
+
+Nevertheless, B is not a pollyanna when it comes to the character of the State,
+admitting its downside:
 
 "we can see how the working of the State proper, as society armed with force,
 has in it a negative element, without being driven by a false antithesis to
 ascribe all fertile and positive achievement to 'individualistic' factors."
 xxviii
-
-
-
-
 
 
 
