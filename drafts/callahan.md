@@ -61,6 +61,8 @@ individual himself:
 which puts real force upon him is essential, as he is aware, to his becoming
 what he has it in him to be." 78
 
+We will look at how B can make such a claim, but first let us look at our
+anarchists, and explore their basis for rejecting it.
 
 ### Anarcho-Syndicalism
 
@@ -601,29 +603,7 @@ is much worse.
 The work of British idealist Bernard Bosanquet suggests that both ASs and ACs
 are mistaken in their claims that their systems are stateless.
 
-"Within his trade or profession, a man acts, as it is said, in a definite
-"capacity." He regards himself and is regarded from a definite point of view.."
-168
-
-"It is plain that unless, on the whole, working harmony were maintained between
-the different groups which form society, life could not go on. And it is for
-this reason that the state, as the widest grouping whose members are effectively
-united by a common experience, is necessarily the one community which has
-absolute power to ensure, by force, if need be, at least sufficient adjustment
-of the claims of all other groupings to make life possible." 169
-
-"in as far as the mind and the community are actual working wholes, it is to be
-presumed that in each there is an ultimate or pervading adjustment which hinders
-contradiction from proceeding to destructive extremes." 168-169
-
-
-"Every social group is the external aspect of a set of corresponding mental
-systems in individual minds." xxx?
-
-
-
-
-It is worth first noting that when B speaks of "the State," he does not
+We will begin by noting that when B speaks of "the State," he does not
 mean *merely* the government of some nation. He argues that a
 philosophical theory of some aspect of experience is an attempt to place that
 aspect in the context of experience as a whole. From that vantage point, he
@@ -634,17 +614,29 @@ source of pervading adjustments and an idea-force, holding together a complex
 hierarchy of groups, and not itself a separable thing like the monarch or the
 'government...'"
 
-In this light, the question we are faced with in evaluating AS and AC is, "Is
-there something in them 'holding together a complex hierarchy of groups'?"
-And the answer is clearly "yes," at least in intent. For AS it is the
-federations that "constitute the two poles about which the whole life of the trade
-unions revolves." And for AC it is the network of protection/defense agencies.
+Thus, what differentiates the State from all other social groupings is not, as
+Weber would have it, a monopoly on force, but its being the final arbiter of
+social conflicts. Of course, to fulfill that role, it must sometimes emply
+force. But so may other actors: for instance, I may forcibly and legitimately
+eject someone from my home.
 
-If ever either AS or AC were put into practice, one of two things would happen:
-the Federation's or the network of protection agencies would hold together their
-society's hierarchy of groups, and be a source of pervading adjustments, and
-thus would form functioning states, or they would not, in which case the result
-would be a Hobbesian state of nature.
+NOTE: "a state is a human community that (successfully) claims the monopo
+ly of the legitimate use of physical force within a given territory." Weber,
+Max (2014). "Politics as a Vocation." Moulin Digital Editions.
+https://dn790009.ca.archive.org/0/items/weber_max_1864_1920_politics_as_a_vocation/weber_max_1864_1920_politics_as_a_vocation.pdf
+
+B further notes that, without some institutions acting in such a role, social
+life is hardly possible:
+
+"It is plain that unless, on the whole, working harmony were maintained between
+the different groups which form society, life could not go on. And it is for
+this reason that the state, as the widest grouping whose members are effectively
+united by a common experience, is necessarily the one community which has
+absolute power to ensure, by force, if need be, at least sufficient adjustment
+of the claims of all other groupings to make life possible...
+in as far as the mind and the community are actual working wholes, it is to be
+presumed that in each there is an ultimate or pervading adjustment which hinders
+contradiction from proceeding to destructive extremes." 169-170
 
 
 
@@ -655,16 +647,6 @@ As both are idealists working in the broadly Hegelian tradition and near
 contemporaries, it is not surprising that they might have similar ideas about
 what constitutes the state.
 
-
-
-Seen from Bosanquet's vantage point, the justification for the State's
-existence is that it is the condition for society forming any sort of unity at
-all, as well as being a central part of the moral formation of its citizens.
-As such, Bosanquet offers, in advance, a critique of projects such as
-Rothbard's anarcho-capitalism or Chomsky's anarcho-syndicalism: Rather than
-abolishing the State as they claim to do, these projects are, in fact,
-recommendations for reconfiguring the State in a form their authors believe
-will function more justly.
 
 B explicitly rejects the idea that "the State" consists only of the government
 of a country:
@@ -693,6 +675,29 @@ admitting its downside:
 has in it a negative element, without being driven by a false antithesis to
 ascribe all fertile and positive achievement to 'individualistic' factors."
 xxviii
+
+
+Seen from Bosanquet's vantage point, the justification for the State's
+existence is that it is the condition for society forming any sort of unity at
+all, as well as being a central part of the moral formation of its citizens.
+As such, Bosanquet offers, in advance, a critique of projects such as
+Rothbard's anarcho-capitalism or Chomsky's anarcho-syndicalism: Rather than
+abolishing the State as they claim to do, these projects are, in fact,
+recommendations for reconfiguring the State in a form their authors believe
+will function more justly.
+
+
+The question we are faced with in evaluating AS and AC is, "Is
+there something in them 'holding together a complex hierarchy of groups'?"
+And the answer is clearly "yes," at least in intent. For AS it is the
+federations that "constitute the two poles about which the whole life of the trade
+unions revolves." And for AC it is the network of protection/defense agencies.
+
+If ever either AS or AC were put into practice, one of two things would happen:
+the Federation's or the network of protection agencies would hold together their
+society's hierarchy of groups, and be a source of pervading adjustments, and
+thus would form functioning states, or they would not, in which case the result
+would be a Hobbesian state of nature.
 
 
 
