@@ -10,6 +10,10 @@ The British idealist philosopher Bernard Bosanquet offered, in his book *The
 Philosophical Theory of the State*, an analysis of the nature of the state
 which to this day has not been adequately recognized.
 
+*The Philosophical Theory of the State*, was first published in 1899, and by 1923
+four editions had been printed.
+
+
 This essay will use B's analysis to reflect upon two prominent forms of
 "anarchism": anarcho-syndicalism (whose best-known advocate is the linguist
 Noam Chomsky) and anarcho-capitalism (developed by Murray Rothbard (NOTE) and
@@ -595,9 +599,29 @@ is much worse.
 ## Bosanquet on the Nature of the State
 
 The work of British idealist Bernard Bosanquet suggests that both ASs and ACs
-are mistaken in their claims that their systems are stateless. His book, *The
-Philosophical Theory of the State*, was first published in 1899, and by 1923
-four editions had been printed.
+are mistaken in their claims that their systems are stateless.
+
+"Within his trade or profession, a man acts, as it is said, in a definite
+"capacity." He regards himself and is regarded from a definite point of view.."
+168
+
+"It is plain that unless, on the whole, working harmony were maintained between
+the different groups which form society, life could not go on. And it is for
+this reason that the state, as the widest grouping whose members are effectively
+united by a common experience, is necessarily the one community which has
+absolute power to ensure, by force, if need be, at least sufficient adjustment
+of the claims of all other groupings to make life possible." 169
+
+"in as far as the mind and the community are actual working wholes, it is to be
+presumed that in each there is an ultimate or pervading adjustment which hinders
+contradiction from proceeding to destructive extremes." 168-169
+
+
+"Every social group is the external aspect of a set of corresponding mental
+systems in individual minds." xxx?
+
+
+
 
 It is worth first noting that when B speaks of "the State," he does not
 mean *merely* the government of some nation. He argues that a
