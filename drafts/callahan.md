@@ -638,7 +638,13 @@ in as far as the mind and the community are actual working wholes, it is to be
 presumed that in each there is an ultimate or pervading adjustment which hinders
 contradiction from proceeding to destructive extremes." 169-170
 
+Nevertheless, B is not a pollyanna when it comes to the character of the State,
+admitting its downside:
 
+"we can see how the working of the State proper, as society armed with force,
+has in it a negative element, without being driven by a false antithesis to
+ascribe all fertile and positive achievement to 'individualistic' factors."
+xxviii
 
 
 NOTE: Compare with Gentiles take that the state is the need to live with others under
@@ -656,38 +662,19 @@ determinate person or body of persons, but only in the working of the system of
 institutions as a whole." Xxiii
 
 And he goes on to declare that there is no particular form that "system of
-institutions must take for it to be a state:
+institutions" must take for it to be a state:
 
 "the administrative expression of the general will... may take any efficient
 and convenient shape... It is impossible to lay down in detail any
-indispensable form even for the supreme direction of affairs... xxiv
+indispensable form even for the supreme direction of affairs..." xxiv
 
-For B, the State's role as the coordinator of actions of its sub-groups is
-paramount:
+Thus we see that the State, for B, need not take the form of any of the systems
+of institutions we find in the world today. Its central institutions might well
+be syndicates, or protection agencies.
 
-"The state is rightly described as the hindrance to hindrances of good life."
-xxvi
-
-Nevertheless, B is not a pollyanna when it comes to the character of the State,
-admitting its downside:
-
-"we can see how the working of the State proper, as society armed with force,
-has in it a negative element, without being driven by a false antithesis to
-ascribe all fertile and positive achievement to 'individualistic' factors."
-xxviii
-
-
-Seen from Bosanquet's vantage point, the justification for the State's
+For Bosanquet, the justification for the State's
 existence is that it is the condition for society forming any sort of unity at
-all, as well as being a central part of the moral formation of its citizens.
-As such, Bosanquet offers, in advance, a critique of projects such as
-Rothbard's anarcho-capitalism or Chomsky's anarcho-syndicalism: Rather than
-abolishing the State as they claim to do, these projects are, in fact,
-recommendations for reconfiguring the State in a form their authors believe
-will function more justly.
-
-
-The question we are faced with in evaluating AS and AC is, "Is
+all. The question we are faced with in evaluating AS and AC is, "Is
 there something in them 'holding together a complex hierarchy of groups'?"
 And the answer is clearly "yes," at least in intent. For AS it is the
 federations that "constitute the two poles about which the whole life of the trade
@@ -723,8 +710,6 @@ among other things, a state. If it has such rules and norms but does not coerce
 violators, then it will soon cease to be a state and fall into social chaos.
 
 
-
-
 Understood in the light of B's philosophical conception of the state (or of
 Gentile's), neither anarcho-syndicalism nor anarcho-capitalism actually offer
 proposals for a "stateless society." In fact, as B or G understood the State,
@@ -746,7 +731,6 @@ or not, act to undermine that order.
 
 
 
-
 Once we understand the fundamental nature of a state as B did, then we see the
 both AS and AC, if either were ever implemented, must become either states, or
 failed states exhibiting the genuinely bad sort of anarchy they both wish to
@@ -757,9 +741,7 @@ even against those who object to them, and thus function as the government of a
 state; or
 2. Fail to do so, and thus make likely the breakdown of social order
 
-
-
-Thus, this paper is not intended as a complete rejection of these proposals;
+Thus, this paper is not intended as a refutation of these proposals;
 its only aim is to point out that the claim that such proposals are "stateless"
 or would do away with "coercion," or would create societies without politics,
 are misrepresentations, intended to sell the proposals, but not accurately
