@@ -1,3 +1,5 @@
+include $(INI_HOME)/common.mk
+
 export ABS_DIR = ./abstracts
 export ADDR_DIR = ./addresses
 export BIN_DIR = ./bin

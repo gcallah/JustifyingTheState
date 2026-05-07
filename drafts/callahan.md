@@ -1,21 +1,19 @@
 
 ========
 
-# Anarcho-Synicalism and Anarcho-Capitalism in Light of Bernard Bosanquet's
-Philosophical Theory of the State
+# Anarcho-Synicalism and Anarcho-Capitalism in Light of Bernard Bosanquet's Philosophical Theory of the State
 
 Gene Callahan, New York University
 
-The British idealist philosopher Bernard Bosanquet offered, in his book *The
-Philosophical Theory of the State*, an analysis of the nature of the state
-which to this day has not been adequately recognized.
+## Introduction
 
-*The Philosophical Theory of the State*, was first published in 1899, and by 1923
-four editions had been printed.
-
+The British idealist philosopher Bernard Bosanquet's book *The
+Philosophical Theory of the State*, was first published in 1899, and by 1923
+four editions had been printed. In it, B attempts to view the State from the
+perspective of experience as a whole, and determine its place within that whole.
 
 This essay will use B's analysis to reflect upon two prominent forms of
-"anarchism": anarcho-syndicalism (whose best-known advocate is the linguist
+"anarchism": anarcho-syndicalism (whose best-known current advocate is the linguist
 Noam Chomsky) and anarcho-capitalism (developed by Murray Rothbard (NOTE) and
 recently championed by Michael Huemer and Robert P. Murphy, among others). In
 light of Bosanquet's theory, we will see that neither anarcho-syndicalism's nor
@@ -23,7 +21,7 @@ anarcho-capitalism's ideal societies are actually stateless: both are proposals
 for novel forms of the State.
 
 This chapter will not attempt an evaluation of the potential benefits and
-downsides of such a State, or even of the feasibility of implementing either.
+downsides of such  states, or even of the feasibility of implementing either.
 Nor does it pretend to be a comprehensive survey of AS or AC thinkers: such a
 project would require a book for each camp, not a single book chapter for both
 considered together.
@@ -33,14 +31,10 @@ traditions. Along the way to understanding why both of their proposed systems
 of social organization are actually states, we will analyze some dubious
 arguments their proponents make. that, while perhaps not directly demonstrating
 our central thesis, are examples of how the claims of statelessness are
-superficially made to appear more plausible. We will then turn to Bosanquet to
-see why they are not actually stateless. Recognizing that neither actually
-does away with the State will hopefully aid in a clearer evaluation of these
-proposals in the future.
-
-NOTE: This essay also is not an attempt to offer a full examination of
-Bosanquet's book; it will indeed, only need to employ his discussion of the
-nature of the State in his introduction to the second edition.
+superficially made to appear more plausible. We will then employ Bosanquet's
+analysis to see why they are not actually stateless. Recognizing that neither
+actually does away with the State will hopefully aid in a clearer evaluation of
+these proposals in the future.
 
 ## Our Anarchisms
 
@@ -57,7 +51,7 @@ B goes on to make the point that a political obligation is not something imposed
 on the individual from outside, but an essential part of the ethical life of the
 individual himself:
 
-"man, the actual flesh and blood, demands to be governed; and how a government,
+"man, the actual man of flesh and blood, demands to be governed; and... a government,
 which puts real force upon him is essential, as he is aware, to his becoming
 what he has it in him to be." 78
 
@@ -103,7 +97,7 @@ https://www.marxists.org/archive/marx/works/1867-c1/ch07.htm.
 
 In fact, any scheme that realized Rocker's ideal:
 
-1. Would require a final arbiter to resolve disputes as to exactly how many
+1. Would require *a final arbiter* to resolve disputes as to exactly how many
   hours of some syndicate's labor were "socially necessary," with the ability
   to enforce its decisions with coercion, if necessary.
 2. Would tempt any syndicate to earn more for its labor by producing it in a
@@ -113,18 +107,18 @@ In fact, any scheme that realized Rocker's ideal:
   proportionately, they would not actually earn more. But they would earn the
   same amount for half the work. And this would be very likely to inspire a
   race to the bottom, where every syndicate simply works at a more and more
-  leisurely pace, since it keeps earning the same nominal amount. (Of course,
+  leisurely pace, since it keeps earning the same nominal amount. Naturally,
   if all syndicates enter into this race, their *real* earnings will keep
   dropping, as total output will continually fall.)
 
 Rocker would probably respond, "Well, people wouldn't act that way under
-anarchism." As with many utopias, his depends heavily on the people living in
-it being significantly different than the people we actually see around us.
+anarchism." As with many utopias, his depends heavily on the people inhabiting
+it being significantly different than the people we actually encounter.
 Rocker is aware of this fact, but it does not trouble him, since he believes
 the nature of the people we meet today (as in his time) is deformed by:
 
 
-"The ever-growing power of a solace political bureaucracy which supervises and
+"The ever-growing power of a soulless political bureaucracy which supervises and
 safeguards life of man from the cradle to the grave... [which puts] ever
 greater obstacles in the way of the solidaric cooperation of human beings and
 [crushes] out every possibility of new development" (p. 11).
@@ -194,14 +188,14 @@ manifestation of life into the straight jacket of its laws." 33
 
 And here we see the one of the keystones of the utopian fantasy: power can just
 be wished away. The complete abandonment of power by all the decent people in
-society will not lead to it being seized by the worst. But, as Lenin said, the
+society somehow will not lead to it being seized by the worst. But, as Lenin said, the
 Bolsheviks did not seize power; they found it laying in the street and picked
-it up.
+it up.  [REF????]
 
-Rather than using power, Anarcho-Syndicalism recognizes "only the organic
+Rather than employing power, Anarcho-Syndicalism recognizes "only the organic
 agreement of all on the basis of like interests and common convictions" 90
 
-So society will function on the basis that everyone will agree about pretty
+So Rocker assumes that everyone will agree about pretty
 much everything of importance. But as we have seen, even small communes fall
 apart because not everyone can agree on everything. So the basis of governance
 in this society rests simply on wishing away the fact that people often
@@ -232,8 +226,8 @@ Alliances constitute the two poles about which the whole life of the trade
 unions revolves." 93-94
 
 So here we come to the crux of the matter: do these two poles actually have the
-power necessary to arrange the cooperative action of local groups and to order
-the conduct of solidarity strikes? If they do, then they constitute the AS
+power necessary to arrange the cooperative action of local groups and to enforce
+Rocker's pricing scheme? If they do, then they constitute the AS
 state, as we shall see when we come to Bosanquet. But if they do not have such
 power, than what reason, other than wishful thinking, do we have to believe
 that they *can* carry out those tasks?
@@ -263,17 +257,10 @@ them is the receipt of stolen property. We will return to this point later.
 
 
 In this section, we will look at two prominent examples of AC literature:
-Robert P. Murphy's book *Chaos Theory*, and Michael Huemer's work, *The Problem
-of Political Authority*.
-
+Robert P. Murphy's book *Chaos Theory*, intended for a popular audience,
+and Michael Huemer's more academic work, *The Problem of Political Authority*.
 
 #### Murphy
-
-
-The writer T.C. Marti describes Murphy's *Chaos Theory* as "anarcho-capitalism
-without apology." *
-
-NOTE: https://tcmarti.com/chaos-theory-is-anarcho-capitalism-without-apology/
 
 To his credit, Murphy does not hide the need for coercing the bad guys in his
 "stateless" society:
@@ -308,7 +295,7 @@ steals a number of Acme Rocket Shoes: *he* never signed a contract promising
 not to do so, and never agreed to use any arbitration firm if Acme accused him
 of doing so.
 
-However, Murphy continues with his assertions that it all this law enforcement
+However, Murphy continues with his assertions that all of this law enforcement
 is voluntary:
 
 "We immediately see two things in this contract. First it is completely
@@ -345,7 +332,7 @@ by the amount of money their clients can spend.
 Murphy, to his credit, anticipates this complaint and attempts to handle it by
 claiming that employees will be reluctant to work for companies that employ
 biased arbitration agents. But this simply assumes that there are companies
-where one can find employment that use non-biased agents. A note that the bias
+where one can find employment that use non-biased agents. And note that the bias
 need not, and probably would not, be as extreme as the sort Murphy depicts,
 where the company simply makes up theft charges to milk departing employees for
 money. It could be as simple as a general inclination to accept the companies
@@ -355,19 +342,21 @@ case is regarded with suspicion.
 If Elon Musk can afford to sign a $50 million a year contract with a protection
 agency and not lose a significant portion of his wealth, then it will certainly
 protect him a lot more than someone living in a project in inner-city Detroit.
-There is no reason to think that the disparity will be proportionate: Mask does
-not want to live a mid total chaos, and he doesn't mind some portion of his
+There is no reason to think that the disparity will be proportionate: Musk does
+not want to live amid total chaos, and he doesn't mind some portion of his
 wealth going to provide some protection to much poorer clients of the
 protection agency. But it is hard to believe that he will not want his
-protection agency to protect the monopoly he receives through the intellectual
-property rights he holds, and to use far more resources to defend them than
-they will the life of someone in the project.
+protection agency to protect, for instance, the monopoly profits he receives
+through the intellectual property rights he holds, and to use far more resources
+to defend them than they will the life of someone in the project.
 
 
 #### Huemer
 
-H makes much of the fact that the State is permitted to do things that private
-citizens are not, e.g.:
+H launches his book with a thought experiment where the reader is asked to
+imagine that he has begun vigilante law enforcement for which he tries to force
+his neighbors to pay him. H uses the story to illustrate the fact 
+that the State is permitted to do things that private citizens are not:
 
 "you assumed two of [the modern state's] most central roles: you punished
 people who violated others rights or disobeyed your commands, and you collected
@@ -376,8 +365,7 @@ government, these activities are referred to as the criminal justice system and
 the tax system. In your case, they are referred to as kidnapping and
 extortion." 4
 
-
-Huemer does not seem to consider that what might be wrong for someone in one
+Huemer ignores the fact that what might be wrong for someone in one
 social position might be perfectly OK for someone in another. Imagine someone's
 mom showing up at the playground in her car, rolling down the window, and
 ordering Billy to get into the car because "we're going for a trip." Employing
@@ -406,13 +394,13 @@ on H's part: it is not *people* who have the special moral status, but *roles*.
 For example, members of the judicial branch are not some special sort of people
 who have the power to pass judgment on others. They are current occupants of
 the role of *judge*, and that role consists in passing judgments on legal
-matters. He is not a special sort of person who, as he strolls out to the
+matters. A judge is not a special sort of person who, as he strolls out to the
 diner in the morning, or plays with his kids in the park on Saturday afternoon,
 can simply pass judgments on anything going on around him, judgments which
 those involved are obligated to follow. No, it is only during those times when
 he is occupying the role of judge that he is able to do these things.
 One wonders if when H attends a baseball game, he constantly complains about one
-single person somehow having the special status that only he can call balls and
+person somehow having the special status that only he can call balls and
 strikes?
 
 Once one understands that the accurate focus of discussion is roles, and not
@@ -446,10 +434,11 @@ Of course it is possible to play basketball without anyone occupying that role:
 every person who has ever played playground basketball knows that, and such
 games are interesting in their own right. But contests between teams of players
 simply improvising, and teams of players coordinating around some plan given to
-them by their coach largely favorite latter form of organization. Otherwise,
+them by their coach largely favor the latter form of organization. Otherwise,
 NBA teams would stop paying head coaches so much money, and simply tell the
 players, "go out there and do whatever!"
 
+[Nisbet's point on military societies versus kinship.]
 
 Much can be achieved through the spontaneous cooperation of individual humans.
 But such achievements are always fragile in the face of an antagonistic society
@@ -461,13 +450,9 @@ following any questionable pitch. The role of home plate umpire is necessary so
 that we can have a game of baseball at all, rather than a couple of pitches,
 followed by an enormous argument.
 
-
-No children ever consented to having their parents have authority over them.
-But amongst most mammal species, the newborn will not survive without guidance
-of their parents. And they are naturally oriented to accept such guidance.
-
-H does a good job of showing why social contract theory does not work. But this
-is no argument against B, because B is not a social contract theorist.
+In his sections on social contract theories, H does a good job of showing why
+such theories don't work. But this is no argument against B, because B is not a
+social contract theorist.
 
 If one accepts that the state is the vehicle of social organization of some
 people, then we can answer H as Socrates does in Crito: you literally owe your
@@ -485,12 +470,14 @@ has seen fit to have a government that decides when coercion is permissible
 against someone violating the society's norms.
 
 
+With H, as with Murphy, the ACs have a more realistic view of human
+nature than the ASs:
 
 "In any realistic human society, even an anarchist one, at least some
 individuals will commit aggression against others." 230
 
-Again, it is worth noting that the ACs have a more realistic view of human
-nature than the ASs.
+In arguing for why violence will be rare as a means of settling disputes in AC,
+H claims:
 
 "Arbitration by a neutral third-party is the best way to resolve most disputes,
 since it generally provides a good chance of delivering a reasonably fair
@@ -500,11 +487,11 @@ violence. For these reasons, almost all individuals would want their disputes
 to be resolved through arbitration." 231
 
 There are a few things worth noting here. First of all the arbitration agencies
-have exactly the kind of special "special moral status" that H complains of the
-government having. Why aren't they able to resolve these disputes, rather than
+have exactly the kind of special "special moral status" that H complains that the
+government has. Why are they able to resolve these disputes, rather than
 me, or any other arbitrary person? Well, his society has given them that role,
 just like ours has assigned that role to government courts. The employees of
-the arbitration agency are not people given a special moral status, but occupy
+the arbitration agency are not people given a special moral status: they occupy
 roles that are given a special moral status.
 
 And citizens typically look to the government to perform exactly this role,
@@ -516,24 +503,25 @@ violence. But if an organization in anarchy focuses on being able to employ
 violence to extent that no other group in its area can do, it may find it less
 costly, and more beneficial, to use violence against any who oppose its
 preferred solution to some dispute. And this is exactly how the mafia arose in
-what was an essentially stateless island of Sicily in the kingdom of the two
+what was an essentially stateless island of Sicily in the Kingdom of the Two
 Sicilies. When Somalia fell into a state of anarchy, we did not see the rise of
 arbitration agencies peacefully settling disputes, but the rise of rival
 warlords employing violence against each other's organizations.
 
-
-When it comes to argue that AC is actually a form of anarchism, he claims that
+When H comes to argue that AC is actually a form of anarchism, he claims that
 a key difference between AC and state governance is "voluntariness versus
 coerciveness" 232, because people choose their own protection agencies. Indeed,
 they will have voluntary we chosen their agency, but those agencies must still
-exercise coercion against people who did not choose them. (DP) for instance, if
-an AS sincerely believes that the capitalists ownership of the factory he works
-in his unjust, and leads the workers in an attempt to seize control of the
-factory, the capitalists protection agency will employ violence against him, if
+exercise coercion against people who did not choose them. For instance, if
+an AS sincerely believes that the capitalist ownership of the factory he works
+in is unjust, and leads the workers in an attempt to seize control of the
+factory, the capitalist's protection agency will employ violence against them, if
 necessary, to protect its clients property rights. But the AS most definitely
-did not voluntarily agree that the capitalist had those property rights.
+did not voluntarily agree that the capitalist had those property rights, and
+will never admit that he agreed to be forcefully prevented from taking over the
+factory.
 
-The second advantage H claims for AC, is that one can more easily switch
+The second advantage H claims for AC is that one can more easily switch
 protection agencies than one can switch governments. But this is actually not a
 claim of a moral difference, but of a practical advantage for AC. And this, is
 indeed, how we should properly regard AC: as a proposal for a more effective
@@ -548,7 +536,7 @@ Hobbes's picture of it: people would be generally peaceful, as employing
 violence against others risks injury to oneself, and will make many people
 other than the target of your violence see you as threatening.
 
-So humans once lived in stateless societies, and people in them were mostly
+So, per H, humans once lived in stateless societies, and people in them were mostly
 peaceful, and cooperated with some success against those who would initiate
 violence (perhaps to become their ruler). If that is true, how did we wind up
 in a world in which all land is controlled by one state or another? Huemer
@@ -670,7 +658,7 @@ indispensable form even for the supreme direction of affairs..." xxiv
 
 Thus we see that the State, for B, need not take the form of any of the systems
 of institutions we find in the world today. Its central institutions might well
-be syndicates, or protection agencies.
+be, for instance, syndicates, or protection agencies.
 
 For Bosanquet, the justification for the State's
 existence is that it is the condition for society forming any sort of unity at
@@ -683,7 +671,7 @@ unions revolves." And for AC it is the network of protection/defense agencies.
 If ever either AS or AC were put into practice, one of two things would happen:
 the Federation's or the network of protection agencies would hold together their
 society's hierarchy of groups, and be a source of pervading adjustments, and
-thus would form functioning states, or they would not, in which case the result
+thus would form a functioning State, or they would not, in which case the result
 would be a Hobbesian state of nature.
 
 
@@ -691,62 +679,36 @@ would be a Hobbesian state of nature.
 ## Conclusion
 
 
-The State is the political order of society. Even the simplest of social
-orders, the kinship society, cannot avoid having some political aspect. But for
-peoples living in the modern world, the political will take on a much greater
-importance.
-
-
-
-The government of that state is the portion of it tasked with coercing those
-who would act to undermine that order. Nothing in history suggests that any
-social order can long endure if it does not act against those who, unwittingly
-or not, act to undermine that order.
-
-
 If a society is organized around a body of rules and norms the violation of
 which will lead to coercion being exercised against the violator, then it is,
 among other things, a state. If it has such rules and norms but does not coerce
 violators, then it will soon cease to be a state and fall into social chaos.
 
-
-Understood in the light of B's philosophical conception of the state (or of
-Gentile's), neither anarcho-syndicalism nor anarcho-capitalism actually offer
-proposals for a "stateless society." In fact, as B or G understood the State,
-such a thing is not possible: in the absence of a State, we have no society,
-but mere chaos. What both of these *do* provide are schemes for alternate ways
-of organizing the State. And as such, they may be valuable: since neither has
-actually ever been attempted at any scale, all that a fair-minded judge of
-their proposals can say is: "Well, perhaps these would work out as you
-envision. If you ever get a chance to implement them, we will find out." And
-even if their schemes did not work out as envisioned, the thinkers in these
-traditions have done us a valuable service in at least getting us to question
-our fundamental assumptions about what a state ought to look like.
-
-
 The government of that state is the portion of it tasked with coercing those
 who would act to undermine that order. Nothing in history suggests that any
 social order can long endure if it does not act against those who, unwittingly
 or not, act to undermine that order.
 
-
-
 Once we understand the fundamental nature of a state as B did, then we see the
-both AS and AC, if either were ever implemented, must become either states, or
+both AS and AC, if either were ever implemented, either must instantiate an
+instance of "the State," or they will collapse into
 failed states exhibiting the genuinely bad sort of anarchy they both wish to
 avoid. They will either:
 
-1. Enforce the principles that are foundational to their social arrangements,
-even against those who object to them, and thus function as the government of a
-state; or
-2. Fail to do so, and thus make likely the breakdown of social order
-
-Thus, this paper is not intended as a refutation of these proposals;
+This paper is not intended as a refutation of AS or AC  proposals;
 its only aim is to point out that the claim that such proposals are "stateless"
 or would do away with "coercion," or would create societies without politics,
 are misrepresentations, intended to sell the proposals, but not accurately
 depicting the nature of the society they propose.
 
+Once these proposals are recognized as alternate forms of the State, rather than
+types of anarchy, they are valuable: since neither has
+actually ever been attempted at any scale, all that a fair-minded judge of
+their proposals can say is: "Well, perhaps these would work out as you
+envision. If you ever get a chance to implement them, we will find out." And
+even if their schemes did not work out as envisioned, the thinkers in these
+traditions have done us a service in at least getting us to question
+our fundamental assumptions about what a state ought to look like.
 
 
 
