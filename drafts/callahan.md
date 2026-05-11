@@ -11,14 +11,15 @@ The British idealist philosopher Bernard Bosanquet's book *The
 Philosophical Theory of the State*, was first published in 1899, and by 1923
 four editions had been printed. In it, B attempts to view the State from the
 perspective of experience as a whole, and determine its place within that whole.
+And that is why, despite B's defining the State in what may seem to many to be
+an idiosyncratic fashion, it is worth engaging with his thought.
 
 This essay will use B's analysis to reflect upon two prominent forms of
 "anarchism": anarcho-syndicalism (whose best-known current advocate is the linguist
-Noam Chomsky) and anarcho-capitalism (developed by Murray Rothbard (NOTE) and
-recently championed by Michael Huemer and Robert P. Murphy, among others). In
-light of Bosanquet's theory, we will see that neither anarcho-syndicalism's nor
-anarcho-capitalism's ideal societies are actually stateless: both are proposals
-for novel forms of the State.
+Noam Chomsky) and anarcho-capitalism (developed by Murray Rothbard (NOTE)).
+Seen in this light, neither anarcho-syndicalism's nor
+anarcho-capitalism's ideal societies actually appear to be stateless: instead,
+both are proposals for novel forms of the State.
 
 This chapter will not attempt an evaluation of the potential benefits and
 downsides of such  states, or even of the feasibility of implementing either.
@@ -29,7 +30,7 @@ considered together.
 Instead, we will begin by looking at a few highly regarded texts from these
 traditions. Along the way to understanding why both of their proposed systems
 of social organization are actually states, we will analyze some dubious
-arguments their proponents make. that, while perhaps not directly demonstrating
+arguments their proponents make that, while perhaps not directly demonstrating
 our central thesis, are examples of how the claims of statelessness are
 superficially made to appear more plausible. We will then employ Bosanquet's
 analysis to see why they are not actually stateless. Recognizing that neither
@@ -62,14 +63,17 @@ anarchists, and explore their basis for rejecting it.
 
 We will first examine anarcho-syndicalism. The movement grew out of the
 libertarian branch of socialism, and focused on organizing workers through
-trade unions (*syndicat* in French), proposing using their collective power to
+trade unions (*syndicat* in French), proposing to use their collective power to
 eliminate both capitalism and the State.
 
 Rudolf Rocker will be our spokesperson for AS. Rocker was a German anarchist
 who moved to the United States after Hitler rose to power. At the behest of
 fellow anarchist Emma Goldman, he wrote the book *Anarcho-Syndicalism*, which
 was published just before World War II.* It was re-published in 1978, with a
-forward by Noam Chomsky. It has been re-printed and translated many other
+forward by Noam Chomsky, who referred to the new edition as "an event of much
+importance for people who are concerned with problems of liberty and justice"
+(vi).
+It has been re-printed and translated many other
 times, and a new version from AK Press is scheduled this year.
 
 NOTE: Rocker, Rudolf. 1989. *Anarcho-Syndicalism*. Pluto Press: London.
@@ -79,15 +83,15 @@ Early on, Rocker endorses a labor-theory of value:
 "The average working time required for the completion of any product becomes
 the measure of its value and is the basis of mutual exchange." (15)
 
-This is apparently an instance of Marx's theory of value, in which he offers
+This is an instance of Marx's theory of value, in which he offers
 this definition of socially necessary labor:
 
 "In the process we are now considering it is of extreme importance, that no
 more time be consumed in the work of transforming the cotton into yarn than is
 necessary under the given social conditions. If under normal, i.e., average
-social conditions of production, a pounds of cotton ought to be made into b
+social conditions of production, *a* pounds of cotton ought to be made into *b*
 pounds of yarn by one hour’s labour, then a day’s labour does not count as 12
-hours’ labour unless 12 a pounds of cotton have been made into 12 b pounds of
+hours’ labour unless 12 *a* pounds of cotton have been made into 12 *b* pounds of
 yarn; for in the creation of value, the time that is socially necessary alone
 counts."
 
@@ -113,10 +117,9 @@ In fact, any scheme that realized Rocker's ideal:
 
 Rocker would probably respond, "Well, people wouldn't act that way under
 anarchism." As with many utopias, his depends heavily on the people inhabiting
-it being significantly different than the people we actually encounter.
+it being significantly different than the people we actually encounter today.
 Rocker is aware of this fact, but it does not trouble him, since he believes
 the nature of the people we meet today (as in his time) is deformed by:
-
 
 "The ever-growing power of a soulless political bureaucracy which supervises and
 safeguards life of man from the cradle to the grave... [which puts] ever
@@ -140,6 +143,25 @@ Brief History of America's Utopian Experiments in Communal Living." *The
 Freeman*.
 https://fee.org/articles/the-dark-side-of-paradise-a-brief-history-of-americas-utopian-experiments-in-communal-living/.
 
+For Rocker, the primary factor that makes people in our actual world behave so
+differently than they will in his utopia is authority:
+
+"The less [the] natural development of man is influenced by ecclesiastical or
+political guardianship, the more efficient and harmonious will human
+personality become, the more it will become the measure of the intellectual
+culture of the society in which it has grown." 31
+
+But why should we imagine that this is so? The evidence we actually have,
+documented, for instance, by René Girard, would seem to indicate that attempts
+to eliminate all hierarchies do not result in Shangri-La, but in a fierce
+competition for status. Girard points out that this is the problem plaguing the
+Greek army in Troilus and Cressida: "Ulysses diagnoses the problem... as a loss
+of authority caused by rivalry among the chiefs."
+
+NOTE: Girard, Rene (1991). *A Theater of Envy: William Shakespeare*. St.
+Augustine's Press: South Bend, Indiana. Pg. 141.
+
+
 Rocker then declares that: "Anarchists demand the abolition of all economic
 monopolies and the common ownership of the soil and all other means of
 production, the use of which must be available to all without distinction" 23
@@ -160,28 +182,9 @@ offered as to how anyone can "administer things" without also governing men. If
 a farm has an administrator, and he decides the farm will grow peaches, what is
 he supposed to do if the workers declare that instead they are going to grow
 cannabis? If the decision to grow peaches came about through a vote of the
-current workers, what are they supposed to do if a new group of workers
-arrives, and proposes to tear out the peach trees and grow corn? After all, the
+current workers, how can they respond to a new group of workers
+that arrives and proposes to tear out the peach trees and grow corn? After all, the
 use of the farm "must be available to all without distinction."
-
-For Rocker, the factor that makes people in our actual world behave so
-differently than they will in his utopia is authority:
-
-"The less [the] natural development of man is influenced by ecclesiastical or
-political guardianship, the more efficient and harmonious will human
-personality become, the more it will become the measure of the intellectual
-culture of the society in which it has grown." 31
-
-But why should we imagine that this is so? The evidence we actually have,
-documented, for instance, by René Girard, would seem to indicate that attempts
-to eliminate all hierarchies do not result in Shangri-La, but in a fierce
-competition for status. Girard points out that this is the problem plaguing the
-Greek army in Troilus and Cressida: "Ulysses diagnoses the problem... as a loss
-of authority caused by rivalry among the chiefs."
-
-NOTE: Girard, Rene (1991). *A Theater of Envy: William Shakespeare*. St.
-Augustine's Press: South Bend, Indiana. Pg. 141.
-
 
 Rocker claims: "Power operates only destructively, bent always on forcing every
 manifestation of life into the straight jacket of its laws." 33
@@ -229,7 +232,7 @@ So here we come to the crux of the matter: do these two poles actually have the
 power necessary to arrange the cooperative action of local groups and to enforce
 Rocker's pricing scheme? If they do, then they constitute the AS
 state, as we shall see when we come to Bosanquet. But if they do not have such
-power, than what reason, other than wishful thinking, do we have to believe
+power, then what reason, other than wishful thinking, do we have to believe
 that they *can* carry out those tasks?
 
 Thus, AS either offers:
@@ -261,6 +264,11 @@ Robert P. Murphy's book *Chaos Theory*, intended for a popular audience,
 and Michael Huemer's more academic work, *The Problem of Political Authority*.
 
 #### Murphy
+
+Robert P. Murphy has written a popular and accesible case for
+anarcho-capitalism with his book *Chaos Theory*.
+
+NOTE:
 
 To his credit, Murphy does not hide the need for coercing the bad guys in his
 "stateless" society:
@@ -310,8 +318,8 @@ one of the parties is below it, any contract is invalid? If not, babies can
 sell their labor for years for a lollipop. (One of my older children repeatedly
 tried to get a younger sibling to agree to such lopsided deals.) But if there
 is such an age, how is it agreed to? Surely the people too young to make valid
-contracts could not contract into such an arrangement. The same problem occurs
-with something like age of consent laws: Surely there is some age below which a
+contracts cannot contract into such an arrangement. The same problem occurs
+with something like age of consent laws: there must be some age below which a
 person cannot meaningfully consent to sex. But wherever that cut off is set,
 the people falling below it did not consent to having it set there. And
 besides age considerations, there is, even for adults, the question of when
@@ -326,7 +334,7 @@ dollars at their disposal to pay entities like arbitration agencies, firms
 which may be bringing claims against an employee who might have a few thousand
 dollars to spare to pay an agency... anyone who has ever been interested in
 buying an inexpensive property employing a real estate agent who sells
-multimillion dollar homes will it test to the fact that agents are influenced
+multimillion dollar homes will attest to the fact that agents are influenced
 by the amount of money their clients can spend.
 
 Murphy, to his credit, anticipates this complaint and attempts to handle it by
