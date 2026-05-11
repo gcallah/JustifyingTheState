@@ -361,6 +361,8 @@ to defend them than they will the life of someone in the project.
 
 #### Huemer
 
+In contrast to *Chaos Theory*, H's *The The Problem of Political Authority* is
+significantly longer and aimed primarily at an academic audience.
 H launches his book with a thought experiment where the reader is asked to
 imagine that he has begun vigilante law enforcement for which he tries to force
 his neighbors to pay him. H uses the story to illustrate the fact 
@@ -374,15 +376,15 @@ the tax system. In your case, they are referred to as kidnapping and
 extortion." 4
 
 Huemer ignores the fact that what might be wrong for someone in one
-social position might be perfectly OK for someone in another. Imagine someone's
+social position might be perfectly OK for someone in another. Imagine Billy's
 mom showing up at the playground in her car, rolling down the window, and
-ordering Billy to get into the car because "we're going for a trip." Employing
+ordering Billy to get into the car because "We're going for a trip." Employing
 H's intuition pump here, we could imagine him complaining "If some perfect
 stranger did this, we would call it kidnapping!" Well, yes we would. But we
 don't call it that when Billy's mom does it, because we recognize that she has
-the proper authority to do so.
+the proper authority to do it.
 
-H characterizes the State's "non-voluntary intervention" as necessarily
+H then characterizes the State's "non-voluntary intervention" as necessarily
 involving "harm":
 
 "The system as a whole must be anchored by a non-voluntary intervention, a harm
@@ -391,12 +393,9 @@ Thus, the legal system is founded on *intentional, harmful coercion*." 9-10
 
 But as Plato taught us long ago, being punished for one's wrongdoing is not a
 harm, but a good. (Gorgias) Of course, laws may punish actions that are not
-actually instances of wrongdoing, and those laws should be amended. As Habermas
-notes, a crucial aspect of politics is public reasoning about what the law
-should be.
+actually instances of wrongdoing, and those laws should be amended.
 
-
-H asserts that "some explanation is required for why
+H goes on to assert that "some explanation is required for why
 some people should have this special moral status." 17 But this is a confusion
 on H's part: it is not *people* who have the special moral status, but *roles*.
 For example, members of the judicial branch are not some special sort of people
@@ -406,7 +405,7 @@ matters. A judge is not a special sort of person who, as he strolls out to the
 diner in the morning, or plays with his kids in the park on Saturday afternoon,
 can simply pass judgments on anything going on around him, judgments which
 those involved are obligated to follow. No, it is only during those times when
-he is occupying the role of judge that he is able to do these things.
+he is occupying the *role* of judge that he is able to do these things.
 One wonders if when H attends a baseball game, he constantly complains about one
 person somehow having the special status that only he can call balls and
 strikes?
@@ -424,8 +423,8 @@ the coach himself could limit his own authority, by telling the team, for
 instance, "of course if they try a different defense, you'll have to
 improvise!"
 
-Now, this obligation to obey depends upon the fact that the person is issuing a
-directive is actually acting in the social role he has been assigned,
+Now, this obligation to obey depends upon the fact that the person is issuing
+the directive is actually acting in the social role he has been assigned,
 rather than departing from it, and simply acting to achieve his own individual
 goals.
 
@@ -436,17 +435,22 @@ deciding that this person has left his role as coach and is now acting in,
 perhaps, the role of "game fixer." And while the players have an obligation to
 follow directives coming from the role of head coach, they have no such
 obligation to follow those coming from the role game fixer. And that is why
-revolution against authority is sometimes, if rarely, justified.
+revolution against authority is sometimes justified.
 
-Of course it is possible to play basketball without anyone occupying that role:
-every person who has ever played playground basketball knows that, and such
-games are interesting in their own right. But contests between teams of players
-simply improvising, and teams of players coordinating around some plan given to
-them by their coach largely favor the latter form of organization. Otherwise,
-NBA teams would stop paying head coaches so much money, and simply tell the
-players, "go out there and do whatever!"
+Of course it is possible to play basketball without anyone occupying the role
+of head coach: every person who has ever played playground basketball knows
+that, and such games are interesting in their own right. But contests between
+teams of players simply improvising, and teams of players coordinating around
+some plan given to them by their coach largely favor the latter form of
+organization. Otherwise, NBA teams would stop paying head coaches so much
+money, and simply tell the players, "go out there and do whatever!"
+For similar reasons, as Robert Nisbet noted, "The kinship community is
+invariably defeated by the military community when the two come in
+confrontation" (22).
 
-[Nisbet's point on military societies versus kinship.]
+NOTE: Nisbet, Robert (2025). *The Social Philosophers: Community and Conflict
+in Western Thought* Philadelphia: American Philosophical Society Press, p. 22.
+
 
 Much can be achieved through the spontaneous cooperation of individual humans.
 But such achievements are always fragile in the face of an antagonistic society
@@ -456,18 +460,23 @@ The role of authority is to have a means of resolving disputes. Without an
 umpire, we would have interminable arguments between the batter and pitcher
 following any questionable pitch. The role of home plate umpire is necessary so
 that we can have a game of baseball at all, rather than a couple of pitches,
-followed by an enormous argument.
+followed by an enormous argument. He is not a superior sort of person to the
+batter or pitcher; in fact, there is no guarantee he will be better than them
+at determining balls and strikes.
 
 In his sections on social contract theories, H does a good job of showing why
 such theories don't work. But this is no argument against B, because B is not a
 social contract theorist.
 
-If one accepts that the state is the vehicle of social organization of some
+If one accepts that the State is the ultimate vehicle of social organization of some
 people, then we can answer H as Socrates does in Crito: you literally owe your
 existence to the state, and that is your source of obligation to it. No infant
 born without support from other humans will ever live more than a few days.
 Even if we grant a source of nourishment, without being educated by other human
 beings, no person could function as a somewhat autonomous adult.
+
+NOTE: Crito
+
 
 This has been read as a form of social contract theory, but I believe that is
 projecting contemporary ideas back into the dialogue. It's not a theory about
@@ -484,8 +493,8 @@ nature than the ASs:
 "In any realistic human society, even an anarchist one, at least some
 individuals will commit aggression against others." 230
 
-In arguing for why violence will be rare as a means of settling disputes in AC,
-H claims:
+However, in arguing for why violence will be rare as a means of settling
+disputes in AC, H claims:
 
 "Arbitration by a neutral third-party is the best way to resolve most disputes,
 since it generally provides a good chance of delivering a reasonably fair
@@ -502,9 +511,6 @@ just like ours has assigned that role to government courts. The employees of
 the arbitration agency are not people given a special moral status: they occupy
 roles that are given a special moral status.
 
-And citizens typically look to the government to perform exactly this role,
-although it always does so imperfectly.
-
 And the claim that is less costly to resolve a dispute through arbitration then
 through violence only applies when each side has roughly equal ability to use
 violence. But if an organization in anarchy focuses on being able to employ
@@ -512,9 +518,7 @@ violence to extent that no other group in its area can do, it may find it less
 costly, and more beneficial, to use violence against any who oppose its
 preferred solution to some dispute. And this is exactly how the mafia arose in
 what was an essentially stateless island of Sicily in the Kingdom of the Two
-Sicilies. When Somalia fell into a state of anarchy, we did not see the rise of
-arbitration agencies peacefully settling disputes, but the rise of rival
-warlords employing violence against each other's organizations.
+Sicilies.
 
 When H comes to argue that AC is actually a form of anarchism, he claims that
 a key difference between AC and state governance is "voluntariness versus
@@ -535,11 +539,7 @@ claim of a moral difference, but of a practical advantage for AC. And this, is
 indeed, how we should properly regard AC: as a proposal for a more effective
 system of governance than our current one, not as a system of "anarchy."
 
-And indeed, perhaps it would be more effective. But recognition of this fact
-strips AC of its claims tomorrow's superiority, and reduces it to an alternate
-proposal for how states should be governed.
-
-H makes an argument that the state of nature would not be anything like
+H argues that the state of nature would not be anything like
 Hobbes's picture of it: people would be generally peaceful, as employing
 violence against others risks injury to oneself, and will make many people
 other than the target of your violence see you as threatening.
@@ -551,8 +551,6 @@ in a world in which all land is controlled by one state or another? Huemer
 describes what should be a quite stable equilibrium, but offers no explanation
 as to how we left it.
 
-
-
 The ultimate selling point of AC for most people who endorse, as we saw in
 Murphy, is its claim that, should AC be adopted, almost all social arrangements
 will be voluntary. To the contrary, if we accept the AC critique of the current
@@ -560,7 +558,8 @@ economic system, it is hard to see why most people would consent to the current
 property distribution. After all, the extremely wealthy largely got that way by
 exploiting government-granted privileges. Why should I accept the fact that I
 only own 1 acre of land, while my neighbor has 1000 acres, but only because of
-a grant given to his great-great... grandfather buy some remote English king?
+a grant given to his great-great... grandfather buy some long-dead English
+monarch?
 
 Nevertheless, there must be some determinate starting property distribution in
 AC, otherwise there is no stable way to adjudicate property disputes, and no
@@ -677,7 +676,7 @@ federations that "constitute the two poles about which the whole life of the tra
 unions revolves." And for AC it is the network of protection/defense agencies.
 
 If ever either AS or AC were put into practice, one of two things would happen:
-the Federation's or the network of protection agencies would hold together their
+the federations or the network of protection agencies would hold together their
 society's hierarchy of groups, and be a source of pervading adjustments, and
 thus would form a functioning State, or they would not, in which case the result
 would be a Hobbesian state of nature.
@@ -690,7 +689,7 @@ would be a Hobbesian state of nature.
 If a society is organized around a body of rules and norms the violation of
 which will lead to coercion being exercised against the violator, then it is,
 among other things, a state. If it has such rules and norms but does not coerce
-violators, then it will soon cease to be a state and fall into social chaos.
+violators, then it will soon cease to be a society and fall into social chaos.
 
 The government of that state is the portion of it tasked with coercing those
 who would act to undermine that order. Nothing in history suggests that any
@@ -701,9 +700,9 @@ Once we understand the fundamental nature of a state as B did, then we see the
 both AS and AC, if either were ever implemented, either must instantiate an
 instance of "the State," or they will collapse into
 failed states exhibiting the genuinely bad sort of anarchy they both wish to
-avoid. They will either:
+avoid.
 
-This paper is not intended as a refutation of AS or AC  proposals;
+This paper is not intended as a refutation of AS or AC proposals;
 its only aim is to point out that the claim that such proposals are "stateless"
 or would do away with "coercion," or would create societies without politics,
 are misrepresentations, intended to sell the proposals, but not accurately
@@ -711,8 +710,8 @@ depicting the nature of the society they propose.
 
 Once these proposals are recognized as alternate forms of the State, rather than
 types of anarchy, they are valuable: since neither has
-actually ever been attempted at any scale, all that a fair-minded judge of
-their proposals can say is: "Well, perhaps these would work out as you
+actually ever been attempted at any scale, a fair-minded judge of
+these proposals might say: "Well, perhaps these would work out as you
 envision. If you ever get a chance to implement them, we will find out." And
 even if their schemes did not work out as envisioned, the thinkers in these
 traditions have done us a service in at least getting us to question
