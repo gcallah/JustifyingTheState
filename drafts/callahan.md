@@ -1,7 +1,7 @@
 
 ========
 
-# Anarcho-Synicalism and Anarcho-Capitalism in Light of Bernard Bosanquet's Philosophical Theory of the State
+# Anarcho-Syndicalism and Anarcho-Capitalism in Light of Bernard Bosanquet's Philosophical Theory of the State
 
 Gene Callahan, New York University
 
