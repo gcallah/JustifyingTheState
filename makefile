@@ -5,6 +5,7 @@ export ADDR_DIR = ./addresses
 export BIN_DIR = ./bin
 export BIO_DIR = ./bios
 export CHAP_DIR = ./chapters
+export PERM_DIR = ./permissions
 export PROP_DIR = ./proposal
 export PUB_DIR = ./to_publisher
 export STRUCT_DIR = ./structure
@@ -31,7 +32,7 @@ github:
 
 parts: abstracts bios toc proposal
 
-whats_missing: missing_abs missing_addrs missing_bios missing_chaps
+whats_missing: missing_abs missing_addrs missing_bios missing_chaps missing_perms
 
 missing_abs: FORCE
 	$(MISSING_PROG) $(AUTHOR_FILE) $(ABS_DIR)
@@ -41,9 +42,12 @@ missing_addrs: FORCE
 	
 missing_bios: FORCE
 	$(MISSING_PROG) $(AUTHOR_FILE) $(BIO_DIR)
-	
+
 missing_chaps: FORCE
 	$(MISSING_PROG) $(AUTHOR_FILE) $(CHAP_DIR) docx
+
+missing_perms: FORCE
+	$(MISSING_PROG) $(AUTHOR_FILE) $(PERM_DIR) pdf
 
 toc: $(WORD_DIR)/toc.docx
 
