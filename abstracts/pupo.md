@@ -20,6 +20,6 @@ will sooner or later influence the outside world, modifying it. In my chapter, I
 State in relation to ethics, religion, and economics. With this vision, he attempts to overcome liberal atomism and
 Marxist materialism. Gentile believes that both of these doctrines are united by an Enlightenment root, which gives rise
 to their "faith" in abstract individualism and their inability to achieve an organic vision of human life, in which the
-"particular" and the "universal" coexist dialectically. Finally, I will clarify the clear independence of Gentile'a
+"particular" and the "universal" coexist dialectically. Finally, I will clarify the clear independence of Gentile's
 vision from Hegelian statolatry, with which it has often been erroneously associated.
 
