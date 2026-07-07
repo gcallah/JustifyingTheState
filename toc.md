@@ -22,10 +22,10 @@ Edited by Gene Callahan and Leye Komolafe
 [Jason Ferrell](bios/ferrell.md), Concordia University
 1. [Jürgen Habermas on Justifying the State through Communicative Rationality](abstracts/habermas.md),
 [Oris Kondwani Chimphambano](bios/chimphambano.md), University of Malawi
-1. [Gerald Gaus's Justification for the State](abstracts/gaus.md),
-[Kevin Vallier](bios/vallier.md), University of Toledo
 1. [A Razian Audit of State Authority](abstracts/raz.md),
 [Karim Dharamsi](bios/dharamsi.md), Mount Royal University
+1. [Gerald Gaus's Justification for the State](abstracts/gaus.md),
+[Kevin Vallier](bios/vallier.md), University of Toledo
 1. [A. John Simmons On Justifying the State](abstracts/simmons.md),
 [Jeff Carroll](bios/carroll.md), West Virginia University
 1. [Jonathan Wolff’s Pluralist Theory of Political Obligation](abstracts/jwolff.md),
