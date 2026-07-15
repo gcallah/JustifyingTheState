@@ -1,11 +1,11 @@
 
 ================
 
-Kevin Vallier is a professor of philosophy at the University of Toledo, where he is director of research at the
-Institute of American Constitutional Thought and Leadership. Vallier's interests lie primarily in political philosophy,
-ethics, philosophy of religion, and philosophy, politics, and economics (PPE). He is the author of four monographs, five
-edited volumes, and more than sixty peer-reviewed book chapters and journal articles. His books include *Liberal Politics
-and Public Faith: Beyond Separation* (Routledge 2014), *Must Politics Be War? Restoring Our Trust in the Open Society*
-(Oxford UP 2019), and *Trust in a Polarized Age* (Oxford UP 2020). His newest book is *All the Kingdoms of the World: On
-Radical Religious Alternatives to Liberalism* (Oxford UP 2023). His next book will assess the philosophical coherence of
-fusionist conservatism. 
+Kevin Vallier is Professor of Philosophy at the University of Toledo.
+His research focuses on public reason liberalism, social trust, and
+the relationship between religion and politics. He is the author of
+*Liberal Politics and Public Faith: Beyond Separation* (Routledge,
+2014), *Must Politics Be War? Restoring Our Trust in the Open Society*
+(Oxford University Press, 2019), *Trust in a Polarized Age* (Oxford
+University Press, 2020), and *All the Kingdoms of the World: On Radical
+Religious Alternatives to Liberalism* (Oxford University Press, 2023).
