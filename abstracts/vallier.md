@@ -3,7 +3,7 @@
 
 # Gerald Gaus's Justification for the State
 
-Kevin Valier, University of Toledo
+Kevin Vallier, University of Toledo
 
 This essay examines Gerald Gaus's justification for the state. Gaus's
 justification is neither contractarian nor anarchist, but grounded in
