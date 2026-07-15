@@ -6,24 +6,24 @@
 Jeff Carroll
 
 
-Abstract: This paper concerns the concepts of justification and legitimacy in
-the work of A. John Simmons. Legitimacy refers to the moral right the state has
-to be the exclusive imposer of duties on the citizenry and the permission to use
-force to enforce those duties, if necessary. The literature on political
-obligation is rife with attempts to provide a theory that successfully
-establishes the legitimacy of the state. Simmons finds all such attempts
-lacking. But he does not find all attempts to justify the state unsuccessful.
-Many existing states are justified, according to Simmons. Yet, surprisingly,
-there is much less work done on what he means by justification. In general,
-'justification' refers to showing whether an act, a strategy, a practice, an
-arrangement, or an institution is prudentially rational, morally acceptable, or
-both. I am to provide additional insight into how best to interpret Simmons's
-account of justification. In one sense, it is a way of measuring the quality of
-states. In another sense, it is a way of measuring reason not to act to
-undermine the state. I consider ways of reconciling these different senses. Then
-I show how it fits into Simmons's broadly Lockean theory. In short, legitimacy
-stems from consent and is separate from the state's quality. A justified state
-may offer reasons not to undermine it (say, because it is high-quality), but it
-does not inherently create a duty to obey; that requires particularized consent.
-One makes a mistake in blurring this distinction.
-
+This essay explores A. John Simmons's distinction between justification and
+legitimacy. While political philosophy historically conflated these terms,
+Simmons argues they are best understood as independent normative concepts.
+Justification serves an evaluative function, measuring an institution's overall
+goodness, moral permissibility, and capacity to provide essential social goods
+like security and stable rules. Legitimacy, conversely, is transactional and
+historical, tracking a state's morally acquired complex rights to legislate,
+enforce laws, and demand compliance through explicit, voluntary consent. Upon
+decoupling these concepts, Simmons defends a posteriori philosophical anarchism,
+asserting that while a legitimate state is theoretically possible, no existing
+state has successfully secured the required consent from its citizenry.
+Consequently, existing states are illegitimate but can still be justified by the
+beneficial social bargain they provide. A central contribution of this essay is
+the rejection of the "prioritarian interpretation," which wrongly assumes
+legitimacy always takes lexical priority over justification in Simmons's
+thought. Instead, this paper advocates for a "contextualist interpretation,"
+showing that how we navigate trade-offs between a state's rightfulness and its
+goodness depends on the situation. Finally, the essay examines the distinction
+between justifying an institution and justifying its specific acts,
+demonstrating that institutional quality does not dictate the moral standing of
+particular state actions.
