@@ -20,6 +20,8 @@ Edited by Gene Callahan and Leye Komolafe
 [Alexander Craig](bios/craig.md), Saint Mary's College
 1. [John Rawls and the Original Position](abstracts/rawls.md),
 [Jason Ferrell](bios/ferrell.md), Concordia University
+1. [Jonathan Wolff’s Pluralist Theory of Political Obligation](abstracts/jwolff.md),
+[Leye Komolafe](bios/komolafe.md), University of South Carolina
 1. [Jürgen Habermas on Justifying the State through Communicative Rationality](abstracts/habermas.md),
 [Oris Kondwani Chimphambano](bios/chimphambano.md), University of Malawi
 1. [A Razian Audit of State Authority](abstracts/raz.md),
@@ -28,8 +30,9 @@ Edited by Gene Callahan and Leye Komolafe
 [Kevin Vallier](bios/vallier.md), University of Toledo
 1. [A. John Simmons On Justifying the State](abstracts/simmons.md),
 [Jeff Carroll](bios/carroll.md), West Virginia University
-1. [Jonathan Wolff’s Pluralist Theory of Political Obligation](abstracts/jwolff.md),
-[Leye Komolafe](bios/komolafe.md), University of South Carolina
 1. [Coercion All the Way Down: A Ripsteinian Justification of the State](abstracts/ripstein.md),
 [Chrysogonus Okwenna](bios/okwenna.md), University of British Columbia
-
+1. [John Finnis on Political Authority and Law as Requirements of Practical Reason](abstracts/moschella.md),
+[Melissa Moschella](bios/moschella.md), University of Notre Dame
+1. [Is Justification of the Existence of Government a Useful Question?](/abstracts/klein.md),
+[Daniel B. Klein](bios/klein.md), George Mason University
