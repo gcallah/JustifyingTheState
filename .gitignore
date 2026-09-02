@@ -1,4 +1,5 @@
 *~
 *.swp
 *.docx
-/tmp
+./tmp
+./extras
