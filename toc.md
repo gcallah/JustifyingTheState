@@ -28,7 +28,7 @@ Oris Kondwani Chimphambano, University of Malawi
 Karim Dharamsi, Mount Royal University
 1. Gerald Gaus's Justification for the State,
 Kevin Vallier, University of Toledo
-1. A. John Simmons On Justifying the State,
+1. Simmons’s On Justifying the State,
 Jeff Carroll, West Virginia University
 1. Coercion All the Way Down: A Ripsteinian Justification of the State,
 Chrysogonus Okwenna, University of British Columbia
