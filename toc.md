@@ -6,7 +6,7 @@ Edited by Gene Callahan and Leye Komolafe
 ## Table of Contents
 
 1. Introduction, Gene Callahan and Leye Komolafe
-1. Bernard Bosanquet's Philosophical Theory of the State,
+1. Anarcho-Syndicalism and Anarcho-Capitalism in Light of Bernard Bosanquet's Philosophical Theory of the State,
 Gene Callahan, New York University
 1. Giovanni Gentile and the State *in interiore homine*,
 Spartaco Pupo, University of Calabria
