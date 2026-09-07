@@ -24,7 +24,7 @@ Jason Ferrell, Concordia University
 Leye Komolafe, University of South Carolina
 1. Jürgen Habermas on Justifying the State through Communicative Rationality,
 Oris Kondwani Chimphambano, University of Malawi
-1. A Razian Audit of State Authority,
+1. A Razian Audit of State Authority:Political Obligation, Legal Directives, and the Limits of Legitimate Power,
 Karim Dharamsi, Mount Royal University
 1. Gerald Gaus's Justification for the State,
 Kevin Vallier, University of Toledo
