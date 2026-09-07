@@ -14,7 +14,7 @@ Spartaco Pupo, University of Calabria
 Georgios Karakasis, University of Girona
 1. Heidegger on State Authority: Being, Nature, and History,
 Taylor Green, Carleton University
-1. Michael Oakeshott on Authority,
+1. Michael Oakeshott on the Role of General Ideas and Purposes in Accounting for Authority of the Modern State,
 W. John Coats, Connecticut College
 1. James Buchanan on the Limits of Liberty,
 Alexander Craig, Saint Mary's College
