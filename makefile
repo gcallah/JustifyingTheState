@@ -5,6 +5,7 @@ export ADDR_DIR = ./addresses
 export BIN_DIR = ./bin
 export BIO_DIR = ./bios
 export CHAP_DIR = ./chapters
+export KWORD_DIR = ./keywords
 export PERM_DIR = ./permissions
 export PROP_DIR = ./proposal
 export PUB_DIR = ./submission
@@ -62,7 +63,7 @@ permissions: FORCE
 toc: $(PUB_DIR)/toc.docx
 
 # Targets to check for missing files:
-whats_missing: missing_abs missing_addrs missing_bios missing_chaps missing_perms
+whats_missing: missing_abs missing_addrs missing_bios missing_chaps missing_keywords missing_perms
 
 missing_abs: FORCE
 	$(MISSING_PROG) $(AUTHOR_FILE) $(ABS_DIR)
@@ -75,6 +76,9 @@ missing_bios: FORCE
 
 missing_chaps: FORCE
 	$(MISSING_PROG) $(AUTHOR_FILE) $(CHAP_DIR) docx
+
+missing_keywords: FORCE
+	$(MISSING_PROG) $(AUTHOR_FILE) $(KWORD_DIR)
 
 missing_perms: FORCE
 	$(MISSING_PROG) $(AUTHOR_FILE) $(PERM_DIR) pdf
