@@ -5,6 +5,7 @@ export ADDR_DIR = ./addresses
 export BIN_DIR = ./bin
 export BIO_DIR = ./bios
 export CHAP_DIR = ./chapters
+export PDF_DIR = ./chap_pdfs
 export KWORD_DIR = ./keywords
 export PERM_DIR = ./permissions
 export PROP_DIR = ./proposal
@@ -33,7 +34,7 @@ github:
 	-git commit -a
 	git push origin main
 
-parts: abstracts bios chapters permissions toc
+parts: abstracts bios all_chaps permissions toc
 
 $(PUB_DIR)/toc.docx: toc.md
 	pandoc -o $@ -f markdown -t docx $^
@@ -54,8 +55,12 @@ $(PUB_DIR)/bios.docx: $(TMP_DIR)/bios.md
 $(TMP_DIR)/bios.md: $(BIO_DIR)/*.md
 	cat $^ > $@
 
-chapters: FORCE
-	cp $(CHAP_DIR)/*.docx $(PUB_DIR)
+CHAP_FILES := $(wildcard $(CHAP_DIR)/*.docx)
+
+$(PDF_DIR)/%.pdf: $(CHAP_DIR)/%.docx
+		pandoc $< -o $@ --pdf-engine=xelatex
+
+all_chaps: $(CHAP_FILES:$(CHAP_DIR)/%.docx=$(PDF_DIR)/%.pdf)
 
 permissions: FORCE
 	cp $(PERM_DIR)/*.pdf $(PUB_DIR)
