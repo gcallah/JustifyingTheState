@@ -61,7 +61,7 @@ $(PDF_DIR)/%.pdf: $(CHAP_DIR)/%.docx
 		pandoc $< -o $@ --pdf-engine=xelatex
 
 all_chaps: $(CHAP_FILES:$(CHAP_DIR)/%.docx=$(PDF_DIR)/%.pdf)
-	add_chap_no.py
+	./add_chap_no.py
 
 permissions: FORCE
 	cp $(PERM_DIR)/*.pdf $(PUB_DIR)
