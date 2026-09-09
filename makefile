@@ -12,7 +12,6 @@ export PROP_DIR = ./proposal
 export PUB_DIR = ./submission
 export STRUCT_DIR = ./structure
 export TMP_DIR = ./tmp
-export WORD_DIR = ./word_docs
 export ARCH_NAME = JustifyingTheState
 export ARCH_DIR = ./archive
 export ARCH_FILE = $(ARCH_DIR)/$(ARCH_NAME).zip
@@ -26,7 +25,7 @@ prod: parts
 
 archive: $(ARCH_FILE)
 
-$(ARCH_FILE): parts
+$(ARCH_FILE): FORCE
 	$(ARCH_PROG) -r $(ARCH_FILE) $(PUB_DIR)/*
 
 github:
@@ -34,15 +33,15 @@ github:
 	-git commit -a
 	git push origin main
 
-parts: abstracts bios all_chaps keywords permissions toc
+parts: abstracts addresses all_chaps bios keywords permissions toc
 
 keywords: FORCE
-	./add_keywords.py
+	./add_keyword_info.py
 
 $(PUB_DIR)/toc.docx: toc.md
 	pandoc -o $@ -f markdown -t docx $^
 
-abstracts: $(WORD_DIR)/abstracts.docx
+abstracts: $(PUB_DIR)/abstracts.docx
 
 $(PUB_DIR)/abstracts.docx: $(TMP_DIR)/abstracts.md
 	pandoc -o $@ -f markdown -t docx $^
@@ -50,7 +49,15 @@ $(PUB_DIR)/abstracts.docx: $(TMP_DIR)/abstracts.md
 $(TMP_DIR)/abstracts.md: $(ABS_DIR)/*.md
 	cat $^ > $@
 
-bios: $(WORD_DIR)/bios.docx
+addresses: $(PUB_DIR)/addresses.docx
+
+$(PUB_DIR)/addresses.docx: $(TMP_DIR)/addresses.md
+	pandoc -o $@ -f markdown -t docx $^
+
+$(TMP_DIR)/addresses.md: $(ADDR_DIR)/*.md
+	cat $^ > $@
+
+bios: $(PUB_DIR)/bios.docx
 
 $(PUB_DIR)/bios.docx: $(TMP_DIR)/bios.md
 	pandoc -o $@ -f markdown -t docx $^
@@ -65,6 +72,7 @@ $(PDF_DIR)/%.pdf: $(CHAP_DIR)/%.docx
 
 all_chaps: $(CHAP_FILES:$(CHAP_DIR)/%.docx=$(PDF_DIR)/%.pdf)
 	./add_chap_no.py
+	cp $(CHAP_DIR)/*.docx $(PUB_DIR)
 
 permissions: FORCE
 	cp $(PERM_DIR)/*.pdf $(PUB_DIR)
@@ -95,10 +103,10 @@ missing_perms: FORCE
 # Proposal related targets
 prop_parts: abstracts bios toc proposal
 
-proposal: $(WORD_DIR)/prop.docx $(WORD_DIR)/palgrave.docx
+proposal: $(PROP_DIR)/prop.docx $(PROP_DIR)/palgrave.docx
 
-$(WORD_DIR)/prop.docx: $(PROP_DIR)/prop.md
+$(PROP_DIR)/prop.docx: $(PROP_DIR)/prop.md
 	pandoc -o $@ -f markdown -t docx $^
 
-$(WORD_DIR)/palgrave.docx: $(PROP_DIR)/palgrave.md
+$(PROP_DIR)/palgrave.docx: $(PROP_DIR)/palgrave.md
 	pandoc -o $@ -f markdown -t docx $^
