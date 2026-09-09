@@ -34,7 +34,10 @@ github:
 	-git commit -a
 	git push origin main
 
-parts: abstracts bios all_chaps permissions toc
+parts: abstracts bios all_chaps keywords permissions toc
+
+keywords: FORCE
+	./add_keywords.py
 
 $(PUB_DIR)/toc.docx: toc.md
 	pandoc -o $@ -f markdown -t docx $^
