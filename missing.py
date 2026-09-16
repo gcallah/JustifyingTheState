@@ -34,7 +34,7 @@ def who_is_missing(authors: dict, dir_to_check: str):
             print(f'{author} is missing in {dir_to_check}')
     if missing_count == 0:
         print(f'All accounted for in {dir_to_check}, captain!')
-    print('\n===================\n")
+    print('\n===================\n')
 
 
 def main():
