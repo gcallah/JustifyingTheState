@@ -15,7 +15,6 @@ def read_authors(filenm: str) -> dict:
 
 def author_has_file(authors: dict, dir_to_check: str, ext: str) -> dict:
     os.chdir(dir_to_check)
-    print(f"Current working directory changed to: {os.getcwd()}")
     files = os.listdir('.') # '.' refers to the current directory
     for file in files:
         stripped = file.replace(f'.{ext}', '')
