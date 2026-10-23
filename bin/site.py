@@ -50,14 +50,14 @@ BANNERS = {
     "intro": ("40%", 'Jacques-Louis David, <em>The Death of Socrates</em>, 1787, '
               'Metropolitan Museum of Art, New York.',
               "Jacques-Louis_David_-_The_Death_of_Socrates_-_Google_Art_Project.jpg"),
-    "callahan": ("35%", 'Ford Madox Brown, <em>Work</em>, 1852&ndash;65, '
-                 'Manchester Art Gallery.',
+    "callahan": ("35%", 'Ford Madox Brown, <em>Work</em>, 1863, Birmingham '
+                 'Museum and Art Gallery.',
                  "Ford_Madox_Brown_-_Work_-_Google_Art_Project.jpg"),
     "pupo": ("35%", 'Vittore Carpaccio, <em>The Vision of St Augustine</em>, '
              '1502, Scuola di San Giorgio degli Schiavoni, Venice.',
              "Vittore_Carpaccio_026.jpg"),
     "karakasis": ("75%", 'Peter Paul Rubens and Frans Snyders, <em>Prometheus '
-                  'Bound</em>, c. 1611&ndash;18, Philadelphia Museum of Art.',
+                  'Bound</em>, c. 1610&ndash;18, Philadelphia Museum of Art.',
                   "Peter_Paul_Rubens,_Flemish_(active_Italy,_Antwerp,_and_"
                   "England)_-_Prometheus_Bound_-_Google_Art_Project.jpg"),
     "green": ("50%", 'Leo von Klenze, <em>The Acropolis at Athens</em>, 1846, '
@@ -73,11 +73,12 @@ BANNERS = {
                 '1818, United States Capitol, Washington.',
                 "Signing_of_the_Declaration_of_Independence_4K.jpg"),
     "komolafe": ("50%", 'George Caleb Bingham, <em>The County Election</em>, '
-                 '1852, Saint Louis Art Museum.',
+                 '1851&ndash;52, Saint Louis Art Museum.',
                  "George_Caleb_Bingham_-_The_County_Election_-_44-2001_-_"
                  "Saint_Louis_Art_Museum.jpg"),
     "chimphambano": ("55%", 'Anicet-Charles-Gabriel Lemonnier, <em>In the Salon '
-                     'of Madame Geoffrin in 1755</em>, 1812.',
+                     'of Madame Geoffrin in 1755</em>, 1812, '
+                     'Ch&acirc;teau de Malmaison.',
                      "Anicet-Charles-Gabriel_Lemonnier_-_In_the_Salon_of_"
                      "Madame_Geoffrin_in_1755_-_WGA12652.jpg"),
     "dharamsi": ("45%", 'Luke Fildes, <em>The Doctor</em>, 1891, Tate, London.',
@@ -87,7 +88,8 @@ BANNERS = {
                 "Pieter_Brueghel_the_Elder_-_The_Dutch_Proverbs_-_"
                 "Google_Art_Project.jpg"),
     "carroll": ("35%", 'Jean Leon Gerome Ferris, <em>The Mayflower Compact, '
-                '1620</em>, Library of Congress.',
+                '1620</em>, private collection; reproduction from the '
+                'Library of Congress.',
                 "The_Mayflower_Compact_1620_cph.3g07155.jpg"),
     "okwenna": ("46%", 'Rembrandt van Rijn, <em>The Night Watch</em>, 1642, '
                 'Rijksmuseum, Amsterdam.',
