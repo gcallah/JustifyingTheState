@@ -280,7 +280,7 @@ many people, rising over the land with sword and crozier"></figure>
 <ol class="toc">
 {chr(10).join(items)}
 </ol>
-<p class="hint">Follow a chapter title to read its abstract, or a contributor's
+<p class="hint">Click on a chapter title to read its abstract, or a contributor's
 name to read their biography.</p>
 </main>"""
     return page(SITE_TITLE, body, "", "home", CREDITS["leviathan.jpg"])
