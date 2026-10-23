@@ -13,8 +13,7 @@ What grounds, if any, can be offered for the authority of the state, and citizen
 explore various recent attempts to justify state authority, as well as some efforts to claim that there is no
 justification.
 
-This edited volume invites contributions from researchers engaging with contemporary discussions on this question,
-focusing on developments from the 20th century to the present. The scope of the book is limited to the Western
-philosophical tradition. 
+The chapters in this volume focus on developments from the 20th century to the present. The scope of the book is
+limited to the Western philosophical tradition.
 
 
