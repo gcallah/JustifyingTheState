@@ -1,7 +1,7 @@
 
 ========
 
-# Michael Oakeshott and the Authority of the Modern State
+# Michael Oakeshott on the Role of General Ideas and Purposes in Accounting for Authority of the Modern State
 
 W. John Coats
 

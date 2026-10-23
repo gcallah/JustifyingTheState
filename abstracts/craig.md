@@ -1,7 +1,7 @@
 
 ========
 
-# James M. Buchanan and the Limits of Liberty
+# James Buchanan on the Limits of Liberty
 
 Alexander W. Craig
 

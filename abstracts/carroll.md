@@ -1,7 +1,7 @@
 
 ========
 
-# Simmons's Justification of the State
+# Simmons’s On Justifying the State
 
 Jeff Carroll
 
