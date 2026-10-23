@@ -69,9 +69,9 @@ BANNERS = {
     "craig": ("55%", 'Gerard ter Borch, <em>The Ratification of the Treaty of '
               'M&uuml;nster</em>, 1648, National Gallery, London.',
               "Westfaelischer_Friede_in_Muenster_(Gerard_Terborch_1648).jpg"),
-    "ferrell": ("55%", 'John Trumbull, <em>Declaration of Independence</em>, '
-                '1818, United States Capitol, Washington.',
-                "Signing_of_the_Declaration_of_Independence_4K.jpg"),
+    "ferrell": ("42%", 'Gustave Dor&eacute;, <em>The Empyrean</em>, illustration '
+                'to Dante&rsquo;s <em>Paradiso</em>, Canto 31, 1868.',
+                "Paradiso_Canto_31_(no_caption).jpg"),
     "komolafe": ("50%", 'George Caleb Bingham, <em>The County Election</em>, '
                  '1851&ndash;52, Saint Louis Art Museum.',
                  "George_Caleb_Bingham_-_The_County_Election_-_44-2001_-_"
