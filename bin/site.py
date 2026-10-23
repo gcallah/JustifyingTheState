@@ -2,8 +2,9 @@
 """
 Build the GitHub Pages site for the book into docs/.
 
-Only the table of contents (toc.md), the abstracts (abstracts/*.md) and
-the bios (bios/*.md) are published; nothing else in the repo is copied.
+Only the table of contents (toc.md), the abstracts (abstracts/*.md),
+the bios (bios/*.md) and the author photos (images/<name>.jpg, optional)
+are published; nothing else in the repo is copied.
 Chapter order comes from order.txt, which must match the entries in toc.md.
 
 Usage: bin/site.py          (then commit docs/ and push)
@@ -19,6 +20,7 @@ from pathlib import Path
 TOP = Path(__file__).resolve().parent.parent
 OUT = TOP / "docs"
 ASSETS = TOP / "site"
+PHOTOS = TOP / "images"         # author photos, named like the bios
 
 SITE_TITLE = "Justifying the State"
 EDITORS = ["callahan", "komolafe"]
@@ -247,7 +249,7 @@ def build_index(entries) -> str:
 <span class="byline">{author_links(e["authors"], "")}{affil}</span></div>
 </li>""")
     editors = "\n".join(f"""<a class="editor" href="bios/{s}.html">
-<img src="images/{s}.jpg" alt="{n}">
+<img src="images/authors/{s}.jpg" alt="{n}">
 <span class="name">{n}</span>
 <span class="role">{r}</span>
 </a>""" for s, n, r in [("callahan", "Gene Callahan", "New York University"),
@@ -311,8 +313,8 @@ def build_abstract(e, prev, nxt) -> str:
 
 
 def build_bio(slug, name, affil, chapters) -> str:
-    photo = f'<img class="portrait" src="../images/{slug}.jpg" alt="{name}">' \
-        if slug in EDITORS else ""
+    photo = f'<img class="portrait" src="../images/authors/{slug}.jpg" ' \
+        f'alt="{name}">' if (PHOTOS / f"{slug}.jpg").exists() else ""
     role = '<p class="kicker">Co-editor</p>' if slug in EDITORS \
         else '<p class="kicker">Contributor</p>'
     text = md_to_html(strip_rules((TOP / "bios" / f"{slug}.md")
@@ -349,6 +351,9 @@ def main():
     (OUT / "abstracts").mkdir(parents=True)
     (OUT / "bios").mkdir()
     shutil.copytree(ASSETS / "images", OUT / "images")
+    (OUT / "images" / "authors").mkdir()
+    for photo in PHOTOS.glob("*.jpg"):
+        shutil.copy(photo, OUT / "images" / "authors")
     shutil.copy(ASSETS / "style.css", OUT / "style.css")
     (OUT / ".nojekyll").touch()
 

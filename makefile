@@ -5,6 +5,7 @@ export ADDR_DIR = ./addresses
 export BIN_DIR = ./bin
 export BIO_DIR = ./bios
 export CHAP_DIR = ./chapters
+export IMG_DIR = ./images
 export PDF_DIR = ./chap_pdfs
 export KWORD_DIR = ./keywords
 export PERM_DIR = ./permissions
@@ -99,6 +100,10 @@ missing_keywords: FORCE
 
 missing_perms: FORCE
 	$(MISSING_PROG) $(AUTHOR_FILE) $(PERM_DIR) pdf
+
+# Author photos are optional, so this isn't part of whats_missing:
+missing_images: FORCE
+	$(MISSING_PROG) $(AUTHOR_FILE) $(IMG_DIR) jpg
 
 # Proposal related targets
 prop_parts: abstracts bios toc proposal
