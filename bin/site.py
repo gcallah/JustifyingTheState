@@ -41,6 +41,68 @@ CREDITS = {
                      '_Google_Art_Project.jpg">Public domain, via Wikimedia Commons</a>.',
 }
 
+COMMONS = "https://commons.wikimedia.org/wiki/File:"
+
+# Banner art for each abstract page: slug -> (vertical focal point of the
+# crop, credit).  Images live in site/images/abstracts/<slug>.jpg; a slug
+# missing here falls back to good-government.jpg.
+BANNERS = {
+    "intro": ("40%", 'Jacques-Louis David, <em>The Death of Socrates</em>, 1787, '
+              'Metropolitan Museum of Art, New York.',
+              "Jacques-Louis_David_-_The_Death_of_Socrates_-_Google_Art_Project.jpg"),
+    "callahan": ("35%", 'Ford Madox Brown, <em>Work</em>, 1852&ndash;65, '
+                 'Manchester Art Gallery.',
+                 "Ford_Madox_Brown_-_Work_-_Google_Art_Project.jpg"),
+    "pupo": ("35%", 'Vittore Carpaccio, <em>The Vision of St Augustine</em>, '
+             '1502, Scuola di San Giorgio degli Schiavoni, Venice.',
+             "Vittore_Carpaccio_026.jpg"),
+    "karakasis": ("75%", 'Peter Paul Rubens and Frans Snyders, <em>Prometheus '
+                  'Bound</em>, c. 1611&ndash;18, Philadelphia Museum of Art.',
+                  "Peter_Paul_Rubens,_Flemish_(active_Italy,_Antwerp,_and_"
+                  "England)_-_Prometheus_Bound_-_Google_Art_Project.jpg"),
+    "green": ("50%", 'Leo von Klenze, <em>The Acropolis at Athens</em>, 1846, '
+              'Neue Pinakothek, Munich.',
+              "Akropolis_by_Leo_von_Klenze.jpg"),
+    "coats": ("42%", 'Diego Vel&aacute;zquez, <em>The Surrender of Breda</em>, '
+              'c. 1635, Museo del Prado, Madrid.',
+              "Velazquez-The_Surrender_of_Breda.jpg"),
+    "craig": ("55%", 'Gerard ter Borch, <em>The Ratification of the Treaty of '
+              'M&uuml;nster</em>, 1648, National Gallery, London.',
+              "Westfaelischer_Friede_in_Muenster_(Gerard_Terborch_1648).jpg"),
+    "ferrell": ("55%", 'John Trumbull, <em>Declaration of Independence</em>, '
+                '1818, United States Capitol, Washington.',
+                "Signing_of_the_Declaration_of_Independence_4K.jpg"),
+    "komolafe": ("50%", 'George Caleb Bingham, <em>The County Election</em>, '
+                 '1852, Saint Louis Art Museum.',
+                 "George_Caleb_Bingham_-_The_County_Election_-_44-2001_-_"
+                 "Saint_Louis_Art_Museum.jpg"),
+    "chimphambano": ("55%", 'Anicet-Charles-Gabriel Lemonnier, <em>In the Salon '
+                     'of Madame Geoffrin in 1755</em>, 1812.',
+                     "Anicet-Charles-Gabriel_Lemonnier_-_In_the_Salon_of_"
+                     "Madame_Geoffrin_in_1755_-_WGA12652.jpg"),
+    "dharamsi": ("45%", 'Luke Fildes, <em>The Doctor</em>, 1891, Tate, London.',
+                 "The_Doctor_Luke_Fildes_crop.jpg"),
+    "vallier": ("50%", 'Pieter Bruegel the Elder, <em>Netherlandish '
+                'Proverbs</em>, 1559, Gem&auml;ldegalerie, Berlin.',
+                "Pieter_Brueghel_the_Elder_-_The_Dutch_Proverbs_-_"
+                "Google_Art_Project.jpg"),
+    "carroll": ("35%", 'Jean Leon Gerome Ferris, <em>The Mayflower Compact, '
+                '1620</em>, Library of Congress.',
+                "The_Mayflower_Compact_1620_cph.3g07155.jpg"),
+    "okwenna": ("46%", 'Rembrandt van Rijn, <em>The Night Watch</em>, 1642, '
+                'Rijksmuseum, Amsterdam.',
+                "The_Nightwatch_by_Rembrandt_-_Rijksmuseum.jpg"),
+    "moschella": ("42%", 'Benozzo Gozzoli, <em>The Triumph of St Thomas '
+                  'Aquinas</em> (detail), c. 1470&ndash;75, Mus&eacute;e du '
+                  'Louvre, Paris.',
+                  "Benozzo_Gozzoli_005.jpg"),
+    "klein": ("60%", 'Alexander Nasmyth, <em>Princes Street with the '
+              'Commencement of the Building of the Royal Institution</em>, '
+              '1825, National Galleries of Scotland, Edinburgh.',
+              "Alexander_Nasmyth_-_Princes_Street_with_the_Commencement_of_"
+              "the_Building_of_the_Royal_Institution_-_Google_Art_Project.jpg"),
+}
+
 FONTS = ("https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700"
          "&family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500"
          "&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap")
@@ -68,10 +130,31 @@ def paragraphs(text: str) -> list:
     return [p for p in re.split(r"\n\s*\n", strip_rules(text).strip()) if p.strip()]
 
 
-def abstract_body(path: Path) -> str:
+def abstract_path(slug: str) -> Path:
+    """The introduction's abstract is intro.md at the top of the repo."""
+    return TOP / "intro.md" if slug == "intro" \
+        else TOP / "abstracts" / f"{slug}.md"
+
+
+def abstract_body(slug: str) -> str:
     """The abstract without its header: paragraph 1 is the title and
-    paragraph 2 the author block (which may hold an email address)."""
-    return "\n\n".join(paragraphs(path.read_text(encoding="utf-8"))[2:])
+    paragraph 2 the author block (which may hold an email address).
+    intro.md has a title but no author block."""
+    skip = 1 if slug == "intro" else 2
+    return "\n\n".join(paragraphs(abstract_path(slug)
+                                  .read_text(encoding="utf-8"))[skip:])
+
+
+def banner(slug: str) -> tuple:
+    """The banner div for an abstract page and its footer credit."""
+    if slug not in BANNERS:
+        return '<div class="banner"></div>', CREDITS["good-government.jpg"]
+    focus, credit, commons = BANNERS[slug]
+    div = (f'<div class="banner" style="background-image: url(\'../images/'
+           f'abstracts/{slug}.jpg\'); background-position: center {focus};">'
+           f'</div>')
+    return div, (f'{credit} <a href="{COMMONS}{commons}">Public domain, via '
+                 f'Wikimedia Commons</a>.')
 
 
 def slug_for(name: str) -> str:
@@ -106,7 +189,7 @@ def parse_toc():
         for name, s in authors:
             if s not in known:
                 raise SystemExit(f"toc.md author {name!r} not in authors.txt")
-        has_abstract = (TOP / "abstracts" / f"{slug}.md").exists()
+        has_abstract = abstract_path(slug).exists()
         if slug != "intro" and slug not in [s for _, s in authors]:
             raise SystemExit(f"order.txt {slug!r} doesn't match toc.md "
                              f"entry {num}: {byline}")
@@ -209,19 +292,20 @@ def build_abstract(e, prev, nxt) -> str:
     nav.append("</nav>")
     affil = f'<span class="affil">{html.escape(e["affil"])}</span>' \
         if e["affil"] else ""
-    body = f"""<div class="banner"></div>
+    art, credit = banner(e["slug"])
+    body = f"""{art}
 <main class="paper">
 <p class="kicker">Chapter {e["num"]} &middot; Abstract</p>
 <h1>{inline(e["title"])}</h1>
 <p class="byline">{author_links(e["authors"], "../")}{affil}</p>
 <div class="text">
-{md_to_html(abstract_body(TOP / "abstracts" / f"{e['slug']}.md"))}
+{md_to_html(abstract_body(e["slug"]))}
 </div>
 {chr(10).join(nav)}
 </main>"""
     plain = re.sub(r"\*", "", e["title"])
     return page(f"{html.escape(plain)} · {SITE_TITLE}", body, "../",
-                "abstract", CREDITS["good-government.jpg"])
+                "abstract", credit)
 
 
 def build_bio(slug, name, affil, chapters) -> str:
