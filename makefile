@@ -110,3 +110,7 @@ $(PROP_DIR)/prop.docx: $(PROP_DIR)/prop.md
 
 $(PROP_DIR)/palgrave.docx: $(PROP_DIR)/palgrave.md
 	pandoc -o $@ -f markdown -t docx $^
+
+# GitHub Pages site (TOC, abstracts and bios only) is built into docs/:
+site: FORCE
+	./bin/site.py

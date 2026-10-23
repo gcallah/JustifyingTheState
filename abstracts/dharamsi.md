@@ -14,5 +14,5 @@ that already apply to them. Deference enjoins us to resist testing every state
 directive, but the audit addresses important challenges to deference and tests
 each domain against citizen autonomy. We will consider pandemic responses and
 vaccination requirements, protest restrictions, and Quebec’s Bill 21. While the
-pandemic case passes the audit, both protest restrictions and Bill 21 fail**,
+pandemic case passes the audit, both protest restrictions and Bill 21 fail,
 and for different reasons.
