@@ -9,8 +9,8 @@ authority. Defending such authority requires that the state itself be justified.
 debate on political obligation is whether the state can, in fact, be justified. Philosophical anarchists challenge this
 premise, arguing that the state cannot be justified, and therefore cannot claim a moral right to demand obedience. 
 
-What grounds, if any, can be offered for the authority of the state, and citizens' duty to obey its laws? We will
-explore various recent attempts to justify state authority, as well as some efforts to claim that there is no
+What grounds, if any, can be offered for the authority of the state, and citizens' duty to obey its laws? This volume
+explores various recent attempts to justify state authority, as well as some efforts to claim that there is no
 justification.
 
 The chapters in this volume focus on developments from the 20th century to the present. The scope of the book is
