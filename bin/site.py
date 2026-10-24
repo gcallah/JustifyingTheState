@@ -249,7 +249,7 @@ def build_index(entries) -> str:
 <span class="byline">{author_links(e["authors"], "")}{affil}</span></div>
 </li>""")
     editors = "\n".join(f"""<a class="editor" href="bios/{s}.html">
-<img src="images/authors/{s}.jpg" alt="{n}">
+<img src="images/{s}.jpg" alt="{n}">
 <span class="name">{n}</span>
 <span class="role">{r}</span>
 </a>""" for s, n, r in [("callahan", "Gene Callahan", "New York University"),
@@ -313,7 +313,7 @@ def build_abstract(e, prev, nxt) -> str:
 
 
 def build_bio(slug, name, affil, chapters) -> str:
-    photo = f'<img class="portrait" src="../images/authors/{slug}.jpg" ' \
+    photo = f'<img class="portrait" src="../images/{slug}.jpg" ' \
         f'alt="{name}">' if (PHOTOS / f"{slug}.jpg").exists() else ""
     role = '<p class="kicker">Co-editor</p>' if slug in EDITORS \
         else '<p class="kicker">Contributor</p>'
@@ -351,9 +351,8 @@ def main():
     (OUT / "abstracts").mkdir(parents=True)
     (OUT / "bios").mkdir()
     shutil.copytree(ASSETS / "images", OUT / "images")
-    (OUT / "images" / "authors").mkdir()
     for photo in PHOTOS.glob("*.jpg"):
-        shutil.copy(photo, OUT / "images" / "authors")
+        shutil.copy(photo, OUT / "images")
     shutil.copy(ASSETS / "style.css", OUT / "style.css")
     (OUT / ".nojekyll").touch()
 

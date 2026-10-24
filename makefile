@@ -30,6 +30,8 @@ $(ARCH_FILE): FORCE
 	$(ARCH_PROG) -r $(ARCH_FILE) $(PUB_DIR)/*
 
 github:
+	# add new files (e.g. author photos) the site build created:
+	git add docs images
 	# - means ignore errors on commit
 	-git commit -a
 	git push origin main
